@@ -400,6 +400,28 @@ Size: 5283
 SHA256sum: 3df043e5611e0e51cac9830f55dd8bd317aaa2314da09389960028c3d2b85e71
 Description:  VPN daemon for gl-inet.
 
+Package: gl-ui-n300
+Version: 3.0.412-1
+Depends: libc
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 1800868
+Filename: gl-ui-n300_3.0.412-1_mipsel_24kc.ipk
+Size: 1797278
+SHA256sum: d49daa61e5666268bd7e678a71d2809564f24c7829a498873d52c76d27c39e39
+Description:  GL iNet web UI
+
+Package: gl-ui-vixmini
+Version: 3.0.415-1
+Depends: libc
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 1799390
+Filename: gl-ui-vixmini_3.0.415-1_mipsel_24kc.ipk
+Size: 1795613
+SHA256sum: 6e1eda7e018d2f3b5a5e168ae6e474ea551d1f903910023d6432b6980aff6bb5
+Description:  GL iNet web UI
+
 Package: gl-ui
 Version: 3.0.611-1
 Depends: libc
