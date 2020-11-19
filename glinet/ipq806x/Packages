@@ -1,0 +1,609 @@
+Package: AdGuardHome
+Version: 0.103.3-1
+Depends: libc
+Section: net
+Architecture: ipq806x
+Installed-Size: 6841955
+Filename: AdGuardHome_0.103.3-1_ipq806x.ipk
+Size: 6837643
+MD5Sum: 3034b2f448125f75c69fa016ec5e62ef
+SHA256sum: 116afdb1d414c30e1bab055fe3714c5935e6f45262d4cbbf8ac6ad18abede51d
+Description:  AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up,
+ it'll cover ALL your home devices, and you don't need any client-side software for that.
+
+Package: gl-agh-stats
+Version: 3.0.3-1
+Depends: libc, libjson-c, gl-util, AdGuardHome
+Section: base
+Architecture: ipq806x
+Installed-Size: 229182
+Filename: gl-agh-stats_3.0.3-1_ipq806x.ipk
+Size: 230049
+MD5Sum: 9ff74de7e47e5ea7457b0f68b914ffd0
+SHA256sum: c853c3c5c65bd0962c92991ada0405e5cae4926b6be56247c67daa6a74f74d65
+Description:  AdGuardHome Stats
+
+Package: gl-base-files-a53
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 21348
+Filename: gl-base-files-a53_3.0.383-1_ipq806x.ipk
+Size: 22190
+MD5Sum: 1a9b1634efd6f44e0009d75c8763525e
+SHA256sum: fadad9602a0918e7ea50b358508d2af683c08e23c31a480b64b3830b8a41cc2e
+Description:  GL iNet base files
+
+Package: gl-base-files-ar
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 7656
+Filename: gl-base-files-ar_3.0.383-1_ipq806x.ipk
+Size: 8387
+MD5Sum: 2f0b2f758f12e5af754ff3b811f35ea0
+SHA256sum: 05b3a481b7e5f42ef4c6068b6c6ae2f8ff1cb6580756e2989cd21cf87ba4b612
+Description:  GL iNet base files
+
+Package: gl-base-files-e750
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 1040
+Filename: gl-base-files-e750_3.0.383-1_ipq806x.ipk
+Size: 1776
+MD5Sum: 9fa54065f798c2da72215a6350f220d9
+SHA256sum: 75e92853c5213c68a289e69c3638c77f59824d81f9adfd4e14f2cab3afbdad8d
+Description:  GL iNet base files
+
+Package: gl-base-files-ipq
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 36981
+Filename: gl-base-files-ipq_3.0.383-1_ipq806x.ipk
+Size: 37665
+MD5Sum: 58c19af784245204e5eeca13bc77c34c
+SHA256sum: cfd81bb968e366909ccf026038879b80bd589d821664708d41f8bbc5da477e68
+Description:  GL iNet base files
+
+Package: gl-base-files-mt
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 4454
+Filename: gl-base-files-mt_3.0.383-1_ipq806x.ipk
+Size: 5176
+MD5Sum: b26bb2afb182e0972e7153a162f10642
+SHA256sum: f066e6adbcfc9dfe5a6edbb913a3af2d1463b4d4c1011277f7cb91039eb0079f
+Description:  GL iNet base files
+
+Package: gl-base-files-x1200
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 3008
+Filename: gl-base-files-x1200_3.0.383-1_ipq806x.ipk
+Size: 3715
+MD5Sum: 9de9ea7ab1784174561a73654cec3cc2
+SHA256sum: c3a26d066d19d453809a71a4aa5973af42e45b26c902f2155162e8adfbd7cb1d
+Description:  GL iNet base files
+
+Package: gl-base-files-x300b
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 4444
+Filename: gl-base-files-x300b_3.0.383-1_ipq806x.ipk
+Size: 5131
+MD5Sum: 6f7467bfe1520d88a4e00744c8824633
+SHA256sum: 9bf5c5f6719a1fb98fd2553e0dbc1cc0544f1c2db49c9898f67a4315fb55dc4a
+Description:  GL iNet base files
+
+Package: gl-base-files
+Version: 3.0.383-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 45947
+Filename: gl-base-files_3.0.383-1_ipq806x.ipk
+Size: 46742
+MD5Sum: 9d94be6984597517027f50636f34aee3
+SHA256sum: f20de7a20cf0d9187057d1c9660dd562227c7d757b78334f3ed6cd7d205b73dd
+Description:  GL iNet base files
+
+Package: gl-ble-api
+Version: 3.0.18-1
+Depends: libc, libjson-c
+Section: base
+Architecture: ipq806x
+Installed-Size: 15645
+Filename: gl-ble-api_3.0.18-1_ipq806x.ipk
+Size: 16326
+MD5Sum: 075bfd83dd93075770d1fe528adc2ae9
+SHA256sum: 90513ffa98c85a7ec2a5d3a73b6c696a911ef0dda73058970b1dda5e017ae9f9
+Description:  GL iNet BLE api
+
+Package: gl-ble-daemon
+Version: 3.0.19-1
+Depends: libc, libpthread, libjson-c, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 12974
+Filename: gl-ble-daemon_3.0.19-1_ipq806x.ipk
+Size: 13711
+MD5Sum: 2793e360c3f500f6002104ecfa28d18b
+SHA256sum: 2fc1f25d85168608d8f518740ca8769bd2b5c69b74ea1dbd796d6fbe0b7522f6
+Description:  GL inet BLE plugin
+
+Package: gl-bletool
+Version: 3.2.0
+Depends: libc, libubox, libubus, libjson-c, libblobmsg-json, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 21900
+Filename: gl-bletool_3.2.0_ipq806x.ipk
+Size: 22620
+MD5Sum: 4ddfd6754d474ab0138f1679b559333e
+SHA256sum: 23490807f7ddf8e315224303b9f6b3ecf1ba346f11a260182283fc5d3b82dab6
+Description:  GL inet BLE driver
+
+Package: gl-cloud-ui
+Version: 3.0.22-1
+Depends: libc, gl-util, libjson-c, gl-mqtt, gl-ddns
+Section: base
+Architecture: ipq806x
+Installed-Size: 8902
+Filename: gl-cloud-ui_3.0.22-1_ipq806x.ipk
+Size: 9822
+MD5Sum: 7d9b762eff5236d40462260add0e853d
+SHA256sum: 373089cf410a0e347700b2f0b29f187f09131bc7d1c54ebff2e4e098cb8f1cd2
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-crond
+Version: 3.0.4-1
+Depends: libc, libubox, libubus, libjson-c, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 5578
+Filename: gl-crond_3.0.4-1_ipq806x.ipk
+Size: 6422
+MD5Sum: fda60ab3b983c6c2abdc7558246eb0b8
+SHA256sum: 0ca72000c8697483e5b9ded9317fedce58ef5ad0b9cc21ce99d486f104cf8f90
+Description:  A framework for timing task, you can register or unregister their task to this
+ framework via ubus. Task can be written in shell or C, you just need to write 
+ task, glcrond will dispatch your task regularly when you register to it.
+
+Package: gl-ddns
+Version: 3.0.22-1
+Depends: libc, libjson-c, gl-util, ddns-scripts
+Section: base
+Architecture: ipq806x
+Installed-Size: 17636
+Filename: gl-ddns_3.0.22-1_ipq806x.ipk
+Size: 18548
+MD5Sum: ab46ba9a21dabf1d4ae38491dc0fe715
+SHA256sum: 7b34261c7fe07a960e20685db5d2f77048ce7380b1c8bdccf6443316e83a7720
+Description:  glddns api for gl-inet.
+
+Package: gl-files-brower
+Version: 3.0.8-1
+Depends: libc, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 3601
+Filename: gl-files-brower_3.0.8-1_ipq806x.ipk
+Size: 4316
+MD5Sum: 9fc122c96257e647a3b285c17083f192
+SHA256sum: 67e1523177288a4fb3d78cacd115e69d9e2f1fb5e92d58b6f6de45ef77bd6064
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-firewall
+Version: 3.0.5-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 726
+Filename: gl-firewall_3.0.5-1_ipq806x.ipk
+Size: 1436
+MD5Sum: c6fc7995477c53f5f6ee6b01871377af
+SHA256sum: bc068a78d627b34a4da17dc61d0eb59c9806d02373049ed3628a9de4fb509556
+Description:  GL iNet firewall
+
+Package: gl-fw
+Version: 3.0.25-1
+Depends: libc, iptables, ip-full, gl-util, libuci
+Section: base
+Architecture: ipq806x
+Installed-Size: 7453
+Filename: gl-fw_3.0.25-1_ipq806x.ipk
+Size: 8365
+MD5Sum: 607b936053d98dfe110e292dbda26e11
+SHA256sum: 01754402d0e7fc43f5684c18a3a0ffeba7ac56d8eb0b39c9528160e70452e0a1
+Description:  This service allows open port and port forwarding.
+
+Package: gl-gps
+Version: 3.0.15-1
+Depends: libc, gl-util, libjson-c
+Section: base
+Architecture: ipq806x
+Installed-Size: 8315
+Filename: gl-gps_3.0.15-1_ipq806x.ipk
+Size: 9015
+MD5Sum: cfe247777c17d071390cf0911a833fa9
+SHA256sum: d15ccdaef065c331f64b3c91611f2f84f7ae5114e796d391cd70e476e30837a2
+Description:  Get GPS data.
+
+Package: gl-ipv6
+Version: 3.0.9-1
+Depends: libc, gl-util, kmod-ipt-nat6
+Section: base
+Architecture: ipq806x
+Installed-Size: 21573
+Filename: gl-ipv6_3.0.9-1_ipq806x.ipk
+Size: 22281
+MD5Sum: b56a576ff2721c529a7a54cdda34fb62
+SHA256sum: 4a7da6cc1a4a49b651f0d6bdc0e6ec96f7b1b419830408fcd156655ab4d0b69d
+Description:  ipv6 function for gl-inet.
+
+Package: gl-modem
+Version: 3.0.131-1
+Depends: libc, libpthread, libuci, libubus, libblobmsg-json, libubox, smstools3, gl-util, libiconv-full
+Section: base
+Architecture: ipq806x
+Installed-Size: 154482
+Filename: gl-modem_3.0.131-1_ipq806x.ipk
+Size: 154492
+MD5Sum: ad147ec193d899687169f14df76297fd
+SHA256sum: 894cb3b9e0a0cd3c2785d435e4dd17a6b54566b317965b2d18a8db49c963d1f7
+Description:  GL iNet modem manager
+
+Package: gl-monitor
+Version: 3.0.112-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 6899
+Filename: gl-monitor_3.0.112-1_ipq806x.ipk
+Size: 7651
+MD5Sum: 78ec56cda856aa60d53a37ae7fb2a1bd
+SHA256sum: 9e44f480e2a14ffad08c8d1d16b0c0f8b2540ac5454666ca5696a672431be517
+Description:  gl-monitor
+
+Package: gl-mqtt
+Version: 3.1.12-1
+Depends: libc, libpthread, mqtt, libcurl, libjson-c, gl-util, gl-wifi-core
+Section: base
+Architecture: ipq806x
+Installed-Size: 37026
+Filename: gl-mqtt_3.1.12-1_ipq806x.ipk
+Size: 37448
+MD5Sum: fb776dd2a5cacb95e2d217976bea162f
+SHA256sum: 8c896acd19fceec1a1a427d8276c108729a589f04c1d98ded2a721ec1e97eea5
+Description:  MQTT common libary
+
+Package: gl-portal
+Version: 3.0.24-1
+Depends: libc, libjson-c, gl-util, nodogsplash
+Section: base
+Architecture: ipq806x
+Installed-Size: 87713
+Filename: gl-portal_3.0.24-1_ipq806x.ipk
+Size: 88806
+MD5Sum: fb478a0855216384ac919b17a4d8481b
+SHA256sum: 0d244d6597f69a53f6726c7ea72825567e4d677fee637659587b8a78afdea0cd
+Description:  glportal api for gl-inet.
+
+Package: gl-qos-internal
+Version: 3.0.35-1
+Depends: libc, gl-util, libjson-c, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Section: base
+Architecture: ipq806x
+Installed-Size: 6636
+Filename: gl-qos-internal_3.0.35-1_ipq806x.ipk
+Size: 7451
+MD5Sum: c3b27962937cb6ca3b4d10bf8ab4dc4b
+SHA256sum: 177c3bd42ffd34026a1a525bdb870a81c66efab43d7e4d8e0ba12f882437b908
+Description:  GL iNet Qos Function
+
+Package: gl-qos
+Version: 3.0.35-1
+Depends: libc, gl-util, libjson-c, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Section: base
+Architecture: ipq806x
+Installed-Size: 34572
+Filename: gl-qos_3.0.35-1_ipq806x.ipk
+Size: 35728
+MD5Sum: f967f63699e73c6be8336ad6476ec3fe
+SHA256sum: cfa2126a243389c1ef5f636c45503af04f1862abc6f4b6bd70bb9bcc4cfa5147
+Description:  GL iNet Qos Function
+
+Package: gl-repeater
+Version: 3.1.8-1
+Depends: libc, libubus, gl-util, gl-wifi-core, libpthread
+Section: base
+Architecture: ipq806x
+Installed-Size: 4019
+Filename: gl-repeater_3.1.8-1_ipq806x.ipk
+Size: 4734
+MD5Sum: 74c8178f339762c889d411b83f7e9de2
+SHA256sum: a2652eeb4245e8e005d080259765a0bf84c1d7542b3f57b7bd3086ad420e7c43
+Description:  GL Health
+
+Package: gl-route-policy
+Version: 3.0.43-1
+Depends: libc, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 11192
+Filename: gl-route-policy_3.0.43-1_ipq806x.ipk
+Size: 11908
+MD5Sum: b280210b8954be19b44d663d0d8abf7c
+SHA256sum: 52666cc11122a2dd2387e578177a5be7aa2d62aced7247e15f9ef0db531bfd1f
+Description:  GL route policy
+
+Package: gl-rs485
+Version: 1.2.1-1
+Depends: libc, libblobmsg-json, gl-util, libuci, libjson-c, mqtt
+Section: base
+Architecture: ipq806x
+Installed-Size: 26454
+Filename: gl-rs485_1.2.1-1_ipq806x.ipk
+Size: 27097
+MD5Sum: 075f32f3dbfce0a6ce6d4d13d86e4ee4
+SHA256sum: 5b875a0648e395adede003cecb4148822d8f719475f43e1e0bec55188fa78dab
+Description:  gl rs485 for gl-inet.
+
+Package: gl-s2s
+Version: 1.0.24-1
+Depends: libc, wireguard, libjson-c, libubox, libubus, gl-util, gl-crond
+Section: base
+Architecture: ipq806x
+Installed-Size: 14897
+Filename: gl-s2s_1.0.24-1_ipq806x.ipk
+Size: 15728
+MD5Sum: 452998350b51efc9eccf5ee8b392dc26
+SHA256sum: db61a0aa9d9494f15988fa59e81e1356768e68a709606eba672d67246270edf8
+Description:  It is the Site to Site API for GL.iNet. 
+
+Package: gl-sdk
+Version: 3.0.537-1
+Depends: libc, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Section: base
+Architecture: ipq806x
+Installed-Size: 236062
+Filename: gl-sdk_3.0.537-1_ipq806x.ipk
+Size: 235926
+MD5Sum: 9736f3d55e9534803e609a34851fd276
+SHA256sum: 252343a5a41f8bbfb00d0118d7902572371fe876f37488db866d33ea3e2065fc
+Description:  GL.iNet SDK3.0.
+
+Package: gl-software
+Version: 3.0.26-1
+Depends: libc, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 5431
+Filename: gl-software_3.0.26-1_ipq806x.ipk
+Size: 6110
+MD5Sum: 293910e94099003cdb023f06a1f4c2f3
+SHA256sum: 26cb52e0aba2183b7c61d0181e99b962f6721fbf1a7965f449b510778fecb905
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-tertf
+Version: 4.0.22-1
+Depends: libc, libiwinfo, gl-util, libjson-c, libsqlite3, gl-traffic, ebtables
+Section: base
+Architecture: ipq806x
+Installed-Size: 406812
+Filename: gl-tertf_4.0.22-1_ipq806x.ipk
+Size: 407742
+MD5Sum: a73d0543b610ea6ee845dca6ac4a80d8
+SHA256sum: 696725b1a0629f00fb040ca9845d264227fbcad3b70d839da14925d95c473d8b
+Description:  Terminal traffic.
+
+Package: gl-tor
+Version: 3.1.2-1
+Depends: libc, tor, tor-geoip, libjson-c, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 3907
+Filename: gl-tor_3.1.2-1_ipq806x.ipk
+Size: 4644
+MD5Sum: 2215de1e5558e54ad397360430adb9ad
+SHA256sum: 117017d10da4a86f8e484aafc371302d62aec6daa501c4da3e0ded42c63b889c
+Description:  GL iNet tor interface
+
+Package: gl-traffic
+Version: 1.0.3-1
+Depends: libc, libpcap, libpthread
+Section: gl-inet
+Architecture: ipq806x
+Installed-Size: 6033
+Filename: gl-traffic_1.0.3-1_ipq806x.ipk
+Size: 6894
+MD5Sum: 42bd9ae5f430df7bb760065dfd398fd4
+SHA256sum: 210294f8ecdfe62f8adcb0c49254e441f67028de082d4c55a374420509e2d421
+Description:  iftop does for network usage what top(1) does for CPU usage. It 
+ listens to network traffic on a named interface and displays a 
+ table of current bandwidth usage by pairs of hosts. Handy for 
+ answering the question 'why is our ADSL link so slow?'.
+
+Package: gl-uart
+Version: 3.0.9-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 4143
+Filename: gl-uart_3.0.9-1_ipq806x.ipk
+Size: 4827
+MD5Sum: 30e9900015c8db7f3ad8d0392e85fb71
+SHA256sum: 72b907c1a3c756f85c96eab2fc73a1640950010c23e790efe08179edfc8ceb6d
+Description:  VPN daemon for gl-inet.
+
+Package: gl-ui
+Version: 3.0.611-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 2053500
+Filename: gl-ui_3.0.611-1_ipq806x.ipk
+Size: 2049560
+MD5Sum: c72d163a72118d26f7c7674470da9b50
+SHA256sum: bbae076c4f16c985343f7be23bae9b81daf015b678a73e1f06e7f4271d774217
+Description:  GL iNet web UI
+
+Package: gl-upload
+Version: 1.0.35-1
+Depends: libc, libuci, libjson-c, libiwinfo, gl-util, libcurl
+Section: base
+Architecture: ipq806x
+Installed-Size: 12636
+Filename: gl-upload_1.0.35-1_ipq806x.ipk
+Size: 13393
+MD5Sum: 3508968f18659190396ea5277dfb5df3
+SHA256sum: 1b0bc04f037c6447b4c46e829e62d9c6575a02579894c60c00d2b8efbf6f3a44
+Description:  GL.iNet SDK3.0.
+
+Package: gl-util
+Version: 3.0.197-1
+Depends: libc, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
+Section: base
+Architecture: ipq806x
+Installed-Size: 34685
+Filename: gl-util_3.0.197-1_ipq806x.ipk
+Size: 35369
+MD5Sum: c8bc20d8f55498d1768ee367ea19f930
+SHA256sum: b951a5815c8098164a7d6d2e926b7f0687ded47267a93953873e194f0c6b4e7d
+Description:  GL.iNet SDK3.0.
+
+Package: gl-vpn-server
+Version: 3.0.105-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Section: base
+Architecture: ipq806x
+Installed-Size: 10800
+Filename: gl-vpn-server_3.0.105-1_ipq806x.ipk
+Size: 11636
+MD5Sum: b7d8a0a929747389797ed02215fffe9b
+SHA256sum: be205e2084ab33d9ad833ea0663aa3f7f4adee8e26faabcc1d566f5670718af8
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-vpn
+Version: 3.0.105-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Section: base
+Architecture: ipq806x
+Installed-Size: 18118
+Filename: gl-vpn_3.0.105-1_ipq806x.ipk
+Size: 18901
+MD5Sum: 848328dec03a343d6206862d0b48aa17
+SHA256sum: 5f6dc35bc845f912dd8185610e142749ce11da28f65262b981b4217a8c1810c7
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-wan-detect
+Version: 3.0.1-1
+Depends: libc
+Section: base
+Architecture: ipq806x
+Installed-Size: 11653
+Filename: gl-wan-detect_3.0.1-1_ipq806x.ipk
+Size: 12294
+MD5Sum: 84ac3b77122974a8709972e2bc40d154
+SHA256sum: 3bf6edeaeb14d180f3d11210993a3d2de7751e353ecc081c559794bda8d4f5a5
+Description:  GL Auto Detect Wan Type
+
+Package: gl-wg-server
+Version: 3.0.77-1
+Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Section: base
+Architecture: ipq806x
+Installed-Size: 15739
+Filename: gl-wg-server_3.0.77-1_ipq806x.ipk
+Size: 16577
+MD5Sum: 0f5648ac578b47a3a4be8fd4a9c481d7
+SHA256sum: e81d4a59903ab25d71ae2d10b26731145f54f34a3f394be472abb8437594c4c4
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wg
+Version: 3.0.77-1
+Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Section: base
+Architecture: ipq806x
+Installed-Size: 22314
+Filename: gl-wg_3.0.77-1_ipq806x.ipk
+Size: 23226
+MD5Sum: 940c861a141920785a54d1e57cb82b4e
+SHA256sum: 85281768ebd72be43a916a1bf305577030160fe81b3746948ee33c6a2daac3b3
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wifi-core
+Version: 3.0.185-1
+Depends: libc, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 25514
+Filename: gl-wifi-core_3.0.185-1_ipq806x.ipk
+Size: 26069
+MD5Sum: fef132667edd6c9acc57beca00aea90b
+SHA256sum: 1b5b88d2040b9590b224c7e8d78f3b30b591671b7ebc23944b6fd879bc869316
+Description:  
+
+Package: gl-wifison
+Version: 3.0.77-1
+Depends: libc, qca-whc-repacd, qca-hyd, qca-wpa-cli, qca-hostapd-cli, gl-util, gl-base-files
+Section: glinet
+Architecture: ipq806x
+Installed-Size: 58553
+Filename: gl-wifison_3.0.77-1_ipq806x.ipk
+Size: 59504
+MD5Sum: cbd203635ef37b856bf2087e71fabcd8
+SHA256sum: 101404ad1d3230b1474202768cd2fa94be8128d0908ae1b4f68f08e6ac876f49
+Description:  wifi son setting api and scripts.
+
+Package: gl-xe300-mcu
+Version: 3.0.3-1
+Depends: libc, libjson-c, gl-util
+Section: base
+Architecture: ipq806x
+Installed-Size: 6958
+Filename: gl-xe300-mcu_3.0.3-1_ipq806x.ipk
+Size: 7730
+MD5Sum: 4a407cb06cdb9e28895193aa946d45d5
+SHA256sum: df2396dfce52af70bb7a26d9a1803c11fa6f54fc705ea0de82cec2b5a4856466
+Description:  gl XE300 mcu data interface for gl-inet.
+
+Package: gl-xwf
+Version: 1.0.10-1
+Depends: libc, kmod-veth, openvswitch, libjson-c, gl-util, tcpdump-mini, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree
+Section: base
+Architecture: ipq806x
+Installed-Size: 8573
+Filename: gl-xwf_1.0.10-1_ipq806x.ipk
+Size: 9390
+MD5Sum: d7a0787db05abcf78638378296eed62a
+SHA256sum: 5588b1b09efe9531ac38e4d92c7579576b798ce2b16ea544c0cfbadc61159791
+Description:  OVS AP initialisation for XWF integration
+
+Package: rtty-openssl
+Version: 7.1.1-10
+Depends: libc, libev, libopenssl
+Provides: rtty
+License: MIT
+Section: utils
+Architecture: ipq806x
+Installed-Size: 16421
+Filename: rtty-openssl_7.1.1-10_ipq806x.ipk
+Size: 17180
+MD5Sum: 7b97effc8b09a17d3a18b59d0957b931
+SHA256sum: 56a159d0dd7021919ccfe0306cf37c9e5b7793d954fc0c636997909cb6d945c9
+Description:  Access your terminals from anywhere via the web
+

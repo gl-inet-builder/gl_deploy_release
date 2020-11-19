@@ -1,0 +1,727 @@
+Package: gl-adblock
+Version: 3.0.1-1
+Depends: libc, adblock, libjson-c5, gl-util
+Source: /home/luo/openwrt-gl/package/gli-pri/gl-adblock
+SourceName: gl-adblock
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3103
+Filename: gl-adblock_3.0.1-1_mips_24kc.ipk
+Size: 3806
+SHA256sum: 791f9b4271776a50290de5d2fc65011e95fb379a1ffa398959f983bf15fc5507
+Description:  GL iNet adblock interface
+
+Package: gl-agh-stats
+Version: 3.0.3-1
+Depends: libc, libjson-c5, gl-util, AdGuardHome
+Source: /home/luo/openwrt-gl/package/gli-pri/adguardhome
+SourceName: gl-agh-stats
+Section: base
+Architecture: mips_24kc
+Installed-Size: 229204
+Filename: gl-agh-stats_3.0.3-1_mips_24kc.ipk
+Size: 230054
+SHA256sum: 78c45ee74e83e5f3be84e0673abf29c8622dbb93b2a7c7fe20d41c8b07e5e14c
+Description:  AdGuardHome Stats
+
+Package: gl-autoupkg
+Version: 3.0.8-1
+Depends: libc, gl-util, libjson-c5
+Source: /home/luo/openwrt-gl/package/gli-pri/gl-autoupkg
+SourceName: gl-autoupkg
+Section: base
+Architecture: mips_24kc
+Installed-Size: 5280
+Filename: gl-autoupkg_3.0.8-1_mips_24kc.ipk
+Size: 6030
+SHA256sum: 75dbdc58ecd7a59661862e4e9916ee073f0ce5cde022af9b5bd9e4bf16d4ee80
+Description:  It is used for reinstall user installed packages automatically when upgrading.
+
+Package: gl-base-files-a53
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-a53
+Section: base
+Architecture: mips_24kc
+Installed-Size: 20977
+Filename: gl-base-files-a53_3.0.378-1_mips_24kc.ipk
+Size: 21795
+SHA256sum: 1e6d915c04ebd9d2e0463ac1f4735cdf73873b486cf8c48cdf336e7678a7a5f2
+Description:  GL iNet base files
+
+Package: gl-base-files-ar
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-ar
+Section: base
+Architecture: mips_24kc
+Installed-Size: 6752
+Filename: gl-base-files-ar_3.0.378-1_mips_24kc.ipk
+Size: 7486
+SHA256sum: b688d27601beebe64fc968c4b0a8a0e78b38c222d30c3842de28a02ad27cdb31
+Description:  GL iNet base files
+
+Package: gl-base-files-e750
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-e750
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1057
+Filename: gl-base-files-e750_3.0.378-1_mips_24kc.ipk
+Size: 1764
+SHA256sum: 5f9652f429bb253bc98c01c60af1a6d79abd0f27e9a47532bd0d9c6f10f46e90
+Description:  GL iNet base files
+
+Package: gl-base-files-ipq
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-ipq
+Section: base
+Architecture: mips_24kc
+Installed-Size: 36735
+Filename: gl-base-files-ipq_3.0.378-1_mips_24kc.ipk
+Size: 37469
+SHA256sum: de81619ebfee105161871e2e894dfd9d8874cb009767171f6c2dc366e515f4e5
+Description:  GL iNet base files
+
+Package: gl-base-files-mt
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-mt
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9508
+Filename: gl-base-files-mt_3.0.378-1_mips_24kc.ipk
+Size: 10192
+SHA256sum: 639d71c78c399f1010f3902baad306209e6d8900153772494b4fae3518259639
+Description:  GL iNet base files
+
+Package: gl-base-files-x1200
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-x1200
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3037
+Filename: gl-base-files-x1200_3.0.378-1_mips_24kc.ipk
+Size: 3719
+SHA256sum: 788fcdc3444497c407164a938dd3e0ca21875353aa510777342d89b84c323b9f
+Description:  GL iNet base files
+
+Package: gl-base-files-x300b
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files-x300b
+Section: base
+Architecture: mips_24kc
+Installed-Size: 4470
+Filename: gl-base-files-x300b_3.0.378-1_mips_24kc.ipk
+Size: 5137
+SHA256sum: 188aefacc30a6a61b7216e985f423f16ffdda1a334271219b6dd94a7abd7a4af
+Description:  GL iNet base files
+
+Package: gl-base-files
+Version: 3.0.378-1
+Depends: libc
+Source: package/gli-pri/gl-base-files
+SourceName: gl-base-files
+Section: base
+Architecture: mips_24kc
+Installed-Size: 46913
+Filename: gl-base-files_3.0.378-1_mips_24kc.ipk
+Size: 47689
+SHA256sum: d121ff412ac85b5595a9a718db44639df0e1c2fb339e4294fd0b4bbd428ee96b
+Description:  GL iNet base files
+
+Package: gl-ble-api
+Version: 3.0.18-1
+Depends: libc, libjson-c5
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-ble-packages/gl-ble-api
+SourceName: gl-ble-api
+Section: base
+Architecture: mips_24kc
+Installed-Size: 15506
+Filename: gl-ble-api_3.0.18-1_mips_24kc.ipk
+Size: 16216
+SHA256sum: e7169432af47865029f11cce50bf0c32f11dfcb54ae58608c69010873fcdba98
+Description:  GL iNet BLE api
+
+Package: gl-ble-daemon
+Version: 3.0.19-1
+Depends: libc, libpthread, libjson-c5, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-ble-packages/gl-ble-daemon
+SourceName: gl-ble-daemon
+Section: base
+Architecture: mips_24kc
+Installed-Size: 12091
+Filename: gl-ble-daemon_3.0.19-1_mips_24kc.ipk
+Size: 12843
+SHA256sum: fed9b3581f0d1575287bb2c26218113c4b0336680ad1d1cfe664ed99d0955907
+Description:  GL inet BLE plugin
+
+Package: gl-bletool
+Version: 3.2.0
+Depends: libc, libubox20191228, libubus20191227, libjson-c5, libblobmsg-json, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-ble
+SourceName: gl-bletool
+Section: base
+Architecture: mips_24kc
+Installed-Size: 20974
+Filename: gl-bletool_3.2.0_mips_24kc.ipk
+Size: 21715
+SHA256sum: a2e3895fdc933d8c7a85fb2a71e001c52e8b2aa2d0322081e37988d6b24b3ae2
+Description:  GL inet BLE driver
+
+Package: gl-cloud-ui
+Version: 3.0.22-1
+Depends: libc, gl-util, libjson-c5, gl-mqtt, gl-ddns
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-cloud-ui
+SourceName: gl-cloud-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 8860
+Filename: gl-cloud-ui_3.0.22-1_mips_24kc.ipk
+Size: 9796
+SHA256sum: f4d2eeced1067d672a0f7552fac55933c5128a0ce9397a6efd8858a29e958e0a
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-crond
+Version: 3.0.4-1
+Depends: libc, libubox20191228, libubus20191227, libjson-c5, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-crond
+SourceName: gl-crond
+Section: base
+Architecture: mips_24kc
+Installed-Size: 5553
+Filename: gl-crond_3.0.4-1_mips_24kc.ipk
+Size: 6414
+SHA256sum: abb750f35529e3a66b9981fd5e984c3503f32faa0e9c20085fd5f91597a9ca3a
+Description:  A framework for timing task, you can register or unregister their task to this
+ framework via ubus. Task can be written in shell or C, you just need to write 
+ task, glcrond will dispatch your task regularly when you register to it.
+
+Package: gl-ddns
+Version: 3.0.22-1
+Depends: libc, libjson-c5, gl-util, ddns-scripts
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-ddns
+SourceName: gl-ddns
+Section: base
+Architecture: mips_24kc
+Installed-Size: 17893
+Filename: gl-ddns_3.0.22-1_mips_24kc.ipk
+Size: 18819
+SHA256sum: 327482c1db6ef35a49417ddcc82517d94d64aea804757d32735a7971cbf5324d
+Description:  glddns api for gl-inet.
+
+Package: gl-e750-mcu
+Version: 3.0.50-1
+Depends: libc, libjson-c5, gl-util, gl-modem, libpthread, gl-sdk
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-e750-product/gl-e750-mcu
+SourceName: gl-e750-mcu
+Section: base
+Architecture: mips_24kc
+Installed-Size: 14854
+Filename: gl-e750-mcu_3.0.50-1_mips_24kc.ipk
+Size: 15519
+SHA256sum: 27ad9b22c469b0ad3da88c1327bf34c310c8ace01dfc4c2ac0188321711663b8
+Description:  gl mcu data interface for gl-inet.
+
+Package: gl-files-brower
+Version: 3.0.8-1
+Depends: libc, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-files-brower
+SourceName: gl-files-brower
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3459
+Filename: gl-files-brower_3.0.8-1_mips_24kc.ipk
+Size: 4184
+SHA256sum: df2d38dbc3341649175b723e64a2bfc8027afbf6468090494e3d1924e16b804a
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-firewall
+Version: 3.0.5-1
+Depends: libc
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-firewall
+SourceName: gl-firewall
+Section: base
+Architecture: mips_24kc
+Installed-Size: 726
+Filename: gl-firewall_3.0.5-1_mips_24kc.ipk
+Size: 1437
+SHA256sum: 6e859a1f899acd64440c8be6c7d681fba0458a70af97643599d22613c25aaee6
+Description:  GL iNet firewall
+
+Package: gl-fw
+Version: 3.0.25-1
+Depends: libc, iptables, ip-full, gl-util, libuci20130104
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-fw
+SourceName: gl-fw
+Section: base
+Architecture: mips_24kc
+Installed-Size: 7522
+Filename: gl-fw_3.0.25-1_mips_24kc.ipk
+Size: 8448
+SHA256sum: f02093ed8170d5a9b469dcd7844db2e4eb3d7ca0401ea43b7f72e82e642d5479
+Description:  This service allows open port and port forwarding.
+
+Package: gl-gps
+Version: 3.0.15-1
+Depends: libc, gl-util, libjson-c5
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-x1200-product/gl-x1200-gps
+SourceName: gl-gps
+Section: base
+Architecture: mips_24kc
+Installed-Size: 8540
+Filename: gl-gps_3.0.15-1_mips_24kc.ipk
+Size: 9265
+SHA256sum: 525c68868464fada28550ad5a5fffb5aff99f8262ca6504f0d9e7a8eb39ee6a7
+Description:  Get GPS data.
+
+Package: gl-ipv6
+Version: 3.0.8-1
+Depends: libc, gl-util, kmod-ipt-nat6
+Source: package/gli-pri/gl-ipv6
+SourceName: gl-ipv6
+Section: base
+Architecture: mips_24kc
+Installed-Size: 19737
+Filename: gl-ipv6_3.0.8-1_mips_24kc.ipk
+Size: 20455
+SHA256sum: 57a27bb2ecc949bf8f60dbfee54fa775b32b1275a08305b1440169163a6ec10e
+Description:  ipv6 function for gl-inet.
+
+Package: gl-kernel-depends
+Version: 1
+Depends: libc, libuci20130104, libjson-c5, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/luo/openwrt-gl/package/gli-pri/gl-kernel-depends
+SourceName: gl-kernel-depends
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3181
+Filename: gl-kernel-depends_1_mips_24kc.ipk
+Size: 3966
+SHA256sum: 25098b6f1b192a4c40c40edc1f909f0f2f8bae605368013cf0e32a2b7808b29c
+Description:  GL iNet SDK3.0 demo
+
+Package: gl-mem-monitor
+Version: 1
+Depends: libc, gl-util
+Source: /home/luo/openwrt-gl/package/gli-pri/gl-mem-monitor
+SourceName: gl-mem-monitor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3565
+Filename: gl-mem-monitor_1_mips_24kc.ipk
+Size: 4260
+SHA256sum: b64b06677708db4b362cf0b32f179c84722dbf5410d6f686cdcb98289479c65b
+Description:  The process function monitors memory
+
+Package: gl-modem
+Version: 3.0.130-1
+Depends: libc, libpthread, libuci20130104, libubus20191227, libblobmsg-json, libubox20191228, smstools3, gl-util
+Source: package/gli-pri/gl-modem
+SourceName: gl-modem
+Section: base
+Architecture: mips_24kc
+Installed-Size: 150236
+Filename: gl-modem_3.0.130-1_mips_24kc.ipk
+Size: 150581
+SHA256sum: 624e8ace66596fd5e0cc47684901858097b79ebaa17191821247028c845bde68
+Description:  GL iNet modem manager
+
+Package: gl-monitor
+Version: 3.0.112-1
+Depends: libc
+Source: package/gli-pri/gl-monitor
+SourceName: gl-monitor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 6871
+Filename: gl-monitor_3.0.112-1_mips_24kc.ipk
+Size: 7597
+SHA256sum: 7d7ae9b6148bcd1e66042c2965c726681ab43a678e2ef2880331f9c00d75bb7a
+Description:  gl-monitor
+
+Package: gl-mqtt
+Version: 3.1.7-1
+Depends: libc, libpthread, mqtt, libcurl4, libjson-c5, gl-util, gl-wifi-core
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-mqtt
+SourceName: gl-mqtt
+Section: base
+Architecture: mips_24kc
+Installed-Size: 32615
+Filename: gl-mqtt_3.1.7-1_mips_24kc.ipk
+Size: 33023
+SHA256sum: 2d54b8ad992ec0c4cab9c7ecd32f415b807152be0d092fe7044e6d5404f81db4
+Description:  MQTT common libary
+
+Package: gl-portal
+Version: 3.0.24-1
+Depends: libc, libjson-c5, gl-util, nodogsplash
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-portal
+SourceName: gl-portal
+Section: base
+Architecture: mips_24kc
+Installed-Size: 87998
+Filename: gl-portal_3.0.24-1_mips_24kc.ipk
+Size: 89084
+SHA256sum: 435963e5962b76ae7cd850c44bbdce2a496d8fb13e51da892b31c43dfebfaf4e
+Description:  glportal api for gl-inet.
+
+Package: gl-qos-internal
+Version: 3.0.35-1
+Depends: libc, gl-util, libjson-c5, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-qos
+SourceName: gl-qos-internal
+Section: base
+Architecture: mips_24kc
+Installed-Size: 6729
+Filename: gl-qos-internal_3.0.35-1_mips_24kc.ipk
+Size: 7563
+SHA256sum: f5a9ccc4eb14603835aff4730a4c7e502c044ad18abbeea5314a1bb46a1cc170
+Description:  GL iNet Qos Function
+
+Package: gl-qos
+Version: 3.0.35-1
+Depends: libc, gl-util, libjson-c5, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-qos
+SourceName: gl-qos
+Section: base
+Architecture: mips_24kc
+Installed-Size: 32663
+Filename: gl-qos_3.0.35-1_mips_24kc.ipk
+Size: 33857
+SHA256sum: b469cfd53069972a9d04959782763dbe47bc6659205a05a6ceb0213adc5b2ecc
+Description:  GL iNet Qos Function
+
+Package: gl-repeater
+Version: 3.1.8-1
+Depends: libc, libubus20191227, gl-util, gl-wifi-core, libpthread
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-repeater
+SourceName: gl-repeater
+Section: base
+Architecture: mips_24kc
+Installed-Size: 4107
+Filename: gl-repeater_3.1.8-1_mips_24kc.ipk
+Size: 4836
+SHA256sum: 7ba892f10992e42543eebe2997577e9d984fb2a3e0e15a355c5ebd1df74183bd
+Description:  GL Health
+
+Package: gl-route-policy
+Version: 3.0.43-1
+Depends: libc, gl-util
+Source: package/gli-pri/gl-route-policy
+SourceName: gl-route-policy
+Section: base
+Architecture: mips_24kc
+Installed-Size: 11287
+Filename: gl-route-policy_3.0.43-1_mips_24kc.ipk
+Size: 11972
+SHA256sum: e4d4d914a4cacbcd0ce032eef46e3171cde538d681ed42a011cf09ac5a1901c1
+Description:  GL route policy
+
+Package: gl-rs485
+Version: 1.1.7-1
+Depends: libc, libblobmsg-json, gl-util, libuci20130104, libjson-c5, mqtt
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-rs485
+SourceName: gl-rs485
+Section: base
+Architecture: mips_24kc
+Installed-Size: 24368
+Filename: gl-rs485_1.1.7-1_mips_24kc.ipk
+Size: 25087
+SHA256sum: d1e30ce8b6babe8043ab355013420e4ec96b30e186323b8d89693d39d4107c1a
+Description:  gl rs485 for gl-inet.
+
+Package: gl-s2s
+Version: 1.0.24-1
+Depends: libc, wireguard, libjson-c5, libubox20191228, libubus20191227, gl-util, gl-crond
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-s2s
+SourceName: gl-s2s
+Section: base
+Architecture: mips_24kc
+Installed-Size: 15725
+Filename: gl-s2s_1.0.24-1_mips_24kc.ipk
+Size: 16561
+SHA256sum: 6352c302121340b4ce4815bfd425331baf61ecc89050fc502ad15605edb8ec31
+Description:  It is the Site to Site API for GL.iNet. 
+
+Package: gl-sdk
+Version: 3.0.535-1
+Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c5, libiwinfo20200105, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Source: package/gli-pri/gl-sdk
+SourceName: gl-sdk
+Section: base
+Architecture: mips_24kc
+Installed-Size: 216729
+Filename: gl-sdk_3.0.535-1_mips_24kc.ipk
+Size: 216974
+SHA256sum: cbfac9b4a3c42680dc682f9e5a5ae5399ae7ca5b1e11ee02013743606a5a6216
+Description:  GL.iNet SDK3.0.
+
+Package: gl-soft-uart
+Version: 3.0.1-1
+Depends: libc
+Source: /home/luo/openwrt-gl/package/gli-pri/gl-soft-uart
+SourceName: gl-soft-uart
+Section: base
+Architecture: mips_24kc
+Installed-Size: 4876
+Filename: gl-soft-uart_3.0.1-1_mips_24kc.ipk
+Size: 5692
+SHA256sum: 05ee54e1dad90a561870ecce790f37013879759670d229c031e8a86986d0fd80
+Description:  gl-soft-uart
+
+Package: gl-software
+Version: 3.0.26-1
+Depends: libc, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-software
+SourceName: gl-software
+Section: base
+Architecture: mips_24kc
+Installed-Size: 5566
+Filename: gl-software_3.0.26-1_mips_24kc.ipk
+Size: 6292
+SHA256sum: 983c985787c04690eaba365b05290b4b734657a889769d6123d9b6e89527eac5
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-ss-server
+Version: 3.0.12-1
+Depends: libc, gl-util, libjson-c5, shadowsocks-libev-server
+Source: package/gli-pri/gl-ss
+SourceName: gl-ss-server
+Section: base
+Architecture: mips_24kc
+Installed-Size: 6950
+Filename: gl-ss-server_3.0.12-1_mips_24kc.ipk
+Size: 7850
+SHA256sum: 62c8de053722a9ab00d51055883c887055ac2b7d059d6cbf39b3e3bcd368ee9c
+Description:  Shadowsocks-libev endpoint api for gl-inet.
+
+Package: gl-ss
+Version: 3.0.12-1
+Depends: libc, gl-util, libjson-c5, shadowsocks-libev, luci-app-shadowsocks
+Source: package/gli-pri/gl-ss
+SourceName: gl-ss
+Section: base
+Architecture: mips_24kc
+Installed-Size: 7331
+Filename: gl-ss_3.0.12-1_mips_24kc.ipk
+Size: 8200
+SHA256sum: c9634b76cbd5be92fec9d65cafb6053631d8aacbebabd0500dbe20cf5db5128b
+Description:  Shadowsocks-libev endpoint api for gl-inet.
+
+Package: gl-tertf
+Version: 4.0.20-1
+Depends: libc, libiwinfo20200105, gl-util, libjson-c5, libsqlite3-0, gl-traffic, ebtables
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-tertf
+SourceName: gl-tertf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 405770
+Filename: gl-tertf_4.0.20-1_mips_24kc.ipk
+Size: 406615
+SHA256sum: 93fbf82ae1afc35324a59c731c059b5997dac11804fe1f148d9ca88a12445705
+Description:  Terminal traffic.
+
+Package: gl-tor
+Version: 3.1.2-1
+Depends: libc, tor, tor-geoip, libjson-c5, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-tor
+SourceName: gl-tor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3972
+Filename: gl-tor_3.1.2-1_mips_24kc.ipk
+Size: 4724
+SHA256sum: 0de828b84327484c5f5fc597dc8f6257805923b2950ad34af999b8a136c939c8
+Description:  GL iNet tor interface
+
+Package: gl-traffic
+Version: 1.0.3-1
+Depends: libc, libpcap1, libpthread
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-tertf/gl-traffic
+SourceName: gl-traffic
+Section: gl-inet
+Architecture: mips_24kc
+Installed-Size: 6105
+Filename: gl-traffic_1.0.3-1_mips_24kc.ipk
+Size: 6950
+SHA256sum: 01c7050d325f19f70f3af85f32f09367fb74688edc03d0f3a51c34be9fb34645
+Description:  iftop does for network usage what top(1) does for CPU usage. It 
+ listens to network traffic on a named interface and displays a 
+ table of current bandwidth usage by pairs of hosts. Handy for 
+ answering the question 'why is our ADSL link so slow?'.
+
+Package: gl-uart
+Version: 3.0.9-1
+Depends: libc
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-x1200-product/gl-x1200-uart
+SourceName: gl-uart
+Section: base
+Architecture: mips_24kc
+Installed-Size: 4440
+Filename: gl-uart_3.0.9-1_mips_24kc.ipk
+Size: 5156
+SHA256sum: f14cafffda0fe7f05255ca5c0e85852d3dd957a75772cb58ab7ede248e5a244c
+Description:  VPN daemon for gl-inet.
+
+Package: gl-ui
+Version: 3.0.674-1
+Depends: libc
+Source: package/gli-pri/gl-ui3.0
+SourceName: gl-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 2090044
+Filename: gl-ui_3.0.674-1_mips_24kc.ipk
+Size: 2085502
+SHA256sum: ee141b1b4c8167a68e0940ea8470451c1b91a7b107864ee501e9527b5a25beeb
+Description:  GL iNet web UI
+
+Package: gl-upload
+Version: 1.0.34-1
+Depends: libc, libuci20130104, libjson-c5, libiwinfo20200105, gl-util, libcurl4
+Source: package/gli-pri/gl-upload
+SourceName: gl-upload
+Section: base
+Architecture: mips_24kc
+Installed-Size: 12489
+Filename: gl-upload_1.0.34-1_mips_24kc.ipk
+Size: 13194
+SHA256sum: 684d79ab961117624fc3b7eb75fd8d667a94e8c9a4e51eba60856a8801b76587
+Description:  GL.iNet SDK3.0.
+
+Package: gl-util
+Version: 3.0.195-1
+Depends: libc, libuci20130104, libjson-c5, libiwinfo20200105, libcurl4, libubox20191228, libubus20191227, libblobmsg-json
+Source: package/gli-pri/gl-util
+SourceName: gl-util
+Section: base
+Architecture: mips_24kc
+Installed-Size: 32299
+Filename: gl-util_3.0.195-1_mips_24kc.ipk
+Size: 33113
+SHA256sum: 7e9b7e6b038320da1aedc3b3e19327ff1cf017fa857852f9222eaa3340c43f4d
+Description:  GL.iNet SDK3.0.
+
+Package: gl-vpn-server
+Version: 3.0.103-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: package/gli-pri/gl-vpn
+SourceName: gl-vpn-server
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10631
+Filename: gl-vpn-server_3.0.103-1_mips_24kc.ipk
+Size: 11453
+SHA256sum: 4eb208d0259a4515fe8689b22d938b3924eb823f5e7d3699c901f004b163a083
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-vpn
+Version: 3.0.103-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: package/gli-pri/gl-vpn
+SourceName: gl-vpn
+Section: base
+Architecture: mips_24kc
+Installed-Size: 18045
+Filename: gl-vpn_3.0.103-1_mips_24kc.ipk
+Size: 18885
+SHA256sum: 859caacb8be197b668ba728f5cd763aa01c99285509f854cc7a058e087bbd415
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-wan-detect
+Version: 3.0.1-1
+Depends: libc
+Source: package/gli-pri/gl-wan-detect
+SourceName: gl-wan-detect
+Section: base
+Architecture: mips_24kc
+Installed-Size: 11609
+Filename: gl-wan-detect_3.0.1-1_mips_24kc.ipk
+Size: 12303
+SHA256sum: ff0f7a37cbba1a60a423135c2189daf0a77c4437f83a479430830028a492a767
+Description:  GL Auto Detect Wan Type
+
+Package: gl-wg-server
+Version: 3.0.75-1
+Depends: libc, libjson-c5, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Source: package/gli-pri/gl-wg
+SourceName: gl-wg-server
+Section: base
+Architecture: mips_24kc
+Installed-Size: 16072
+Filename: gl-wg-server_3.0.75-1_mips_24kc.ipk
+Size: 16919
+SHA256sum: 54b7cb6f226bda3bc824812af42d2d76f71e79590426cd80e492cad1449c5d5a
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wg
+Version: 3.0.75-1
+Depends: libc, libjson-c5, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Source: package/gli-pri/gl-wg
+SourceName: gl-wg
+Section: base
+Architecture: mips_24kc
+Installed-Size: 21530
+Filename: gl-wg_3.0.75-1_mips_24kc.ipk
+Size: 22389
+SHA256sum: 75160d2ddb1274e890860f466864e3773c21c0d146a76b26897480962f6d889d
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wifi-core
+Version: 3.0.184-1
+Depends: libc, gl-util
+Source: package/gli-pri/gl-wifi-core
+SourceName: gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 22867
+Filename: gl-wifi-core_3.0.184-1_mips_24kc.ipk
+Size: 23497
+SHA256sum: a093d517f8408e055b7da55b63a99128e5199671ed702d96d094d41aab584946
+Description:  
+
+Package: gl-xe300-mcu
+Version: 3.0.3-1
+Depends: libc, libjson-c5, gl-util
+Source: /home/luo/git-runner/builds/_qyNhxyN/0/gl.router/gl-xe300-mcu
+SourceName: gl-xe300-mcu
+Section: base
+Architecture: mips_24kc
+Installed-Size: 6948
+Filename: gl-xe300-mcu_3.0.3-1_mips_24kc.ipk
+Size: 7726
+SHA256sum: 9f5a8f5a1e40e66f043fbcd0d67decdbd856fabbd70e100d74119d6b03f2b91e
+Description:  gl XE300 mcu data interface for gl-inet.
+
+Package: libcares
+Version: 1.13.0-1
+Depends: libc
+Source: feeds/gli_pub/libcares
+SourceName: libcares
+License: MIT
+Section: libs
+Maintainer: Karl Palsson <karlp@etactica.com>
+Architecture: mips_24kc
+Installed-Size: 26485
+Filename: libcares_1.13.0-1_mips_24kc.ipk
+Size: 27314
+SHA256sum: 160472a3f88a418d8fe749a2ece0432b4466e17466ec5d1f9f073a532d9221b8
+Description:  c-ares is a C library for asynchronous DNS requests (including name resolves)
+ 
+ C89 compatibility, MIT licensed, builds for and runs on POSIX, Windows,
+ Netware, Android and many more operating systems.
+ 
+
