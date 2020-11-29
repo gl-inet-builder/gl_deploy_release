@@ -1,89 +1,89 @@
 Package: gl-base-files-a53
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 20969
-Filename: gl-base-files-a53_3.0.384-1_mipsel_24kc.ipk
-Size: 21799
-SHA256sum: 25941698dbf950785a2ead80a50181f89ca14ecfd014da5c37a944d51d92e686
+Filename: gl-base-files-a53_3.0.391-1_mipsel_24kc.ipk
+Size: 21798
+SHA256sum: a5a4e3f7fb98b6e7370d9832e4c2689d9e16fd1377651413017c163c3b671f84
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 7645
-Filename: gl-base-files-ar_3.0.384-1_mipsel_24kc.ipk
-Size: 8372
-SHA256sum: 77133868ce5314df5b7b9e46f5fd0ec5b3853fab35872e5ef2032518d9e68240
+Filename: gl-base-files-ar_3.0.391-1_mipsel_24kc.ipk
+Size: 8371
+SHA256sum: 598c0302388f298f21153de60b0f3024f55c8970fdd2edc20458b973b89876f9
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 1055
-Filename: gl-base-files-e750_3.0.384-1_mipsel_24kc.ipk
-Size: 1785
-SHA256sum: d228c81444d0862aa94890bdf2c76a9d80eb6a395013ed765ac2d72296fef797
+Filename: gl-base-files-e750_3.0.391-1_mipsel_24kc.ipk
+Size: 1781
+SHA256sum: 39fb2870463bea1c056db02a0e191fd731e277e5fdc9cf4985bc451e4cea8d9b
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 36719
-Filename: gl-base-files-ipq_3.0.384-1_mipsel_24kc.ipk
-Size: 37483
-SHA256sum: 87d3a1b37dfdc45748bd3d7929117576282f0ddcc4c6803e677551d9ca602bda
+Installed-Size: 36722
+Filename: gl-base-files-ipq_3.0.391-1_mipsel_24kc.ipk
+Size: 37486
+SHA256sum: 795ce821f01321277921a38e52500e0665fe7d9148bfea4e90c3797f546d4a99
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 4458
-Filename: gl-base-files-mt_3.0.384-1_mipsel_24kc.ipk
-Size: 5179
-SHA256sum: 8be673fe4707a455230bf159a90fe24d818c8f45b56ff19105e8a18d2bc80b64
+Filename: gl-base-files-mt_3.0.391-1_mipsel_24kc.ipk
+Size: 5174
+SHA256sum: 9a3e16f7354881952acc418cd1d90dc3f0f493d5c28e4b96cd6373802cbea5ae
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 3036
-Filename: gl-base-files-x1200_3.0.384-1_mipsel_24kc.ipk
-Size: 3735
-SHA256sum: d91653d8e362919e57fcd2857dcca33b069cfd0d70c4237a9e22f86d43166650
+Filename: gl-base-files-x1200_3.0.391-1_mipsel_24kc.ipk
+Size: 3737
+SHA256sum: 358a5cd7ff2ffe6f30ec8a26cee9d4a800b33e04c4e5b9e56d009b84630a96ec
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 4468
-Filename: gl-base-files-x300b_3.0.384-1_mipsel_24kc.ipk
-Size: 5148
-SHA256sum: 35118ac5b8f2b4c22b5c4a1428ebdd10e56c5f702314c14d9d34ba2ee412f559
+Filename: gl-base-files-x300b_3.0.391-1_mipsel_24kc.ipk
+Size: 5149
+SHA256sum: 91291b1b5e36499a09d69a3346f38ce1993f34dcd22bf72062452e3cb282d548
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.384-1
+Version: 3.0.391-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 46002
-Filename: gl-base-files_3.0.384-1_mipsel_24kc.ipk
-Size: 46774
-SHA256sum: ff24b67de9611901cfd88df3b7f919132ec7197d86b3307602973af1bad5654f
+Installed-Size: 45568
+Filename: gl-base-files_3.0.391-1_mipsel_24kc.ipk
+Size: 46333
+SHA256sum: 56c4ece2f279954a83fe01f531bcd3a678fd2333b60573a785b17baebb7c655a
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -244,14 +244,14 @@ SHA256sum: 07719c7a3e77a1158fd73ba5ec33f7ade56dd6af6c6495e1c9ddf64adb0c0ecb
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.12-1
+Version: 3.1.17-1
 Depends: libc, libpthread, mqtt, libcurl, libjson-c, gl-util, gl-wifi-core
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 32355
-Filename: gl-mqtt_3.1.12-1_mipsel_24kc.ipk
-Size: 32830
-SHA256sum: 49591afca87f84ffb5ed236f66ea488c0698a38c899922dc0f9a02e09ce2f922
+Installed-Size: 32464
+Filename: gl-mqtt_3.1.17-1_mipsel_24kc.ipk
+Size: 32975
+SHA256sum: 7b906a228ae030c024451ed8eea10a1c2e37118087b12319fbe5dd23eb5fd100
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -332,14 +332,14 @@ SHA256sum: eba3e2a70dc8733c6fda17f489b2778f53dcc10906880a524992d84a02cd2a63
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.537-1
+Version: 3.0.541-1
 Depends: libc, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 217132
-Filename: gl-sdk_3.0.537-1_mipsel_24kc.ipk
-Size: 217820
-SHA256sum: 5de04ddd2a29f6bca6a5a8198886bd4729747487ec7e6a3a49cb5872fb225163
+Installed-Size: 218477
+Filename: gl-sdk_3.0.541-1_mipsel_24kc.ipk
+Size: 219192
+SHA256sum: 68cb14a86aca495a10963e73cfb241fbee97e3c6c8d228104b513ae6eac20a82
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -376,14 +376,14 @@ SHA256sum: e69576d2bd29059f008f1cbacaa69bc4f89ca0da31edfa5f8535d00f82583d27
 Description:  GL iNet tor interface
 
 Package: gl-traffic
-Version: 1.0.3-1
+Version: 1.0.4-1
 Depends: libc, libpcap, libpthread
 Section: gl-inet
 Architecture: mipsel_24kc
 Installed-Size: 6191
-Filename: gl-traffic_1.0.3-1_mipsel_24kc.ipk
-Size: 7075
-SHA256sum: 32b040d8d8807d9b34ec165b2cc722a24ab2c308f5999fa23d521edac1064c6b
+Filename: gl-traffic_1.0.4-1_mipsel_24kc.ipk
+Size: 7079
+SHA256sum: 4a44304b374923d1a5849f5a9ff429a1ef19fc38ef41ad98ef2be729d0c21ac8
 Description:  iftop does for network usage what top(1) does for CPU usage. It 
  listens to network traffic on a named interface and displays a 
  table of current bandwidth usage by pairs of hosts. Handy for 
@@ -400,37 +400,15 @@ Size: 5283
 SHA256sum: 3df043e5611e0e51cac9830f55dd8bd317aaa2314da09389960028c3d2b85e71
 Description:  VPN daemon for gl-inet.
 
-Package: gl-ui-n300
-Version: 3.0.412-1
-Depends: libc
-Section: base
-Architecture: mipsel_24kc
-Installed-Size: 1800868
-Filename: gl-ui-n300_3.0.412-1_mipsel_24kc.ipk
-Size: 1797278
-SHA256sum: d49daa61e5666268bd7e678a71d2809564f24c7829a498873d52c76d27c39e39
-Description:  GL iNet web UI
-
-Package: gl-ui-vixmini
-Version: 3.0.415-1
-Depends: libc
-Section: base
-Architecture: mipsel_24kc
-Installed-Size: 1799390
-Filename: gl-ui-vixmini_3.0.415-1_mipsel_24kc.ipk
-Size: 1795613
-SHA256sum: 6e1eda7e018d2f3b5a5e168ae6e474ea551d1f903910023d6432b6980aff6bb5
-Description:  GL iNet web UI
-
 Package: gl-ui
-Version: 3.0.611-1
+Version: 3.0.613-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 2049048
-Filename: gl-ui_3.0.611-1_mipsel_24kc.ipk
-Size: 2045070
-SHA256sum: 6d557d024b6e929303d193e9ba4e4b40015004b94b65c1b95d71e9e47733942c
+Installed-Size: 2050809
+Filename: gl-ui_3.0.613-1_mipsel_24kc.ipk
+Size: 2046677
+SHA256sum: d64790f73225349235a1366d55b155a78041690d41c22bb211dd893be04d9d4e
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -445,14 +423,14 @@ SHA256sum: b43d0d7077eb5cc23f80fa078ebf028db558b05aa450840504903a963fb1cb9e
 Description:  GL.iNet SDK3.0.
 
 Package: gl-util
-Version: 3.0.197-1
+Version: 3.0.199-1
 Depends: libc, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 32959
-Filename: gl-util_3.0.197-1_mipsel_24kc.ipk
-Size: 33742
-SHA256sum: 95687117b9b689bc6419bd4613cbf8cf6f582909b7ac3ddc4e42eb097f521378
+Installed-Size: 32965
+Filename: gl-util_3.0.199-1_mipsel_24kc.ipk
+Size: 33755
+SHA256sum: dd94c56c7a7a4e88da339fe6c586ae3877f9ef86430793f8787de6f6dbb0a93e
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
@@ -552,8 +530,8 @@ Section: utils
 Architecture: mipsel_24kc
 Installed-Size: 15520
 Filename: rtty-mbedtls_7.1.1-10_mipsel_24kc.ipk
-Size: 16254
-SHA256sum: 141a7735b7d7ba811a829ba276528e2f45bd885053d3dbfbd6ff46cc51493880
+Size: 16251
+SHA256sum: a675a640d2f4be9d33f8eb49690c00085c9e92b8462b43e18eb5ea54640f4714
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-nossl
@@ -565,8 +543,8 @@ Section: utils
 Architecture: mipsel_24kc
 Installed-Size: 14616
 Filename: rtty-nossl_7.1.1-10_mipsel_24kc.ipk
-Size: 15404
-SHA256sum: b497c59e8ca63417f2a5e1a543665e744f4e65bbea65127d809b2ebf4a88cbbd
+Size: 15401
+SHA256sum: 8604e64c45aca4a7c1c361702d18a599cbd5b71ddfcf0bd04cd948c2e09b9dc2
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
@@ -578,8 +556,8 @@ Section: utils
 Architecture: mipsel_24kc
 Installed-Size: 15253
 Filename: rtty-openssl_7.1.1-10_mipsel_24kc.ipk
-Size: 16023
-SHA256sum: 1f600867e4a20a522853b9ee4ae4956f03ccf708b5b963c3c6d4b568592c3e60
+Size: 16026
+SHA256sum: fb68dccb0258b098b7aa113fe7a6cad1089ad713ac411e966d1ab0d3136deb58
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-wolfssl
@@ -592,6 +570,6 @@ Architecture: mipsel_24kc
 Installed-Size: 15201
 Filename: rtty-wolfssl_7.1.1-10_mipsel_24kc.ipk
 Size: 15973
-SHA256sum: f8093ba493e688460c836da76fcfbba13c2e2768cc4e8eaccc389a9e1529fd63
+SHA256sum: 3d80ac430ae433bde943eeb1706b3fc3f98b867b01440889947d948804c9ded8
 Description:  Access your terminals from anywhere via the web
 
