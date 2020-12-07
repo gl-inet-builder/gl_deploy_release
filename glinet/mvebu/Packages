@@ -300,14 +300,14 @@ SHA256sum: eb2115c5f6490616ce3d8abd4599d9b51ca8050a47a945337397a22ad11d0b5c
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-tertf
-Version: 4.0.22-1
+Version: 4.0.25-1
 Depends: libc, libiwinfo20181126, gl-util, libjson-c2, libsqlite3, gl-traffic, ebtables
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 407821
-Filename: gl-tertf_4.0.22-1_aarch64_cortex-a53.ipk
-Size: 408662
-SHA256sum: 09358ad0624488f53eed866bda486ded04d45a14ed30b7513fdb75bd64ce3a71
+Installed-Size: 407894
+Filename: gl-tertf_4.0.25-1_aarch64_cortex-a53.ipk
+Size: 408743
+SHA256sum: 9fc9b2d3c9e864e339278f8205364b83f3e34487c4af311ba50e52b8e37c1536
 Description:  Terminal traffic.
 
 Package: gl-tor

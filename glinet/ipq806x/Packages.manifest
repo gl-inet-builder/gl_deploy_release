@@ -26,107 +26,107 @@ SHA256sum: c853c3c5c65bd0962c92991ada0405e5cae4926b6be56247c67daa6a74f74d65
 Description:  AdGuardHome Stats
 
 Package: gl-base-files-a53
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 21360
-Filename: gl-base-files-a53_3.0.391-1_ipq806x.ipk
-Size: 22202
-MD5Sum: 9255fa071b3fc35075be2b734d132761
-SHA256sum: b80068b1e1ecde3eb2b460b5851587119c06a1fff7bc05f6c84d81a59c43136e
+Installed-Size: 21361
+Filename: gl-base-files-a53_3.0.397-1_ipq806x.ipk
+Size: 22197
+MD5Sum: e8cdb7ac6b7b4c9501f6a7336d2dc0f4
+SHA256sum: 5d9764b1853a81b15186a690b72b55783fc13e9248c7eb3edaac6817e401a3d7
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 7664
-Filename: gl-base-files-ar_3.0.391-1_ipq806x.ipk
-Size: 8395
-MD5Sum: 8c033c97eea207c5c600d111351d2d65
-SHA256sum: 02b7f13ac0316d775603e22ba448710a950aa0c69cbd8ef883c9d39d7d8d94b7
+Installed-Size: 7665
+Filename: gl-base-files-ar_3.0.397-1_ipq806x.ipk
+Size: 8397
+MD5Sum: 87323d104dec887459691e65f409212a
+SHA256sum: fcf857daee086395e4b536c2d1f66f3c8c95cc5c1f68c85e7b33402a1930ca63
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 1046
-Filename: gl-base-files-e750_3.0.391-1_ipq806x.ipk
-Size: 1767
-MD5Sum: 174d172423690a3da36ac8a12865af17
-SHA256sum: c923d267ce9e7107342706bd47cc97abfe1a01cae240235b6640f5739e4b66c4
+Installed-Size: 1047
+Filename: gl-base-files-e750_3.0.397-1_ipq806x.ipk
+Size: 1776
+MD5Sum: 5ce93fbe5db5caee7bd2ce6674d70371
+SHA256sum: 538d3ded00570f64a359361f51114bfb034dde40494b613bdc6c763d854f7843
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 36998
-Filename: gl-base-files-ipq_3.0.391-1_ipq806x.ipk
-Size: 37643
-MD5Sum: 9e3ef7872ff1c3cc868b247f71031b91
-SHA256sum: 8caec524d2ddf72806950900713c64b9bcf43154408d7a421f1853e6d58387b8
+Installed-Size: 37002
+Filename: gl-base-files-ipq_3.0.397-1_ipq806x.ipk
+Size: 37726
+MD5Sum: 5c533fafb1016c6f71ece111f56ed4bf
+SHA256sum: 7e3ae4c21e207069e986d18b08ac717540a4bab6b438b369cb72d2b20e5863ee
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 4458
-Filename: gl-base-files-mt_3.0.391-1_ipq806x.ipk
-Size: 5186
-MD5Sum: f3567b89f7e0d8b06f2031fa1327c0aa
-SHA256sum: 2b99632523386430ede8039571d2b2193ce619bf3c6f8151ac05de85112102f3
+Installed-Size: 4461
+Filename: gl-base-files-mt_3.0.397-1_ipq806x.ipk
+Size: 5183
+MD5Sum: 790feb21c721089599d086f61f5bdf97
+SHA256sum: 4e810614f25a7d77c8da345e93e529e16ac9645f37f541551d76ad519ec92ff9
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 3017
-Filename: gl-base-files-x1200_3.0.391-1_ipq806x.ipk
-Size: 3718
-MD5Sum: 34e553dd5c9fbcc2820092d3b44f4850
-SHA256sum: fc8d0677f05e264901d1893d5cbf8672e998b41a1ae2fdb35affec1eef51b622
+Installed-Size: 3015
+Filename: gl-base-files-x1200_3.0.397-1_ipq806x.ipk
+Size: 3720
+MD5Sum: 4da8a538384fbb22b7c3d55ff514d854
+SHA256sum: 5b521c61f986a9ddc621f0ad2548fc697e154338f2d72b5615d0b762b8ab2135
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 4451
-Filename: gl-base-files-x300b_3.0.391-1_ipq806x.ipk
-Size: 5140
-MD5Sum: d224dd976ba47b61cca9f451d025288f
-SHA256sum: 2b846876349b86555bbcad09e2cfba2049b58f8f2523bbe89beca3b16c89c800
+Installed-Size: 4452
+Filename: gl-base-files-x300b_3.0.397-1_ipq806x.ipk
+Size: 5142
+MD5Sum: 15a154c61c1820e53730132e5d160856
+SHA256sum: 59590af0e8b8ea7319cabf9849c90df72a90e7330d222c5b909ff67ebdcdaed3
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.391-1
+Version: 3.0.397-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq806x
-Installed-Size: 45572
-Filename: gl-base-files_3.0.391-1_ipq806x.ipk
-Size: 46350
-MD5Sum: 93d6055d63ae3af12a9435cdcba9f304
-SHA256sum: 49be763b82e6ed9e8d97656df7095d434923c4908797b64ec6506bb97be2002b
+Installed-Size: 45789
+Filename: gl-base-files_3.0.397-1_ipq806x.ipk
+Size: 46580
+MD5Sum: 0cb2a61130852a60e7e831c5112fcc3c
+SHA256sum: f5c3d6f4d15eccbd230f8e95344d52a600b1e772d2a0e53b249315a415fad6b4
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -406,6 +406,20 @@ SHA256sum: db61a0aa9d9494f15988fa59e81e1356768e68a709606eba672d67246270edf8
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
+Version: 3.0.533-1
+Depends: libc, libuuid1, libpthread, libuci20130104, libubus20170705, libubox20170601, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-sdk3.0
+SourceName: gl-sdk
+Section: base
+Architecture: aarch64_cortex-a53
+Installed-Size: 246131
+Filename: gl-sdk_3.0.533-1_aarch64_cortex-a53.ipk
+Size: 246835
+MD5Sum: 32735a647236369fd3d3b5e4856bed41
+SHA256sum: c6de63ae1ac7428cf98faf1b973f04f7d2221613cc0faffc49bf87274fcfb59d
+Description:  GL.iNet SDK3.0.
+
+Package: gl-sdk
 Version: 3.0.541-1
 Depends: libc, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-sdk3.0
@@ -432,16 +446,16 @@ SHA256sum: 26cb52e0aba2183b7c61d0181e99b962f6721fbf1a7965f449b510778fecb905
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-tertf
-Version: 4.0.22-1
+Version: 4.0.25-1
 Depends: libc, libiwinfo, gl-util, libjson-c, libsqlite3, gl-traffic, ebtables
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-tertf
 Section: base
 Architecture: ipq806x
-Installed-Size: 406806
-Filename: gl-tertf_4.0.22-1_ipq806x.ipk
-Size: 407729
-MD5Sum: 822056f29406b3ebf02d9b80a5892fd8
-SHA256sum: 7cccc397b99b9287e28fb9c5c5d5cf0718ae12b04ca4824f624b32f6844a9a7c
+Installed-Size: 406950
+Filename: gl-tertf_4.0.25-1_ipq806x.ipk
+Size: 407882
+MD5Sum: ae920c286347443a83a48048ea35f6ac
+SHA256sum: 7aec8770ef8e1e6ead20452615be9d91500f7fa390471761e60b24855c111207
 Description:  Terminal traffic.
 
 Package: gl-tor
@@ -614,6 +628,19 @@ Filename: gl-wifison_3.0.77-1_ipq806x.ipk
 Size: 59504
 MD5Sum: cbd203635ef37b856bf2087e71fabcd8
 SHA256sum: 101404ad1d3230b1474202768cd2fa94be8128d0908ae1b4f68f08e6ac876f49
+Description:  wifi son setting api and scripts.
+
+Package: gl-wifison
+Version: 3.0.78-1
+Depends: libc, qca-whc-repacd, qca-hyd, qca-wpa-cli, qca-hostapd-cli, gl-util, gl-base-files
+Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-b1300-gl-s1300-product/gl-wifison
+Section: glinet
+Architecture: ipq806x
+Installed-Size: 59141
+Filename: gl-wifison_3.0.78-1_ipq806x.ipk
+Size: 60083
+MD5Sum: baf09fefc5feadb8cb8ada70727714d9
+SHA256sum: b69ed3b5323376320f0ee6febdee068f1b62de7548d10bcd4e67ef6ba28dd19f
 Description:  wifi son setting api and scripts.
 
 Package: gl-xe300-mcu
