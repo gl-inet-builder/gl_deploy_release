@@ -498,15 +498,15 @@ SHA256sum: a57c00dc011126bf0362f2cfccb2bdf4dd029334767efbc2e95a31691522e985
 Description:  VPN daemon for gl-inet.
 
 Package: gl-ui
-Version: 3.0.615-1
+Version: 3.0.616-1
 Depends: libc
 Source: /home/luo/git-runner/builds/pLNZR5tu/0/gl.router/gl-ui3.0
 Section: base
 Architecture: mips_24kc
-Installed-Size: 2050769
-Filename: gl-ui_3.0.615-1_mips_24kc.ipk
-Size: 2046671
-SHA256sum: 187f574f26bb9080220e84240383333e554825f105750a31366b18557d2df3f6
+Installed-Size: 2050778
+Filename: gl-ui_3.0.616-1_mips_24kc.ipk
+Size: 2046746
+SHA256sum: 45df167625e175484e07a658c0793f164ee9cc87bd1afbdc5ba7110f5aa1bf84
 Description:  GL iNet web UI
 
 Package: gl-upload
