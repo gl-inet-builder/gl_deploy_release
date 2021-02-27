@@ -26,120 +26,120 @@ SHA256sum: a6e8b2ef40db86393e9cf11046ef7489cc260158a6965e830b481789db7d38b8
 Description:  AdGuardHome Stats
 
 Package: gl-base-files-a53
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-a53
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 20971
-Filename: gl-base-files-a53_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 21806
-SHA256sum: 1b4a939a8f6a9150ec1c3f5fc8ffdefdb9ac148894dce32f495454446004c14b
+Filename: gl-base-files-a53_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 21807
+SHA256sum: 60a148e6be374b1ec91f9d4721f30f607f5a99557639e4b10c6f924039da54ef
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-ar
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 6786
-Filename: gl-base-files-ar_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 7547
-SHA256sum: 4a00350acedc15e66ea17f951dc34dd4174e611db5afed178fe87cadc7cf7e58
+Installed-Size: 6841
+Filename: gl-base-files-ar_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 7565
+SHA256sum: a538edd4a684a18b12392d8981004cd7b71e1e3cd91da2bfdf33d9ee13b9318a
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-e750
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 1609
-Filename: gl-base-files-e750_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 2311
-SHA256sum: a35b901c5d787195c6cce5da23ed75d3319fca49e279e9912db8adf64d03ada8
+Installed-Size: 1584
+Filename: gl-base-files-e750_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 2283
+SHA256sum: 1ad46b6f56fabd75f412f6894a321c27fee36f6a5ebc736654cf9e71ececa238
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-ipq
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 41105
-Filename: gl-base-files-ipq_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 41876
-SHA256sum: ae04b5bf94545329c2d1e5dbdef095c2e1dac3f8aafae03d9d5903e310f4fdee
+Filename: gl-base-files-ipq_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 41875
+SHA256sum: 1437aca551f3bb29968a5fe639a3270b43fba4b572a75278b3c02d98a1e193f3
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-mt
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 9720
-Filename: gl-base-files-mt_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 10435
-SHA256sum: da46119f37a39c6a6b3e9f4bff71ec9fbfa8525851f90cd9a8b230c39ddcec78
+Installed-Size: 9724
+Filename: gl-base-files-mt_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 10445
+SHA256sum: cb36c7e831b6c74fc0ebb999741aabaee9fb031c6e5fe8227bfa5814c81ee511
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-mv1000
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 34210
-Filename: gl-base-files-mv1000_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 35135
-SHA256sum: ccb2da357c2dd55c2b3ffbd3e1c902e9cdc71b8019b2c8c1f3e9bdb55760948d
+Filename: gl-base-files-mv1000_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 35133
+SHA256sum: 0bcb1fa5aba8f52f5611b70df47bb6132cf7a5c1b728326fc0151cbb49648fdf
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-x1200
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 3035
-Filename: gl-base-files-x1200_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 3742
-SHA256sum: ac8edde7819d37a9a0530c9eb3a1b9443e5efd24e90dbbcf7cfdd8a6ed84e446
+Installed-Size: 3017
+Filename: gl-base-files-x1200_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 3720
+SHA256sum: 68ac180c45df27d4d9d83283eac20862a2333f7ad28dd3b8163c5e69c8f5b8c1
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-x300b
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 1396
-Filename: gl-base-files-x300b_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 2099
-SHA256sum: 2f77aa7757fdbeaca267e9eaca5cfc167e01717e33798519e93ac3a6af18fafd
+Installed-Size: 1246
+Filename: gl-base-files-x300b_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 1955
+SHA256sum: 0094d8eb94d20e52817e31fde3f5111935b8e24d28f7e0077ded951e5f8f43cd
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.415-1
+Version: 3.0.425-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 48375
-Filename: gl-base-files_3.0.415-1_aarch64_cortex-a53.ipk
-Size: 49223
-SHA256sum: 4a367702df7506b0d1107a796089895700a3c7d34cc0516c5e98085a8c808218
+Installed-Size: 48333
+Filename: gl-base-files_3.0.425-1_aarch64_cortex-a53.ipk
+Size: 49163
+SHA256sum: e57c04273ae3c33e37c94d72f83537d9952882956054ca383d3ca9b4117cfede
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -182,16 +182,16 @@ SHA256sum: dbf7a800ce047faf5d1878b7931ccbb22f793f9a909f616d3e13db011cd6273c
 Description:  ble ubus setting api and scripts.
 
 Package: gl-bletool
-Version: 3.2.0
-Depends: libc, libubox20191228, libubus20191227, libjson-c2, libblobmsg-json, gl-util
+Version: 3.4.2
+Depends: libc, libubox20191228, libubus20191227, libjson-c2, libblobmsg-json, libuci20130104, libpthread
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ble
 SourceName: gl-bletool
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 23271
-Filename: gl-bletool_3.2.0_aarch64_cortex-a53.ipk
-Size: 23914
-SHA256sum: 4a3d3f9c5f8fe87112b15cc7da7fbc1064d60733e418e3be3cd6b0997ababde8
+Installed-Size: 48707
+Filename: gl-bletool_3.4.2_aarch64_cortex-a53.ipk
+Size: 49459
+SHA256sum: 73034ff7c435a3438f62e6426e2a8e95019f1182e72346a0db1309a985e21b22
 Description:  GL inet BLE driver
 
 Package: gl-cloud-ui
@@ -289,16 +289,16 @@ SHA256sum: 3cfbdd4ff94fdcc4187eb6395a8bcfcc8db9b200d1c758b407ca57cbb44850d6
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
-Version: 3.0.138-1
-Depends: libc, libpthread, libuci20130104, libubus20191227, libblobmsg-json, libubox20191228, smstools3, gl-util, ssmtp
+Version: 3.0.144-1
+Depends: libc, libpthread, libuci20130104, libubus20191227, libblobmsg-json, libubox20191228, smstools3, gl-util, gl-wifi-core, ssmtp
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-modem
 SourceName: gl-modem
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 169338
-Filename: gl-modem_3.0.138-1_aarch64_cortex-a53.ipk
-Size: 169699
-SHA256sum: c1f4108e86cbdce99f1093e358d532f66d8005624f3a1dc46b62f21899fdbdc6
+Installed-Size: 172937
+Filename: gl-modem_3.0.144-1_aarch64_cortex-a53.ipk
+Size: 173311
+SHA256sum: 515b08d1c33a63238ad4051295cd71e419ce7e3dcfe61d0417ab711bcfd28cde
 Description:  GL iNet modem manager
 
 Package: gl-monitor
@@ -308,23 +308,23 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-monitor
 SourceName: gl-monitor
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 7257
+Installed-Size: 7296
 Filename: gl-monitor_3.0.116-1_aarch64_cortex-a53.ipk
-Size: 7980
-SHA256sum: 7c7b0ef0c49425a36d78ad3d58fd49fbd267ccb813f244b10a21c8cad461501e
+Size: 8023
+SHA256sum: 4cb3acffe6e41cd0ac8126c9e4a66d161ac6ee0abbfbfdefeb0a2377b4c80427
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.28-1
+Version: 3.1.30-1
 Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-mqtt
 SourceName: gl-mqtt
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 42322
-Filename: gl-mqtt_3.1.28-1_aarch64_cortex-a53.ipk
-Size: 42536
-SHA256sum: 1826e5496758525954bbe93c225cdb54c076add8e76d1e9c9b05e80350fc846d
+Installed-Size: 43303
+Filename: gl-mqtt_3.1.30-1_aarch64_cortex-a53.ipk
+Size: 43452
+SHA256sum: 52b2213502399cbf678dc0a08e5bfa4e31907160eae387c6eb9c51ed60b172f5
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -373,23 +373,23 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-repeater
 SourceName: gl-repeater
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 4376
+Installed-Size: 4329
 Filename: gl-repeater_3.1.8-1_aarch64_cortex-a53.ipk
-Size: 5096
-SHA256sum: ab62353958f832147d89a4fd7ac1a8bdd529c5ad4dcfc74ab1cdcd8fe9d6746e
+Size: 5050
+SHA256sum: 63b354c92d1158e48b7f2a74636ea424a778d35a5f7af5c79a6d2ed67e635c60
 Description:  GL Health
 
 Package: gl-route-policy
-Version: 3.0.44-1
+Version: 3.0.46-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-route-policy
 SourceName: gl-route-policy
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 11562
-Filename: gl-route-policy_3.0.44-1_aarch64_cortex-a53.ipk
-Size: 12289
-SHA256sum: 050df94445a77247d5821443f5cf5cdee4d0e1849e0c02de9c7f805755fe49e1
+Installed-Size: 11606
+Filename: gl-route-policy_3.0.46-1_aarch64_cortex-a53.ipk
+Size: 12327
+SHA256sum: 313e8ddc75d0e83155c286aaaa606af1db5446a0d0003e75e533918f36c90d5b
 Description:  GL route policy
 
 Package: gl-rs485
@@ -419,29 +419,29 @@ SHA256sum: a8438502ae7c42bc086ff55b33f628852315234e1b2f0d0deb2016e3a36d344a
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.554-1
+Version: 3.0.558-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 293648
-Filename: gl-sdk_3.0.554-1_aarch64_cortex-a53.ipk
-Size: 294212
-SHA256sum: 4a99d925282a933e48dee79d72d8ba37e4e72a6db7726c600e8c3db1146b2036
+Installed-Size: 295204
+Filename: gl-sdk_3.0.558-1_aarch64_cortex-a53.ipk
+Size: 295914
+SHA256sum: 0872efae241baba9c5a260daf682a5236bf497f0b5d8c098f219571c03a573be
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
-Version: 3.0.26-1
+Version: 3.0.27-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-software
 SourceName: gl-software
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 5671
-Filename: gl-software_3.0.26-1_aarch64_cortex-a53.ipk
-Size: 6357
-SHA256sum: 8a24cfafe203221d29bf4343d7ce2316fdf19c900a992b16a24f2c072fb2c4c2
+Filename: gl-software_3.0.27-1_aarch64_cortex-a53.ipk
+Size: 6353
+SHA256sum: 71392019b291df55d71546b009fd21d6bf8e1a2692a13ff96b94115641f364bb
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-ss
@@ -513,55 +513,55 @@ SHA256sum: 7ed117ce56ae9a0f5f8464c39b882962a3b513a917b010cdda52eaac267d904f
 Description:  GL iNet web UI
 
 Package: gl-upload
-Version: 1.0.37-1
+Version: 1.0.38-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, gl-util, libcurl4
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-upload
 SourceName: gl-upload
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 13900
-Filename: gl-upload_1.0.37-1_aarch64_cortex-a53.ipk
-Size: 14603
-SHA256sum: 08e93c65e5831bd74c7a9e20ec7036c1ab7625eb01f7508324ad628b3ffd13de
+Installed-Size: 13788
+Filename: gl-upload_1.0.38-1_aarch64_cortex-a53.ipk
+Size: 14551
+SHA256sum: 2128f76647964383f2e5189f2ec3ad8f845dea0e52f753c1ef0954a34873872e
 Description:  GL.iNet SDK3.0.
 
 Package: gl-util
-Version: 3.0.204-1
+Version: 3.0.205-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, libcurl4, libubox20191228, libubus20191227, libblobmsg-json
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
 SourceName: gl-util
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 38933
-Filename: gl-util_3.0.204-1_aarch64_cortex-a53.ipk
-Size: 39784
-SHA256sum: 280b6f4e46fd640a2f2b8959efad12d7a5a12db9dbb62c11f07b90df3ccec447
+Installed-Size: 39059
+Filename: gl-util_3.0.205-1_aarch64_cortex-a53.ipk
+Size: 39904
+SHA256sum: 4ae8d3dc25c65796d105848f45fc497bc24a39d8e583a3aa9c4865d11c01fab3
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
-Version: 3.0.110-1
+Version: 3.0.111-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 SourceName: gl-vpn-server
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 10998
-Filename: gl-vpn-server_3.0.110-1_aarch64_cortex-a53.ipk
-Size: 11845
-SHA256sum: e29e403a4f61f7d1956e4d11d3f30a31a61672701f218a611be6585a42cc565d
+Filename: gl-vpn-server_3.0.111-1_aarch64_cortex-a53.ipk
+Size: 11851
+SHA256sum: 9032723fc3266af86b3b2c7441f6cd1a31a671e9d98a631a4a123f483c88eefe
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-vpn
-Version: 3.0.110-1
+Version: 3.0.111-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 SourceName: gl-vpn
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 19677
-Filename: gl-vpn_3.0.110-1_aarch64_cortex-a53.ipk
-Size: 20557
-SHA256sum: 0848af1ad6718520d8cfc40101cde535404dfb46a6920bc6310721eb6309c111
+Installed-Size: 19697
+Filename: gl-vpn_3.0.111-1_aarch64_cortex-a53.ipk
+Size: 20576
+SHA256sum: 8c39ff3eba72ca24c1837958b6c2dcae2fd22e8c7dda99fa240eabf14395727b
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -578,29 +578,29 @@ SHA256sum: 54c42e80312484ddb7ef2688e365faa96bf588ab9b58215b615ef55a25eb6ffe
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.79-2
+Version: 3.0.80-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wg
 SourceName: gl-wg-server
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 17222
-Filename: gl-wg-server_3.0.79-2_aarch64_cortex-a53.ipk
-Size: 18124
-SHA256sum: f40768bf028f990ac40fe412e4fe5e252d0ee1dce055bc219cc0564298a1c95d
+Filename: gl-wg-server_3.0.80-2_aarch64_cortex-a53.ipk
+Size: 18123
+SHA256sum: d74a2b85714d48ccbf312619d4b1c86b4e295e940fbd8be82c4d0751c899bd64
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.79-2
+Version: 3.0.80-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wg
 SourceName: gl-wg
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 23289
-Filename: gl-wg_3.0.79-2_aarch64_cortex-a53.ipk
-Size: 24183
-SHA256sum: b326e0f1c97f4d9636efb321d9a206c8ce571b9acc68de4ecaf48a3c4eb0954f
+Installed-Size: 23283
+Filename: gl-wg_3.0.80-2_aarch64_cortex-a53.ipk
+Size: 24173
+SHA256sum: 9d9003258437baddeae53c435293ec0044f74fc418a333dc2091e7eff1a0d062
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
@@ -630,16 +630,16 @@ SHA256sum: 26c28a70785d5362f8b90bc390b685033b319f371222a4db0da41a153a448c76
 Description:  gl XE300 mcu data interface for gl-inet.
 
 Package: gl-xwf
-Version: 1.0.48-1
+Version: 1.0.49-1
 Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xwf
 SourceName: gl-xwf
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 10046
-Filename: gl-xwf_1.0.48-1_aarch64_cortex-a53.ipk
-Size: 10853
-SHA256sum: 9a4e345208e5b77f0533b4eb712df5f6150d940367861c71ee47ccf1a890a04f
+Installed-Size: 10062
+Filename: gl-xwf_1.0.49-1_aarch64_cortex-a53.ipk
+Size: 10871
+SHA256sum: b5f0e835e72e0d5ca3aa01f6e9332a074ec036c7c32800346bcea9f889602349
 Description:  OVS AP initialisation for XWF integration
 
 Package: mt76x8-uci2dat
@@ -656,7 +656,7 @@ SHA256sum: 50e89d94ce8cfc8b5c15016498986e4d66bfc6baef56232efb0c6f84361c7738
 Description:  Translate uci config into ralink wifi dat format
 
 Package: rtty-mbedtls
-Version: 7.3.1-1
+Version: 7.4.0-1
 Depends: libc, libev, libmbedtls12, zlib
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -666,14 +666,14 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 19114
-Filename: rtty-mbedtls_7.3.1-1_aarch64_cortex-a53.ipk
-Size: 19881
-SHA256sum: 616f051ea5c0dbbc3a17a0a161d4d7d5da8e2429b637f93d4ce48e75b41046f1
+Installed-Size: 19346
+Filename: rtty-mbedtls_7.4.0-1_aarch64_cortex-a53.ipk
+Size: 20108
+SHA256sum: bf5aa3180c97a92268fdea6750010062ba871b439e2e3905c4b98f86ea11cd71
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-nossl
-Version: 7.3.1-1
+Version: 7.4.0-1
 Depends: libc, libev
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -683,14 +683,14 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 18089
-Filename: rtty-nossl_7.3.1-1_aarch64_cortex-a53.ipk
-Size: 18825
-SHA256sum: 9feef6ebbf8475cf02997efddf728353359aea0e149228081dba040cb57b96b0
+Installed-Size: 18104
+Filename: rtty-nossl_7.4.0-1_aarch64_cortex-a53.ipk
+Size: 18860
+SHA256sum: db79c1ac9491df0d53d0ff1cb0e400b55d31057c4978ed7164217313807152e5
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
-Version: 7.3.1-1
+Version: 7.4.0-1
 Depends: libc, libev, libopenssl1.1
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -700,14 +700,14 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 18837
-Filename: rtty-openssl_7.3.1-1_aarch64_cortex-a53.ipk
-Size: 19599
-SHA256sum: 58824a2318bc2a7dc5266d78abb0a3b7835ba1035694c3fd21c817ede1ecb43e
+Installed-Size: 19013
+Filename: rtty-openssl_7.4.0-1_aarch64_cortex-a53.ipk
+Size: 19769
+SHA256sum: c40949a66aaf6d2d4ece6f86b18f2321ff00075d45f804e79a22bd94948fc167
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-wolfssl
-Version: 7.3.1-1
+Version: 7.4.0-1
 Depends: libc, libev, libwolfssl24
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -717,9 +717,9 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: aarch64_cortex-a53
-Installed-Size: 18784
-Filename: rtty-wolfssl_7.3.1-1_aarch64_cortex-a53.ipk
-Size: 19542
-SHA256sum: 9b2fabe7776bb2befeea2dad0949187010b383ac942ee18fc9ce04dcaee12b16
+Installed-Size: 18940
+Filename: rtty-wolfssl_7.4.0-1_aarch64_cortex-a53.ipk
+Size: 19658
+SHA256sum: 7d0b067109b18f82597b239f4ea91b699e006dde235b3acc0d074ab41c5186e6
 Description:  Access your terminals from anywhere via the web
 
