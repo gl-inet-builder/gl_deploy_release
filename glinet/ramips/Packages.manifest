@@ -329,16 +329,16 @@ SHA256sum: f54260f7696a0d25a22a96ba1fdd4579375339e8eab302234ddeb38c862655f5
 Description:  This service allows open port and port forwarding.
 
 Package: gl-ipv6
-Version: 3.0.12-1
+Version: 3.0.13-1
 Depends: libc, gl-util, kmod-ipt-nat6
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ipv6
 SourceName: gl-ipv6
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 20222
-Filename: gl-ipv6_3.0.12-1_mipsel_24kc.ipk
-Size: 20905
-SHA256sum: aede45cdc62da3a549f4bc7c57815308db3c1ecbe46fc2398fd2194cc21b143c
+Filename: gl-ipv6_3.0.13-1_mipsel_24kc.ipk
+Size: 20910
+SHA256sum: 1b3ebc949607bf28003ba2cd6d40e1e1b8ed8dac6c8f8589d20c496cebd3f30b
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
@@ -433,16 +433,16 @@ SHA256sum: a983a13216d886e1c86bc7fea842aebd35dbae75c9eef81bb9a3d12d556488ea
 Description:  GL Health
 
 Package: gl-route-policy
-Version: 3.0.46-1
+Version: 3.0.47-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-route-policy
 SourceName: gl-route-policy
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 11142
-Filename: gl-route-policy_3.0.46-1_mipsel_24kc.ipk
-Size: 11842
-SHA256sum: eeb1ffa38c3ea166e2c0ca417ea79a3cc59a06045bf87f973fd6bfe715619108
+Installed-Size: 11236
+Filename: gl-route-policy_3.0.47-1_mipsel_24kc.ipk
+Size: 11922
+SHA256sum: ea0a173ceea5bb956c167e7fee0da55425f98a5d98134cab72ece0e0ecc7f1ad
 Description:  GL route policy
 
 Package: gl-rs485
@@ -553,16 +553,16 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.731-1
+Version: 3.0.732-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
 SourceName: gl-ui
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 1985321
-Filename: gl-ui_3.0.731-1_mipsel_24kc.ipk
-Size: 1981322
-SHA256sum: 2a750b62e99df24119c3ed215bfeb85d6640a084c20ef81ebac52a8320218c2d
+Installed-Size: 1985312
+Filename: gl-ui_3.0.732-1_mipsel_24kc.ipk
+Size: 1981318
+SHA256sum: b461422daaa427602e8344138c98e12130a5e44d77f634f4392260d94b125fe6
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -579,16 +579,16 @@ SHA256sum: bf7b3ac6411cd533f68dac448f5ff07458f37d0b564a01a82151d2b042f0a161
 Description:  GL.iNet SDK3.0.
 
 Package: gl-util
-Version: 3.0.208-1
+Version: 3.0.209-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, libcurl4, libubox20191228, libubus20191227, libblobmsg-json
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
 SourceName: gl-util
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 32831
-Filename: gl-util_3.0.208-1_mipsel_24kc.ipk
-Size: 33648
-SHA256sum: 3766dec50b0a60c8345c749d068eb169692892aa50e54df584e28cc1533e6339
+Filename: gl-util_3.0.209-1_mipsel_24kc.ipk
+Size: 33646
+SHA256sum: 46630b2869ec0a775191573460e3f519cb0b1d89ff277267cca8858322c31d4e
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
@@ -611,10 +611,10 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 SourceName: gl-vpn
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 18160
+Installed-Size: 18627
 Filename: gl-vpn_3.0.112-1_mipsel_24kc.ipk
-Size: 19045
-SHA256sum: 869dd1d3de6cf23da111ab3d0fa8713b18fdef26d0c0e5d2857812f231100b90
+Size: 19503
+SHA256sum: 72fdd12a84f8f2851aa2f1917a84cd79267fe5d612b773c8d3c057c2ff88e492
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -657,16 +657,16 @@ SHA256sum: f682fdb2ef5870fd0d2f68da5e2c41dc916b3a1f38750a27da3714c19fccffdf
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
-Version: 3.0.191-1
+Version: 3.0.192-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
 SourceName: gl-wifi-core
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 23450
-Filename: gl-wifi-core_3.0.191-1_mipsel_24kc.ipk
-Size: 24169
-SHA256sum: 795dcf48e5f84374438e6bf36c5ec47f1650d39a6208be0c883a777201a084b5
+Installed-Size: 23479
+Filename: gl-wifi-core_3.0.192-1_mipsel_24kc.ipk
+Size: 24203
+SHA256sum: 4c0e9de657c8500920e2f2baa169b2ced79541e7a3de5b65b5cfca903ef74c95
 Description:  
 
 Package: gl-xe300-mcu

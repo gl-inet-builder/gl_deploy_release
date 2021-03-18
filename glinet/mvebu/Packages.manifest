@@ -302,16 +302,16 @@ SHA256sum: db8e55f9a957ef63b0510ec7cb530e509006f4f0657ae8aeec6c210c9d0eb7bd
 Description:  This service allows open port and port forwarding.
 
 Package: gl-ipv6
-Version: 3.0.12-1
+Version: 3.0.13-1
 Depends: libc, gl-util, kmod-ipt-nat6
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ipv6
 SourceName: gl-ipv6
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 22097
-Filename: gl-ipv6_3.0.12-1_aarch64_cortex-a53.ipk
-Size: 22788
-SHA256sum: 3cfbdd4ff94fdcc4187eb6395a8bcfcc8db9b200d1c758b407ca57cbb44850d6
+Installed-Size: 22109
+Filename: gl-ipv6_3.0.13-1_aarch64_cortex-a53.ipk
+Size: 22795
+SHA256sum: b9456e863372aa1215beaba5cf9802dcb7372f05048447e726326ee996603ceb
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
@@ -406,16 +406,16 @@ SHA256sum: 895c7e94d07887c224cf00c7432e239002a5b9e701706a82deec7b8f34da3e53
 Description:  GL Health
 
 Package: gl-route-policy
-Version: 3.0.46-1
+Version: 3.0.47-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-route-policy
 SourceName: gl-route-policy
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 11606
-Filename: gl-route-policy_3.0.46-1_aarch64_cortex-a53.ipk
-Size: 12327
-SHA256sum: 313e8ddc75d0e83155c286aaaa606af1db5446a0d0003e75e533918f36c90d5b
+Installed-Size: 11692
+Filename: gl-route-policy_3.0.47-1_aarch64_cortex-a53.ipk
+Size: 12402
+SHA256sum: 25fa506b8afa5601d489c29e11b2cb1ba38b4e6a274c0f89a17a6871377c4192
 Description:  GL route policy
 
 Package: gl-rs485
@@ -552,16 +552,16 @@ SHA256sum: 2128f76647964383f2e5189f2ec3ad8f845dea0e52f753c1ef0954a34873872e
 Description:  GL.iNet SDK3.0.
 
 Package: gl-util
-Version: 3.0.208-1
+Version: 3.0.209-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, libcurl4, libubox20191228, libubus20191227, libblobmsg-json
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
 SourceName: gl-util
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 38413
-Filename: gl-util_3.0.208-1_aarch64_cortex-a53.ipk
-Size: 39245
-SHA256sum: a27749b8ea621a551c8fb06f3325c50dcf6671ac899198c1e7e9908e98586897
+Filename: gl-util_3.0.209-1_aarch64_cortex-a53.ipk
+Size: 39246
+SHA256sum: d4de9cf921eb19b1222f89699de31aefeb48f23f5890b9d2196097352ec4b74c
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
@@ -584,10 +584,10 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 SourceName: gl-vpn
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 19697
+Installed-Size: 20363
 Filename: gl-vpn_3.0.112-1_aarch64_cortex-a53.ipk
-Size: 20574
-SHA256sum: 50c8e6f4fe85bc490d27761eede4a808a42d3145c63e3e9927fbceb9b5839ba2
+Size: 21190
+SHA256sum: 08e30a999161fea07938a78352c2a0a1ce3d4249d5e048c77b429665fef2fbb7
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -630,16 +630,16 @@ SHA256sum: 9d9003258437baddeae53c435293ec0044f74fc418a333dc2091e7eff1a0d062
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
-Version: 3.0.191-1
+Version: 3.0.192-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
 SourceName: gl-wifi-core
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 28031
-Filename: gl-wifi-core_3.0.191-1_aarch64_cortex-a53.ipk
-Size: 28758
-SHA256sum: a932bda8330be72f012cfcdbc4b500a7ff6db4d35c6fb1352902ddf3e00875dc
+Installed-Size: 28016
+Filename: gl-wifi-core_3.0.192-1_aarch64_cortex-a53.ipk
+Size: 28723
+SHA256sum: b08463f87ec087b1808be8a0b71950fbcbd2b5a1990e6b942c1d69f4ac8a022c
 Description:  
 
 Package: gl-xe300-mcu
