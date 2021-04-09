@@ -122,6 +122,12 @@ class Config:
 	else:
 	    return False
 
+    def getType(self, name):
+        if self.data["profiles"][name].has_key("type"):
+            return self.data["profiles"][name]["type"]
+	else:
+	    return "2C"
+
     def getState(self, name):
         if self.data["profiles"][name].has_key("state"):
             return self.data["profiles"][name]["state"]
@@ -422,7 +428,11 @@ def main(argv):
 
         # Output directory
         compile_time = time.strftime('%Y%m%d',time.localtime(time.time()))
-        bin_dir = os.getcwd() + "/bin/"+ compile_time + "/" + image
+	if c.getType(image) == "2B":
+        	bin_dir = os.getcwd() + "/bin/"+ compile_time + "/2B/" + image
+	else:
+        	bin_dir = os.getcwd() + "/bin/"+ compile_time + "/" + image
+
         if not os.path.isdir(bin_dir):
             check_output("mkdir -p %s" % bin_dir, shell=True)
 
@@ -441,7 +451,7 @@ def main(argv):
 	    else:
 		os.system("rm " + bin_dir + "/Do\ not\ use\ until\ this\ file\ is\ removed.txt 2>/dev/null")
             if c.getProfile(image) == "QSDK_Premium":
-                if image == "b1300":
+                if image == "b1300" or image == "b1300_2b":
                     check_call("find single_img_dir/ -name b1300-nor-apps.img | xargs cp -t %s/" \
                             % (bin_dir), shell=True, cwd=im_path)
 
