@@ -2,7 +2,7 @@
 
 SNAPSHOTS_PATH="/home/luo/gl_deploy/"
 RRELEASE_PATH="/home/luo/gl_deploy_release/"
-PLATFORMS="ar71xx ramips ipq806x mvebu"
+PLATFORMS="ath79 ar71xx ramips ipq806x mvebu"
 PACKAGE=$1
 
 [ -z "$PACKAGE" ] && {

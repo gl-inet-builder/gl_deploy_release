@@ -316,6 +316,19 @@ Size: 15663
 SHA256sum: 8cc8dbc5c25368b5865eee44e020e64ba6c513b40fa55131a495439648b526c3
 Description:  gl mcu data interface for gl-inet.
 
+Package: gl-e750-mcu
+Version: 3.0.52-1
+Depends: libc, libjson-c2, gl-util, gl-modem, libpthread, gl-sdk
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-e750-product/gl-e750-mcu
+SourceName: gl-e750-mcu
+Section: base
+Architecture: mips_24kc
+Installed-Size: 15002
+Filename: gl-e750-mcu_3.0.52-1_mips_24kc.ipk
+Size: 15681
+SHA256sum: 339a01313143c5965c91fda6ac3181dbc1ee885936aa062e553d95cab31d62b5
+Description:  gl mcu data interface for gl-inet.
+
 Package: gl-files-brower
 Version: 3.0.10-1
 Depends: libc, gl-util, samba36-server

@@ -486,16 +486,16 @@ SHA256sum: 6c5ac00fa3d3a3d157058c97f57a5a087aa59f781d1a55869d37510a27ab8cfb
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.574-1
+Version: 3.0.579-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
+Source: /home/zjh/gli/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 259122
-Filename: gl-sdk_3.0.574-1_mipsel_24kc.ipk
-Size: 259795
-SHA256sum: 2cc800828e5436364a9c051c82eb7adc9267e4b5e3288e9f7ff6c7aa9a95373c
+Installed-Size: 261855
+Filename: gl-sdk_3.0.579-1_mipsel_24kc.ipk
+Size: 262492
+SHA256sum: 01e6c65fc35b6e44b7161a8e6df441a7c09d41b76ec96b9e3b43a516c51c5520
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -736,10 +736,10 @@ SHA256sum: 3e9b30da370cf5cefa31dce9049d5d5d194e26eefcc884dfa1d620877c65fa51
 Description:  Translate uci config into ralink wifi dat format
 
 Package: rtty-mbedtls
-Version: 7.4.0-3
+Version: 7.4.0-4
 Depends: libc, libev, libmbedtls12, zlib
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: /home/zjh/gli/gl-rtty
 SourceName: rtty-mbedtls
 License: MIT
 LicenseFiles: LICENSE
@@ -747,59 +747,59 @@ Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
 Installed-Size: 16612
-Filename: rtty-mbedtls_7.4.0-3_mipsel_24kc.ipk
-Size: 17425
-SHA256sum: 246d69a572462915319b41425764015af40adaeb7603d9781262fafeb1562017
+Filename: rtty-mbedtls_7.4.0-4_mipsel_24kc.ipk
+Size: 17412
+SHA256sum: c04703574d38339049439a7504ab2877f0efadde5695efc829821667c0efb1e8
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-nossl
-Version: 7.4.0-3
+Version: 7.4.0-4
 Depends: libc, libev
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: /home/zjh/gli/gl-rtty
 SourceName: rtty-nossl
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 15462
-Filename: rtty-nossl_7.4.0-3_mipsel_24kc.ipk
-Size: 16214
-SHA256sum: 84ba93400a555dd73d159fed728ba41ee2445ba99dc02f947ee53fce29aff915
+Installed-Size: 15485
+Filename: rtty-nossl_7.4.0-4_mipsel_24kc.ipk
+Size: 16250
+SHA256sum: b63a70fe14ca69ecaa3255dcd8864aa475656ffc2d99f1abaeddd604e60d63af
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
-Version: 7.4.0-3
+Version: 7.4.0-4
 Depends: libc, libev, libopenssl1.1
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: /home/zjh/gli/gl-rtty
 SourceName: rtty-openssl
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 16307
-Filename: rtty-openssl_7.4.0-3_mipsel_24kc.ipk
-Size: 17060
-SHA256sum: b589a3aa7704466c037fb7b3b45b0ddc1db85e58aef5beb8f4776f2542a621f7
+Installed-Size: 16315
+Filename: rtty-openssl_7.4.0-4_mipsel_24kc.ipk
+Size: 17050
+SHA256sum: 2f7ca8f23f4ac0158fb545ddef1ce8561c3c3bdae8951b0c8450a22c9765a0b6
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-wolfssl
-Version: 7.4.0-3
+Version: 7.4.0-4
 Depends: libc, libev, libwolfssl24
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: /home/zjh/gli/gl-rtty
 SourceName: rtty-wolfssl
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 16254
-Filename: rtty-wolfssl_7.4.0-3_mipsel_24kc.ipk
-Size: 16915
-SHA256sum: 4e218266060fe783b196785a46f6d20b04d601ce56e76e5434e49e7b68de8a12
+Installed-Size: 16252
+Filename: rtty-wolfssl_7.4.0-4_mipsel_24kc.ipk
+Size: 16978
+SHA256sum: 12d8af189b2b4c5da4edde02dee293dc53cb39cb11a890bdbbef89fccfcdf7d6
 Description:  Access your terminals from anywhere via the web
 
