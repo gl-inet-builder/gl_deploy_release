@@ -49,135 +49,135 @@ SHA256sum: c6569b2fed887b2e93ac59826b941ab021c6c34e1b0c0fac09c2ad3e7382fbe7
 Description:  AdGuardHome Stats
 
 Package: gl-base-files-a53
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 21238
-Filename: gl-base-files-a53_3.0.456-1_ipq.ipk
-Size: 22055
-MD5Sum: 259bb13e3b44dd4bfa95569628462725
-SHA256sum: 20174f67b54fdcbc4a70bef2d0050b357e1b19c15fb9fcba4a70631b0cc59fc7
+Installed-Size: 21241
+Filename: gl-base-files-a53_3.0.454-1_ipq.ipk
+Size: 22056
+MD5Sum: 2c599d7cb71c064dd3592efb245d9bac
+SHA256sum: c8e8d798a657af305ac003525243a0b27bc32100ffe31dba0ccf3e918eeffa7c
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 7649
-Filename: gl-base-files-ar_3.0.456-1_ipq.ipk
-Size: 8375
-MD5Sum: 290f0aacf8e1880fa59985a6fe3a8827
-SHA256sum: 55de62a391e822ab08facc8c991cc52f4f05b1bdc5361fcbd6a99726a2709d39
+Installed-Size: 7644
+Filename: gl-base-files-ar_3.0.454-1_ipq.ipk
+Size: 8369
+MD5Sum: aa28fd500c02735858157c7a09540e27
+SHA256sum: c4870b7a0bc1252de686f51f9d10676401354115167e18c6213a894357687e10
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 1571
-Filename: gl-base-files-e750_3.0.456-1_ipq.ipk
-Size: 2262
-MD5Sum: 1aa912dd1797cf3bc520822067610c58
-SHA256sum: 1b62783293706160dff1881ff180a88174a6cefba6e3da9270454db5158ecddb
+Installed-Size: 1568
+Filename: gl-base-files-e750_3.0.454-1_ipq.ipk
+Size: 2263
+MD5Sum: 189b3e622d21273f8479eb24869d33f9
+SHA256sum: 44f8b54e43a32f8be2375badebd73771aeaf59c9dacc58861673906a112d12c7
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 63098
-Filename: gl-base-files-ipq_3.0.456-1_ipq.ipk
-Size: 63670
-MD5Sum: 3919963211043125af02a532c9674867
-SHA256sum: 9dd6ce82e0aa7d31c4fa76b2f3fe45c6d1df9be54faef98c0e4223d63b15f40f
+Installed-Size: 68634
+Filename: gl-base-files-ipq_3.0.454-1_ipq.ipk
+Size: 68797
+MD5Sum: c893439658bdd0c355379e8df66c7653
+SHA256sum: 9f352ca569d62393df23c90f18ac62bb142ee75b8538bcc70cecde6408a4889a
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 4450
-Filename: gl-base-files-mt_3.0.456-1_ipq.ipk
-Size: 5163
-MD5Sum: 9b3fdfb055f2ef23dbb432ddf3f7807a
-SHA256sum: 91b7f6c75782b830c996d4e160e207fb676607572df3f0d8a1355973f3108765
+Installed-Size: 4448
+Filename: gl-base-files-mt_3.0.454-1_ipq.ipk
+Size: 5165
+MD5Sum: 924fbcf590a98a1c1a878649f45d7149
+SHA256sum: cfa4d269020b11d44c4245dd02807db2be5df764333f4279cfe8444615578f96
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 35142
-Filename: gl-base-files-mv1000_3.0.456-1_ipq.ipk
-Size: 36075
-MD5Sum: 17eaa5f55c3687f93f794ccadcaf6c73
-SHA256sum: b34ce941d5cb3eec5a23946131aa98fd793d863aa63c5be0dbc310e3db7a2db1
+Installed-Size: 35145
+Filename: gl-base-files-mv1000_3.0.454-1_ipq.ipk
+Size: 36082
+MD5Sum: 89c4bd5e73bc67f6215ce5a604f8222e
+SHA256sum: 1e4bcde85751d11b2082bcd36948ea4545b3c5ec566cd1692f66d885427af5e2
 Description:  GL iNet base files
 
 Package: gl-base-files-sf
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
 Installed-Size: 334
-Filename: gl-base-files-sf_3.0.456-1_ipq.ipk
-Size: 1028
-MD5Sum: 16eef121f9ec401d063413386eb7fb65
-SHA256sum: daaad838fc0d7bebde1e709138c65b396e0251a1bbe5a82b4fe5848ea46fa019
+Filename: gl-base-files-sf_3.0.454-1_ipq.ipk
+Size: 1026
+MD5Sum: 62858c7b253b0d2d89e2b57898382a51
+SHA256sum: 4b41e87ca123c1e3b14f67248d7f55bd3ca18dc8214badfd2752fd02430f80d6
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 1797
-Filename: gl-base-files-wbf_3.0.456-1_ipq.ipk
-Size: 2499
-MD5Sum: 0d2a7188e1819f71d1d59a95c2cb2913
-SHA256sum: 9073f709ab8c0f8a21104e89ebd84ca9924de8bb51686917d85b1e7f604f4345
+Installed-Size: 1794
+Filename: gl-base-files-wbf_3.0.454-1_ipq.ipk
+Size: 2501
+MD5Sum: 2eb9349fab84e1cd266da61f327d9fd5
+SHA256sum: 95ffffcfa98e4579c951cc7297fc48b54a256c9923e03cc0d6c0e8f74c90c971
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 3012
-Filename: gl-base-files-x1200_3.0.456-1_ipq.ipk
-Size: 3710
-MD5Sum: e27df8ce04493677e94ec8dd2b756eae
-SHA256sum: d907470cd25ecb0d85e4946547062d533fae480dbff7bee5af2688165f3ef0d2
+Installed-Size: 3008
+Filename: gl-base-files-x1200_3.0.454-1_ipq.ipk
+Size: 3705
+MD5Sum: ad268e7c8997831cc22a5dc94b4d294a
+SHA256sum: 89f617001a94b958f8129b4a95be2f4abdb1202082efa0fc4367625d9cf17824
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 1219
-Filename: gl-base-files-x300b_3.0.456-1_ipq.ipk
-Size: 1921
-MD5Sum: 2b9d7be41c7e4cffe7e140c7592d2cc8
-SHA256sum: 42b7605b6f1c2a8b386fb8d4d6b7018f27e8397567869cae15bb26cb9a37c04b
+Installed-Size: 1215
+Filename: gl-base-files-x300b_3.0.454-1_ipq.ipk
+Size: 1918
+MD5Sum: 4d987d8cc445d74697348400dcb5fa50
+SHA256sum: 03c6ea14b2e84aeeccb4c0e8d8a7eb8cd28a974a8d7e59f917e41d8b378dfd55
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.456-1
+Version: 3.0.454-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 48565
-Filename: gl-base-files_3.0.456-1_ipq.ipk
-Size: 49417
-MD5Sum: 14e06e0af69499da46255a3d87d6bfef
-SHA256sum: a10ebfb6f00bf0798932bd18a0da74d0fbad45ccfd49b837b8c9119660ad05f5
+Installed-Size: 48679
+Filename: gl-base-files_3.0.454-1_ipq.ipk
+Size: 49514
+MD5Sum: ded9ce057b7560d06de60aff66d7f9d6
+SHA256sum: 809ad7939a5b911a193e771d13cae1b32f6933e51d8a5dbfbd85e92cce700633
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -240,6 +240,18 @@ MD5Sum: f9ac9c2af7556662151b6982d4b426bd
 SHA256sum: e92346f2cb8d4cbfdb6fb796019970fc52252731d4087723b517f14d4025930c
 Description:  GL inet BLE driver
 
+Package: gl-bletool
+Version: 3.4.6
+Depends: libc, libssp, libubox, libubus, libjson-c, libblobmsg-json, libuci, libpthread
+Section: base
+Architecture: ipq
+Installed-Size: 49424
+Filename: gl-bletool_3.4.6_ipq.ipk
+Size: 50230
+MD5Sum: 7a90b56428139af3d06bc0c3815c99aa
+SHA256sum: 97d8d8a09bbcd5e7f4ff5e7a1ffd0f0063e3e68df53ac3992f2252a90ec701b0
+Description:  GL inet BLE driver
+
 Package: gl-carrier-monitor
 Version: 1
 Depends: libc, libssp, libnl-tiny
@@ -281,15 +293,15 @@ Description:  A framework for timing task, you can register or unregister their 
  task, glcrond will dispatch your task regularly when you register to it.
 
 Package: gl-ddns
-Version: 3.0.24-1
+Version: 3.0.25-1
 Depends: libc, libssp, libjson-c, gl-util, ddns-scripts
 Section: base
 Architecture: ipq
-Installed-Size: 18607
-Filename: gl-ddns_3.0.24-1_ipq.ipk
-Size: 19493
-MD5Sum: 548711851a707365cc741ecd28a9cc1f
-SHA256sum: dde14cd4da24785be93811cf38b09851986a871fcb4c0816c60c4bfe7ddeae5e
+Installed-Size: 18597
+Filename: gl-ddns_3.0.25-1_ipq.ipk
+Size: 19476
+MD5Sum: c5576e5489180aa6b01eb36ee5afd603
+SHA256sum: 164d9b712d0158f4a94047ef0d95bc0f25a2ce4c143f5f0ea2c6b53535d0e10a
 Description:  glddns api for gl-inet.
 
 Package: gl-files-brower
@@ -317,63 +329,63 @@ SHA256sum: 68885377c9490239768219ee931e5c1748fa2bfb1c5bcef54fc8dec78fde727e
 Description:  GL iNet firewall
 
 Package: gl-fw
-Version: 3.0.28-1
+Version: 3.0.29-1
 Depends: libc, libssp, iptables, ip-full, gl-util, libuci
 Section: base
 Architecture: ipq
-Installed-Size: 8351
-Filename: gl-fw_3.0.28-1_ipq.ipk
-Size: 9217
-MD5Sum: 6b442526c3d826212c3986bba16eff8f
-SHA256sum: 40692232f2f79a2eecb45a8d728d3fba95e208f99d6abca8b05399fcbd9a128f
+Installed-Size: 8317
+Filename: gl-fw_3.0.29-1_ipq.ipk
+Size: 9191
+MD5Sum: b7e0b01107bbc4cbad1009b4d956bfd5
+SHA256sum: 7766e3431ad9a158d79ecaa00c6bc524f77482d29af34f96cff3df46862aff42
 Description:  This service allows open port and port forwarding.
 
 Package: gl-ipv6
-Version: 3.0.13-1
+Version: 3.0.14-1
 Depends: libc, libssp, gl-util, kmod-ipt-nat6
 Section: base
 Architecture: ipq
-Installed-Size: 22955
-Filename: gl-ipv6_3.0.13-1_ipq.ipk
-Size: 23669
-MD5Sum: 8db79fe2a679ee1d224045ba643c2828
-SHA256sum: 6538a9ee1b6a69912eddae6afd12825616af7fc282f10e878a6d24c25d0bf0b3
+Installed-Size: 22953
+Filename: gl-ipv6_3.0.14-1_ipq.ipk
+Size: 23668
+MD5Sum: de1a478544dcc41ef00ed9d988621753
+SHA256sum: 289ced1757a469a78ffc613b6d94fb88233f441548d86d96e6953f160cf359cf
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
-Version: 3.0.150-1
+Version: 3.0.154-1
 Depends: libc, libssp, libpthread, libuci, libubus, libblobmsg-json, libubox, smstools3, gl-util, gl-wifi-core, ssmtp
 Section: base
 Architecture: ipq
-Installed-Size: 116008
-Filename: gl-modem_3.0.150-1_ipq.ipk
-Size: 116436
-MD5Sum: e551d310c5539600ed9e4bb45b447a40
-SHA256sum: 0683fbfbf51f7b4474c6526cfb969de91edb444348457b7398bc9aa7808262e6
+Installed-Size: 116015
+Filename: gl-modem_3.0.154-1_ipq.ipk
+Size: 116524
+MD5Sum: e5acaa5ebd5ac45d9da8170deb7934e5
+SHA256sum: 45cf8908f2e013710f92c7d1723c876705b11990ec36758a20fc214733d8ffdc
 Description:  GL iNet modem manager
 
 Package: gl-monitor
-Version: 3.0.121-1
+Version: 3.0.122-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 7358
-Filename: gl-monitor_3.0.121-1_ipq.ipk
-Size: 8060
-MD5Sum: 4e022072604a301e660b68719d0010e4
-SHA256sum: 049ad6856217814ffdfcfb3c917097de114696d4db5c8cf4077e0707da4e102b
+Installed-Size: 7354
+Filename: gl-monitor_3.0.122-1_ipq.ipk
+Size: 8062
+MD5Sum: f582848712c01519164277c749e5cbe4
+SHA256sum: e867d076a8e9a723d1a64cc77c28aa718b185cc6a19967e840e04c4dbd1ede0f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.40-1
+Version: 3.1.41-1
 Depends: libc, libssp, libpthread, mqtt, libcurl, libjson-c, gl-util, gl-wifi-core
 Section: base
 Architecture: ipq
-Installed-Size: 49772
-Filename: gl-mqtt_3.1.40-1_ipq.ipk
-Size: 50129
-MD5Sum: 6f5b0870794309b470e5d02e584b5b97
-SHA256sum: c9c6fc147eca1bc8941b906e5c4166ce366b25182987271dc380c9ace7927695
+Installed-Size: 49875
+Filename: gl-mqtt_3.1.41-1_ipq.ipk
+Size: 50188
+MD5Sum: 894562fb2bd651464d1dce41e50cf100
+SHA256sum: 1a67046f230a6119dc267b9d582554c2d577962670411d886fdefdaa9e064038
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -413,15 +425,15 @@ SHA256sum: f045776a2a77eb3aa391d767a4a76e7493966c2e217af0a5bc2604a04a75e682
 Description:  GL iNet Qos Function
 
 Package: gl-repeater
-Version: 3.1.13-1
+Version: 3.1.14-1
 Depends: libc, libssp, libubus, gl-util, gl-wifi-core, libpthread
 Section: base
 Architecture: ipq
-Installed-Size: 4557
-Filename: gl-repeater_3.1.13-1_ipq.ipk
-Size: 5270
-MD5Sum: b8b013fda762422c3cb3bc05bb7c86a5
-SHA256sum: 390567560cf04ebf0021b4115c8c7f8dc35c8be72399d2bb00f87dd9ad7d9680
+Installed-Size: 4576
+Filename: gl-repeater_3.1.14-1_ipq.ipk
+Size: 5287
+MD5Sum: 7ad360da8b565a322cd7beaef17c4ef6
+SHA256sum: dff4a39f144521083eabe51e53a37b07ba282f67b0d5f03d6ef746cbc2907402
 Description:  GL Health
 
 Package: gl-route-policy
@@ -461,15 +473,15 @@ SHA256sum: 2ae2c4e35294fd1fcf20bc5d2f8b4b93b13aa23fe8b99d03878db833dcd5910d
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.580-1
+Version: 3.0.584-1
 Depends: libc, libssp, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: ipq
-Installed-Size: 304961
-Filename: gl-sdk_3.0.580-1_ipq.ipk
-Size: 304948
-MD5Sum: 083ac172d48576295fab802f8b1aeb96
-SHA256sum: 8764c049b7675bd69d4dd72fccfadd4f641407150f2cc7728d64123d5cc7648b
+Installed-Size: 305264
+Filename: gl-sdk_3.0.584-1_ipq.ipk
+Size: 305230
+MD5Sum: 52762d040545e9b6620b2b938ccf1c43
+SHA256sum: 11b8cb23279bfdb9e17863778c0de6bd8483ea7099ffa49b8c5ce171b5c7929a
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -509,15 +521,15 @@ SHA256sum: b85f5dc2f835cabbfe8efd60f2ffb99a690b168e74e830fb6372f228513b1f85
 Description:  Shadowsocks-libev endpoint api for gl-inet.
 
 Package: gl-tertf
-Version: 4.0.37-1
+Version: 4.0.38-1
 Depends: libc, libssp, libiwinfo, gl-util, libjson-c, gl-traffic, libsqlite3, ebtables
 Section: base
 Architecture: ipq
-Installed-Size: 409849
-Filename: gl-tertf_4.0.37-1_ipq.ipk
-Size: 410713
-MD5Sum: 9886f133bd62272375e1da79040e1962
-SHA256sum: 3166e008049841c114fa8a07bfd59014f76142ab54103817cf4cb47a53316170
+Installed-Size: 409884
+Filename: gl-tertf_4.0.38-1_ipq.ipk
+Size: 410742
+MD5Sum: e04b1e5f5769e95e03725c34211039b1
+SHA256sum: 3b408279e3e129af14531a963ea06f1a3f6037ffe2dd84d9a4fff8bcd5272872
 Description:  Terminal traffic.
 
 Package: gl-tor
@@ -539,9 +551,9 @@ Section: gl-inet
 Architecture: ipq
 Installed-Size: 6845
 Filename: gl-traffic_1.0.5-1_ipq.ipk
-Size: 7736
-MD5Sum: 4e2ea884ac9a2f252382a20ecfe1e1a3
-SHA256sum: be627de3f5f9126fec261b4dabd65d5ca9e22ad37fbe84c669412769b4997675
+Size: 7734
+MD5Sum: e3edd01e01876d87a43771918149b5f1
+SHA256sum: 104acc526b922d42112e91aa6a730896cac06db847c4915850aa3111757ae410
 Description:  iftop does for network usage what top(1) does for CPU usage. It 
  listens to network traffic on a named interface and displays a 
  table of current bandwidth usage by pairs of hosts. Handy for 
@@ -572,39 +584,39 @@ SHA256sum: 5dbb6e59e725eef4e2933328f095e4026ea6a699cca1b491e2b79bebc2b91b51
 Description:  GL.iNet SDK3.0.
 
 Package: gl-util
-Version: 3.0.212-1
+Version: 3.0.213-1
 Depends: libc, libssp, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
 Section: base
 Architecture: ipq
-Installed-Size: 36906
-Filename: gl-util_3.0.212-1_ipq.ipk
-Size: 37261
-MD5Sum: 4461da6e8d7139d30d8a139cc8d93401
-SHA256sum: b52241e73ba5d0fc9f718c99d0824bc50cd19dec4b4cb72237076f9d75e1689b
+Installed-Size: 37026
+Filename: gl-util_3.0.213-1_ipq.ipk
+Size: 37712
+MD5Sum: 7ddbb06848e5d1c047f8de5061d05941
+SHA256sum: 69b55654e369940726b7be00d21d85d915e718da3d820cc5f44bef2251998ca3
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
-Version: 3.0.120-1
+Version: 3.0.121-1
 Depends: libc, libssp, gl-util, openvpn-openssl, openssl-util, resolveip
 Section: base
 Architecture: ipq
-Installed-Size: 11739
-Filename: gl-vpn-server_3.0.120-1_ipq.ipk
-Size: 12583
-MD5Sum: bea90605e449372faef5666310e49824
-SHA256sum: 021fc07427c1000936984fb2cb35f105df43ef7608c01085d47137cad96e9ab1
+Installed-Size: 11743
+Filename: gl-vpn-server_3.0.121-1_ipq.ipk
+Size: 12597
+MD5Sum: 29257961d253c283dadeb0e2323bf8e7
+SHA256sum: a79990daaa4608e9005a332eee42281d04b70ff29ea15d915eb2fd9d48601c30
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-vpn
-Version: 3.0.120-1
+Version: 3.0.121-1
 Depends: libc, libssp, gl-util, openvpn-openssl, openssl-util, resolveip
 Section: base
 Architecture: ipq
-Installed-Size: 20668
-Filename: gl-vpn_3.0.120-1_ipq.ipk
-Size: 21494
-MD5Sum: 05afbf359b3cfa3064a24ac72008946d
-SHA256sum: 901fb6dd5513943f9f8075a160b550407181b7e5377e3e99e81eebbf60bbecbf
+Installed-Size: 20705
+Filename: gl-vpn_3.0.121-1_ipq.ipk
+Size: 21557
+MD5Sum: bb9d169d4774e6a627530cf497fd6f31
+SHA256sum: bafa5ba698cd96d2a5d4e9af7d8a3a9a4e5db747f0f34a960eb5aec521d1173f
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -620,27 +632,27 @@ SHA256sum: 8a686d474c729b13cf45b1030ff6cedb12a2f5ae38d4eb18f7d97e718b25fb46
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.86-2
+Version: 3.0.88-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: ipq
-Installed-Size: 17606
-Filename: gl-wg-server_3.0.86-2_ipq.ipk
-Size: 18422
-MD5Sum: 20dd42cb8467126e73b154eb29f9c7c7
-SHA256sum: 0e48f607b028239cbaa609f3382340fc917df55536f4daf55040fbe69372b9d6
+Installed-Size: 17691
+Filename: gl-wg-server_3.0.88-2_ipq.ipk
+Size: 18507
+MD5Sum: d73fcc6c0af27fe91a34369dcfa9320a
+SHA256sum: 8b26c50308e9aa67c4e10fc2e72cc6e2b2f188fa0a1cb143b7c1ff8978bfcb94
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.86-2
+Version: 3.0.88-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: ipq
-Installed-Size: 25025
-Filename: gl-wg_3.0.86-2_ipq.ipk
-Size: 25887
-MD5Sum: c6cb7f2bd9754a0b05dd24acb21ecff1
-SHA256sum: 367424597251159d7543323064d063c8553ad7cea9f90924216c38a982b8be6d
+Installed-Size: 25046
+Filename: gl-wg_3.0.88-2_ipq.ipk
+Size: 25839
+MD5Sum: 93bfa7f9ee4171c35bfbe189946b7440
+SHA256sum: 394c825608c20abd6c61877e6569dfdc010cf8c62c859187334eac4961cec5ef
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
@@ -648,35 +660,23 @@ Version: 3.0.195-1
 Depends: libc, libssp, gl-util
 Section: base
 Architecture: ipq
-Installed-Size: 28409
+Installed-Size: 28411
 Filename: gl-wifi-core_3.0.195-1_ipq.ipk
-Size: 29051
-MD5Sum: 3c40369afda836517af9ed3d37dcdf3e
-SHA256sum: dd3f67f1df6a9c00a6cf669eb473deec43545be6aeb4f60800df83b36b3b9058
+Size: 29109
+MD5Sum: 98a56e8f49b3201959794b11f5a30b8a
+SHA256sum: ce6dff0433c405854a8ff0ca50e7d97ac10e59259251a0d470dad749e46e5051
 Description:  
 
 Package: gl-wifison
-Version: 3.0.87-1
+Version: 3.0.112-1
 Depends: libc, libssp, qca-whc-repacd, qca-hyd, qca-wpa-cli, qca-hostapd-cli, gl-util, gl-base-files
 Section: glinet
 Architecture: ipq
-Installed-Size: 67270
-Filename: gl-wifison_3.0.87-1_ipq.ipk
-Size: 68132
-MD5Sum: 5b529dec29d5578ee0e80617269d38c0
-SHA256sum: 4e5c2be825cdf3d9a07311f7612b008794d455ff358161b945bfad0c9b8d041e
-Description:  wifi son setting api and scripts.
-
-Package: gl-wifison
-Version: 3.0.94-1
-Depends: libc, libssp, qca-whc-repacd, qca-hyd, qca-wpa-cli, qca-hostapd-cli, gl-util, gl-base-files
-Section: glinet
-Architecture: ipq
-Installed-Size: 69317
-Filename: gl-wifison_3.0.94-1_ipq.ipk
-Size: 70207
-MD5Sum: 23e61879cec2a5b7c3d868fa681f28f4
-SHA256sum: acb94fa66cfedc028de28aa1c380c9843ec2b2d9579d600f5080c18aa1d3aa29
+Installed-Size: 69570
+Filename: gl-wifison_3.0.112-1_ipq.ipk
+Size: 70487
+MD5Sum: 6b6b28926e3596adaedce0c567805f0c
+SHA256sum: 3957e91b17ff731fbba5b8b3285557aab687f8941e68c709dc988c130ff2549e
 Description:  wifi son setting api and scripts.
 
 Package: gl-xe300-mcu
@@ -692,82 +692,26 @@ SHA256sum: 081b0558eb4b8c7a5eea33eced4584bb477474e0d470955f187c496b3ed17c30
 Description:  gl XE300 mcu data interface for gl-inet.
 
 Package: gl-xwf
-Version: 1.0.51-4
+Version: 1.0.54-1
 Depends: libc, libssp, kmod-veth, openvswitch, libjson-c, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
 Section: base
 Architecture: ipq
-Installed-Size: 11862
-Filename: gl-xwf_1.0.51-4_ipq.ipk
-Size: 12660
-MD5Sum: 309212432b2b711d514ad49512a4ef5a
-SHA256sum: 4d59f6caabb0db7899364dc99a72f1473b0948bd3a060604772d2ac3ba7e5f89
+Installed-Size: 11635
+Filename: gl-xwf_1.0.54-1_ipq.ipk
+Size: 12420
+MD5Sum: 905ed29fd24da810ce0c2edc136a957f
+SHA256sum: b3a6e4964dcd65b3f3aa4a03b209006a3e342b4ecf54896fd0bc14a980507a24
 Description:  OVS AP initialisation for XWF integration
 
 Package: mt76x8-uci2dat
-Version: 3.0.4-7
+Version: 3.0.4-9
 Depends: libc, libssp, libuci
 Section: base
 Architecture: ipq
-Installed-Size: 17931
-Filename: mt76x8-uci2dat_3.0.4-7_ipq.ipk
-Size: 18668
-MD5Sum: cbac4d6e4fc300de02c59d30d7866370
-SHA256sum: a8605880bb1b52fb6ce908a6f0ba768ed23081472af01b1c594cd603adfa2d84
+Installed-Size: 18077
+Filename: mt76x8-uci2dat_3.0.4-9_ipq.ipk
+Size: 18799
+MD5Sum: 3f9877ce2cf3afc13c5cf50d408b57ba
+SHA256sum: 342b11650abf22fece28bf1de0f64e48ca3312f6190282298c0129bbd107a057
 Description:  Translate uci config into ralink wifi dat format
-
-Package: rtty-mbedtls
-Version: 7.4.0-4
-Depends: libc, libssp, libev, libmbedtls, zlib
-Provides: rtty
-License: MIT
-Section: utils
-Architecture: ipq
-Installed-Size: 18250
-Filename: rtty-mbedtls_7.4.0-4_ipq.ipk
-Size: 19027
-MD5Sum: c272cda63b56d6fcdf5e1fccbc8eadf3
-SHA256sum: f688d7e251a0bbb9b1ff07bf544cf5f0f21ac613f44581dd0a06633312b7668a
-Description:  Access your terminals from anywhere via the web
-
-Package: rtty-nossl
-Version: 7.4.0-4
-Depends: libc, libssp, libev
-Provides: rtty
-License: MIT
-Section: utils
-Architecture: ipq
-Installed-Size: 17067
-Filename: rtty-nossl_7.4.0-4_ipq.ipk
-Size: 17825
-MD5Sum: 3101a55c9d3a6ea00093e26f865d3c9c
-SHA256sum: 735e4fdb9af5c304fccac2d061071e1d108827298bd832a19e663c3cbd3cd467
-Description:  Access your terminals from anywhere via the web
-
-Package: rtty-openssl
-Version: 7.4.0-4
-Depends: libc, libssp, libev, libopenssl
-Provides: rtty
-License: MIT
-Section: utils
-Architecture: ipq
-Installed-Size: 17965
-Filename: rtty-openssl_7.4.0-4_ipq.ipk
-Size: 18673
-MD5Sum: 310be1ee00ac949f2b2a1e4d25a21b40
-SHA256sum: 0d9023e1aa8eb939c75c15ee6fb8eff93fd115c198bc5b1bd98040a6ae5d9531
-Description:  Access your terminals from anywhere via the web
-
-Package: rtty-wolfssl
-Version: 7.4.0-4
-Depends: libc, libssp, libev, libwolfssl
-Provides: rtty
-License: MIT
-Section: utils
-Architecture: ipq
-Installed-Size: 17889
-Filename: rtty-wolfssl_7.4.0-4_ipq.ipk
-Size: 18603
-MD5Sum: c81e6e660f2a7e48843a87b30173f95b
-SHA256sum: 342e7b8cfa43b6f1cb4396f643eb39263c497bc23f6fb42bdcc82cc5437194ee
-Description:  Access your terminals from anywhere via the web
 
