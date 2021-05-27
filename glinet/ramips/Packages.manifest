@@ -182,16 +182,16 @@ SHA256sum: c258ae93d0fec830c4b7d191d1631671e516ddd48dbade57b761a656db044901
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
-Version: 3.0.153-1
+Version: 3.0.154-1
 Depends: libc, libpthread, libuci20130104, libubus20191227, libblobmsg-json, libubox20191228, smstools3, gl-util, gl-wifi-core, ssmtp
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-modem
 SourceName: gl-modem
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 103942
-Filename: gl-modem_3.0.153-1_mipsel_24kc.ipk
-Size: 104815
-SHA256sum: d9e6b288495252b143a588216dae2003ecadf5b21074f9cfa4ff58345653aa63
+Installed-Size: 103792
+Filename: gl-modem_3.0.154-1_mipsel_24kc.ipk
+Size: 104637
+SHA256sum: 207fa933658e084280dc6901e7860af02fc8ef359999c7f9643cc6a421972b90
 Description:  GL iNet modem manager
 
 Package: gl-monitor
@@ -214,10 +214,10 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 261817
+Installed-Size: 262165
 Filename: gl-sdk_3.0.584-1_mipsel_24kc.ipk
-Size: 262383
-SHA256sum: b541c6fb8981c4ca4b981ae0eda6da0c7695b92f1c4918a0ae6f32b32e53ae96
+Size: 262887
+SHA256sum: 7baf9210fd6343d148a8f7469e003132afe518ee0f5a487fcc30b3a62fc1fc7e
 Description:  GL.iNet SDK3.0.
 
 Package: gl-tertf
@@ -256,10 +256,10 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
 SourceName: gl-util
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 32907
+Installed-Size: 32922
 Filename: gl-util_3.0.213-1_mipsel_24kc.ipk
-Size: 33722
-SHA256sum: 5e4dabd57661dd28fa9f3787424b35ead0111664212930f7ef02266d82be99c7
+Size: 33741
+SHA256sum: 379688693eae096a50642155a1962166ccfec6cb0d06a8893dd3e2278bc29af3
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
@@ -314,16 +314,97 @@ Size: 23440
 SHA256sum: f73b17856718a3365c72175d80290ecbff9a5db91081042bbf97da10df728749
 Description:  wireguard endpoint api for gl-inet.
 
+Package: gl-wifi-core
+Version: 3.0.195-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
+SourceName: gl-wifi-core
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 23982
+Filename: gl-wifi-core_3.0.195-1_mipsel_24kc.ipk
+Size: 24693
+SHA256sum: e6b49d517ec7fe270d0e8d4c9c10c8b31b375548ee06ddbbd32c52214259bd14
+Description:  
+
 Package: gl-xwf
-Version: 1.0.54-1
+Version: 1.0.55-1
 Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xwf
 SourceName: gl-xwf
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 10288
-Filename: gl-xwf_1.0.54-1_mipsel_24kc.ipk
-Size: 11090
-SHA256sum: 112d782cf6b3d32fb6ac00b7c28d0c9a210000e1a4c7f5b7e78038962da2d90a
+Installed-Size: 10330
+Filename: gl-xwf_1.0.55-1_mipsel_24kc.ipk
+Size: 11134
+SHA256sum: 94282e298e625ad1f5cc66f8a90f7a4500009d8f121007aa5251aad2e060b8b7
 Description:  OVS AP initialisation for XWF integration
+
+Package: rtty-mbedtls
+Version: 7.4.1-1
+Depends: libc, libev, libmbedtls12, zlib
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-mbedtls
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mipsel_24kc
+Installed-Size: 18663
+Filename: rtty-mbedtls_7.4.1-1_mipsel_24kc.ipk
+Size: 19507
+SHA256sum: 18f7fa96c5c6209d59885d087075b8382b737a4c4a9f7b7f8223b90477e11dbf
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-nossl
+Version: 7.4.1-1
+Depends: libc, libev
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-nossl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mipsel_24kc
+Installed-Size: 15957
+Filename: rtty-nossl_7.4.1-1_mipsel_24kc.ipk
+Size: 16780
+SHA256sum: 09fbcf7787a8813ba509266db8db71e645407afaa8e5fc5a0a647044027d8fa3
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-openssl
+Version: 7.4.1-1
+Depends: libc, libev, libopenssl1.1
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-openssl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mipsel_24kc
+Installed-Size: 18114
+Filename: rtty-openssl_7.4.1-1_mipsel_24kc.ipk
+Size: 18936
+SHA256sum: 9824335c291024a71a5743e63754eeb2eb81a8d0b524c20fa2c96eac3db6102d
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-wolfssl
+Version: 7.4.1-1
+Depends: libc, libev, libwolfssl24
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-wolfssl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mipsel_24kc
+Installed-Size: 18126
+Filename: rtty-wolfssl_7.4.1-1_mipsel_24kc.ipk
+Size: 18949
+SHA256sum: 6f9bbc4ad2c7d112e5782743ea84054fe7144ad76d0da1470280bbb4ecece182
+Description:  Access your terminals from anywhere via the web
 
