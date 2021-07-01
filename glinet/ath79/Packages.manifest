@@ -355,3 +355,503 @@ Size: 4309
 SHA256sum: 896a9f9c4a2a1fb0d015df7997bfb720db450e0b8bc5ef8551eb0eb2d0cb5137
 Description:  Openvpn server endpoint api for gl-inet.
 
+Package: gl-firewall
+Version: 3.0.5-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-firewall
+SourceName: gl-firewall
+Section: base
+Architecture: mips_24kc
+Installed-Size: 722
+Filename: gl-firewall_3.0.5-1_mips_24kc.ipk
+Size: 1423
+SHA256sum: 2124d924df6c77107c47310aa70fac53012e571f7ddeaea00fa96d4850b2938d
+Description:  GL iNet firewall
+
+Package: gl-fw
+Version: 3.0.29-1
+Depends: libc, iptables, ip-full, gl-util, libuci20130104
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-fw
+SourceName: gl-fw
+Section: base
+Architecture: mips_24kc
+Installed-Size: 7459
+Filename: gl-fw_3.0.29-1_mips_24kc.ipk
+Size: 8368
+SHA256sum: 0389a2bb11cd2f887f106d2835401ab2cbf59f0e670d715a77ec6e3f7c3afa3d
+Description:  This service allows open port and port forwarding.
+
+Package: gl-gps
+Version: 3.0.17-1
+Depends: libc, gl-util, libjson-c2
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-x1200-product/gl-x1200-gps
+SourceName: gl-gps
+Section: base
+Architecture: mips_24kc
+Installed-Size: 8501
+Filename: gl-gps_3.0.17-1_mips_24kc.ipk
+Size: 9222
+SHA256sum: 007260e20d99ce550175f588019c3f1738de4457ba498f5009d9df0a2defcfe9
+Description:  Get GPS data.
+
+Package: gl-ipv6
+Version: 3.0.14-1
+Depends: libc, gl-util, kmod-ipt-nat6
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ipv6
+SourceName: gl-ipv6
+Section: base
+Architecture: mips_24kc
+Installed-Size: 20229
+Filename: gl-ipv6_3.0.14-1_mips_24kc.ipk
+Size: 20912
+SHA256sum: 055f984e97b49a39ed8d6949e2086664ebbbec7931ae63073dbddf5aea98b4a1
+Description:  ipv6 function for gl-inet.
+
+Package: gl-modem
+Version: 3.0.154-1
+Depends: libc, libpthread, libuci20130104, libubus20191227, libblobmsg-json, libubox20191228, smstools3, gl-util, gl-wifi-core, ssmtp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-modem
+SourceName: gl-modem
+Section: base
+Architecture: mips_24kc
+Installed-Size: 105245
+Filename: gl-modem_3.0.154-1_mips_24kc.ipk
+Size: 105983
+SHA256sum: 44b4b5f2f5a81833aa1e3775da29a8db51dc3eebba5c5469222b2e47027adf89
+Description:  GL iNet modem manager
+
+Package: gl-monitor
+Version: 3.0.122-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-monitor
+SourceName: gl-monitor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 7338
+Filename: gl-monitor_3.0.122-1_mips_24kc.ipk
+Size: 8044
+SHA256sum: ac5e472b2fc795bc782b8438f082876d4233801c2da7166f77e48cfa3a04b77f
+Description:  gl-monitor
+
+Package: gl-mqtt
+Version: 3.1.42-1
+Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-mqtt
+SourceName: gl-mqtt
+Section: base
+Architecture: mips_24kc
+Installed-Size: 39654
+Filename: gl-mqtt_3.1.42-1_mips_24kc.ipk
+Size: 39908
+SHA256sum: 419c2efc6a305407905669bb0aa989416a86bc5fb220cedb95e19c2bcfe9bf30
+Description:  MQTT common libary
+
+Package: gl-portal
+Version: 3.0.24-1
+Depends: libc, libjson-c2, gl-util, nodogsplash
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
+SourceName: gl-portal
+Section: base
+Architecture: mips_24kc
+Installed-Size: 87983
+Filename: gl-portal_3.0.24-1_mips_24kc.ipk
+Size: 89061
+SHA256sum: 0256d9599fe90f5c812e171c332ac6ae958ffe42fbc0778f616881891e1d41eb
+Description:  glportal api for gl-inet.
+
+Package: gl-qos-internal
+Version: 3.0.37-1
+Depends: libc, gl-util, libjson-c2, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-qos
+SourceName: gl-qos-internal
+Section: base
+Architecture: mips_24kc
+Installed-Size: 6718
+Filename: gl-qos-internal_3.0.37-1_mips_24kc.ipk
+Size: 7533
+SHA256sum: c225d8175f2b9badb73819e6ad0c6be71a46219ee09bea88d6306a4f902fd178
+Description:  GL iNet Qos Function
+
+Package: gl-qos
+Version: 3.0.37-1
+Depends: libc, gl-util, libjson-c2, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-qos
+SourceName: gl-qos
+Section: base
+Architecture: mips_24kc
+Installed-Size: 32653
+Filename: gl-qos_3.0.37-1_mips_24kc.ipk
+Size: 33820
+SHA256sum: 94e725058c4bad8556fb2a0b2484d30f01185162d40ed06ff9774d8b70e04456
+Description:  GL iNet Qos Function
+
+Package: gl-repeater
+Version: 3.1.15-1
+Depends: libc, libubus20191227, gl-util, gl-wifi-core, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-repeater
+SourceName: gl-repeater
+Section: base
+Architecture: mips_24kc
+Installed-Size: 4068
+Filename: gl-repeater_3.1.15-1_mips_24kc.ipk
+Size: 4793
+SHA256sum: c568414b10b84159a27f3347fd03e868255df650e2a027c69b37b2b7ae866775
+Description:  GL Health
+
+Package: gl-route-policy
+Version: 3.0.49-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-route-policy
+SourceName: gl-route-policy
+Section: base
+Architecture: mips_24kc
+Installed-Size: 11274
+Filename: gl-route-policy_3.0.49-1_mips_24kc.ipk
+Size: 11969
+SHA256sum: 336df0eee1a3607ad60b49cd1d510f8ffb6dbdb11885f223f1656d81788cef8b
+Description:  GL route policy
+
+Package: gl-rs485
+Version: 1.2.4-1
+Depends: libc, libblobmsg-json, gl-util, libuci20130104, libjson-c2, mqtt
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rs485
+SourceName: gl-rs485
+Section: base
+Architecture: mips_24kc
+Installed-Size: 21925
+Filename: gl-rs485_1.2.4-1_mips_24kc.ipk
+Size: 22658
+SHA256sum: fcd4df3239f48548d37890eb10a5dbdaed57eea2ff64b8fe20633121f73bdd16
+Description:  gl rs485 for gl-inet.
+
+Package: gl-s2s
+Version: 1.0.24-1
+Depends: libc, wireguard, libjson-c2, libubox20191228, libubus20191227, gl-util, gl-crond
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-s2s
+SourceName: gl-s2s
+Section: base
+Architecture: mips_24kc
+Installed-Size: 15683
+Filename: gl-s2s_1.0.24-1_mips_24kc.ipk
+Size: 16515
+SHA256sum: 49edf137d4e01889ba7fdb6ac830ba0b720e8f063736fc232a4bfee40dd13f1e
+Description:  It is the Site to Site API for GL.iNet. 
+
+Package: gl-sdk
+Version: 3.0.586-1
+Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
+SourceName: gl-sdk
+Section: base
+Architecture: mips_24kc
+Installed-Size: 266361
+Filename: gl-sdk_3.0.586-1_mips_24kc.ipk
+Size: 266353
+SHA256sum: 619125b7aa5d9ad53545d5be97e4c8bd4032d07c959d26a19dad66950ec8127f
+Description:  GL.iNet SDK3.0.
+
+Package: gl-software
+Version: 3.0.28-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-software
+SourceName: gl-software
+Section: base
+Architecture: mips_24kc
+Installed-Size: 5777
+Filename: gl-software_3.0.28-1_mips_24kc.ipk
+Size: 6506
+SHA256sum: e1460ff30ce91c29c866738a6e4535e33d1f1241e8632fcffbfdb4251a524d44
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-ss
+Version: 3.0.12-1
+Depends: libc, gl-util, libjson-c2, shadowsocks-libev, luci-app-shadowsocks
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ss
+SourceName: gl-ss
+Section: base
+Architecture: mips_24kc
+Installed-Size: 7322
+Filename: gl-ss_3.0.12-1_mips_24kc.ipk
+Size: 8212
+SHA256sum: 329036cf5b5dca6bb8e9d211a53297febfcfa2215a23d66efbafec514b379de8
+Description:  Shadowsocks-libev endpoint api for gl-inet.
+
+Package: gl-tertf
+Version: 4.0.39-1
+Depends: libc, libiwinfo20181126, gl-util, libjson-c2, gl-traffic, libsqlite3-0, ebtables
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tertf
+SourceName: gl-tertf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 407126
+Filename: gl-tertf_4.0.39-1_mips_24kc.ipk
+Size: 407967
+SHA256sum: ed8cb4ab3822cb141280a22242cfc26cb58a618dbe149191409d0d0606436c9c
+Description:  Terminal traffic.
+
+Package: gl-tor
+Version: 3.1.2-1
+Depends: libc, tor, tor-geoip, libjson-c2, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tor
+SourceName: gl-tor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 3970
+Filename: gl-tor_3.1.2-1_mips_24kc.ipk
+Size: 4707
+SHA256sum: ea3960aadf5868c74d7e18733a05e2b7d7e138c9c3e134b0c2b345325d3adfaf
+Description:  GL iNet tor interface
+
+Package: gl-traffic
+Version: 1.0.5-1
+Depends: libc, libpcap1, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tertf/gl-traffic
+SourceName: gl-traffic
+Section: gl-inet
+Architecture: mips_24kc
+Installed-Size: 6142
+Filename: gl-traffic_1.0.5-1_mips_24kc.ipk
+Size: 6982
+SHA256sum: 53a24cab179a36b7e7eb49109d4b0053e47b72207ba17158bf3f210bad0c36dc
+Description:  iftop does for network usage what top(1) does for CPU usage. It 
+ listens to network traffic on a named interface and displays a 
+ table of current bandwidth usage by pairs of hosts. Handy for 
+ answering the question 'why is our ADSL link so slow?'.
+
+Package: gl-uart
+Version: 3.0.11-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-x1200-product/gl-x1200-uart
+SourceName: gl-uart
+Section: base
+Architecture: mips_24kc
+Installed-Size: 4426
+Filename: gl-uart_3.0.11-1_mips_24kc.ipk
+Size: 5126
+SHA256sum: 6e4385e6d8316f0263d2b6fa1d1d8d01d362e11e7ebb013e4211b83cee0131bc
+Description:  VPN daemon for gl-inet.
+
+Package: gl-ui
+Version: 3.0.749-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
+SourceName: gl-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1988787
+Filename: gl-ui_3.0.749-1_mips_24kc.ipk
+Size: 1984929
+SHA256sum: 4394414f220f1234cbf1d132f203641e5ecf77472a53accd4c8eda068a130663
+Description:  GL iNet web UI
+
+Package: gl-upload
+Version: 1.0.39-1
+Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, gl-util, libcurl4
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-upload
+SourceName: gl-upload
+Section: base
+Architecture: mips_24kc
+Installed-Size: 12925
+Filename: gl-upload_1.0.39-1_mips_24kc.ipk
+Size: 13656
+SHA256sum: bf916d0423a33be1fd6dce2d03d1dea3f0fdfdd450f63639ed4f65fe1fbe0e85
+Description:  GL.iNet SDK3.0.
+
+Package: gl-util
+Version: 3.0.213-1
+Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, libcurl4, libubox20191228, libubus20191227, libblobmsg-json
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
+SourceName: gl-util
+Section: base
+Architecture: mips_24kc
+Installed-Size: 33271
+Filename: gl-util_3.0.213-1_mips_24kc.ipk
+Size: 34086
+SHA256sum: 6e6d687824e4a97da0725a39688042bb22a719f39e9d0d4616083e62bcf5868e
+Description:  GL.iNet SDK3.0.
+
+Package: gl-vpn-server
+Version: 3.0.121-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
+SourceName: gl-vpn-server
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10905
+Filename: gl-vpn-server_3.0.121-1_mips_24kc.ipk
+Size: 11738
+SHA256sum: 1e6e4ec041353c399b75044f14a83843dac30d6b1330e1cd448b079f9028d4e7
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-vpn
+Version: 3.0.121-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
+SourceName: gl-vpn
+Section: base
+Architecture: mips_24kc
+Installed-Size: 19184
+Filename: gl-vpn_3.0.121-1_mips_24kc.ipk
+Size: 20054
+SHA256sum: b308a9101d3c1db93e448be80bb7c628f70fb255b0415cb5d4b24268a70717c6
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-wan-detect
+Version: 3.0.1-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wan-detect
+SourceName: gl-wan-detect
+Section: base
+Architecture: mips_24kc
+Installed-Size: 11624
+Filename: gl-wan-detect_3.0.1-1_mips_24kc.ipk
+Size: 12330
+SHA256sum: f5ce713b117f75c40da1b059a4f55b0010b45d22217d3e56afaefac07786cac6
+Description:  GL Auto Detect Wan Type
+
+Package: gl-wg-server
+Version: 3.0.88-2
+Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wg
+SourceName: gl-wg-server
+Section: base
+Architecture: mips_24kc
+Installed-Size: 16474
+Filename: gl-wg-server_3.0.88-2_mips_24kc.ipk
+Size: 17389
+SHA256sum: 44e129b80c05d067f1d1cc76cdee4bd5e043e419b3b69e3099beff39d8568592
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wg
+Version: 3.0.88-2
+Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wg
+SourceName: gl-wg
+Section: base
+Architecture: mips_24kc
+Installed-Size: 22759
+Filename: gl-wg_3.0.88-2_mips_24kc.ipk
+Size: 23637
+SHA256sum: 34b778f4bf1696e2971898f2123e447e896d541252ee16495750b85b46ff138a
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wifi-core
+Version: 3.0.195-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
+SourceName: gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 24190
+Filename: gl-wifi-core_3.0.195-1_mips_24kc.ipk
+Size: 24906
+SHA256sum: 2548d1eed09e86f737a242decfe9bf8004e5c924c1e80c8c08365d7c214cfb29
+Description:  
+
+Package: gl-xe300-mcu
+Version: 3.0.4-1
+Depends: libc, libjson-c2, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xe300-mcu
+SourceName: gl-xe300-mcu
+Section: base
+Architecture: mips_24kc
+Installed-Size: 7077
+Filename: gl-xe300-mcu_3.0.4-1_mips_24kc.ipk
+Size: 7830
+SHA256sum: abf4488140de75b4d7929cc7876e367d52bb66145da4435c78e32b1b24fb0da5
+Description:  gl XE300 mcu data interface for gl-inet.
+
+Package: gl-xwf
+Version: 1.0.55-1
+Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xwf
+SourceName: gl-xwf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10385
+Filename: gl-xwf_1.0.55-1_mips_24kc.ipk
+Size: 11189
+SHA256sum: 39e2ab090d83eecd14131d53aebc098486fb117b028da07c3fc56a928026fbf6
+Description:  OVS AP initialisation for XWF integration
+
+Package: mt76x8-uci2dat
+Version: 3.0.4-9
+Depends: libc, libuci20130104
+Source: /home/glinet/builds/zkXze51p/0/gl.router/mt76x8-uci2dat
+SourceName: mt76x8-uci2dat
+Section: base
+Architecture: mips_24kc
+Installed-Size: 17426
+Filename: mt76x8-uci2dat_3.0.4-9_mips_24kc.ipk
+Size: 18109
+SHA256sum: f26bef4f82dcf45bce1775b7d032514ffa498a6887bd526849bfe2561a5e1417
+Description:  Translate uci config into ralink wifi dat format
+
+Package: rtty-mbedtls
+Version: 7.4.2-1
+Depends: libc, libev, libmbedtls12, zlib
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-mbedtls
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 18607
+Filename: rtty-mbedtls_7.4.2-1_mips_24kc.ipk
+Size: 19318
+SHA256sum: 78737433857d2b808ea2f191c32277b6a0cdcc6f3022e97a89d7bc2d3aeca55b
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-nossl
+Version: 7.4.2-1
+Depends: libc, libev
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-nossl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 15860
+Filename: rtty-nossl_7.4.2-1_mips_24kc.ipk
+Size: 16571
+SHA256sum: bbc0aeb15a24d86e552276ab5fd127ce90a474200c5b45d011e9253a6f09cde5
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-openssl
+Version: 7.4.2-1
+Depends: libc, libev, libopenssl1.1
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-openssl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 18067
+Filename: rtty-openssl_7.4.2-1_mips_24kc.ipk
+Size: 18771
+SHA256sum: cdd19ca978e2b1e246e2369e72034aa39dcb4eeecaa3bc6ba21ab7b0963451c1
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-wolfssl
+Version: 7.4.2-1
+Depends: libc, libev, libwolfssl24
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-wolfssl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 18097
+Filename: rtty-wolfssl_7.4.2-1_mips_24kc.ipk
+Size: 18796
+SHA256sum: 606c281281c0c02034c96c4169c9494790822238703248d920124706cd11ca37
+Description:  Access your terminals from anywhere via the web
+

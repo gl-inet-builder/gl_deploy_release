@@ -207,6 +207,32 @@ Size: 8043
 SHA256sum: 01f7f75318338773cc0761498452b0b9a4806dc23da17bf5148de1d4b36c977b
 Description:  gl-monitor
 
+Package: gl-mqtt
+Version: 3.1.42-1
+Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-mqtt
+SourceName: gl-mqtt
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 39078
+Filename: gl-mqtt_3.1.42-1_mipsel_24kc.ipk
+Size: 39461
+SHA256sum: 465eb91ef749c3bd4dd6a2ea4d4235c9eefcf0795805898b51b608ab48af0d38
+Description:  MQTT common libary
+
+Package: gl-repeater
+Version: 3.1.15-1
+Depends: libc, libubus20191227, gl-util, gl-wifi-core, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-repeater
+SourceName: gl-repeater
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 4084
+Filename: gl-repeater_3.1.15-1_mipsel_24kc.ipk
+Size: 4808
+SHA256sum: db0300052a384a6396af96df6e0c60297309bb6f858023d6cb85fb787417aa70
+Description:  GL Health
+
 Package: gl-route-policy
 Version: 3.0.49-1
 Depends: libc, gl-util
@@ -220,30 +246,43 @@ Size: 11920
 SHA256sum: e1433f692854b695322c27ca5b2857b8ca542cc632825830c6d25484e3d6cdbd
 Description:  GL route policy
 
+Package: gl-sdk4-mtk-wifi-script
+Version: 2
+Depends: libc, wireless-tools, libiwinfo20181126, libubox20191228
+Source: /home/zjh/gli-sdk4/gl-sdk4-mtk-wifi-script
+SourceName: gl-sdk4-mtk-wifi-script
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 9457
+Filename: gl-sdk4-mtk-wifi-script_2_mipsel_24kc.ipk
+Size: 10211
+SHA256sum: b36c0b38d3b1083bfa273c9a695d32c19788272117e0e15a73652a61ced1b16f
+Description:  mtk private wifi driver scripts
+
 Package: gl-sdk
-Version: 3.0.584-1
+Version: 3.0.586-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 262165
-Filename: gl-sdk_3.0.584-1_mipsel_24kc.ipk
-Size: 262887
-SHA256sum: 7baf9210fd6343d148a8f7469e003132afe518ee0f5a487fcc30b3a62fc1fc7e
+Installed-Size: 261941
+Filename: gl-sdk_3.0.586-1_mipsel_24kc.ipk
+Size: 262577
+SHA256sum: 5d46559448f84b8654b6217cbf60acf0cde42660459bbfb2716fbc259377aa6f
 Description:  GL.iNet SDK3.0.
 
 Package: gl-tertf
-Version: 4.0.38-1
+Version: 4.0.39-1
 Depends: libc, libiwinfo20181126, gl-util, libjson-c2, gl-traffic, libsqlite3-0, ebtables
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tertf
 SourceName: gl-tertf
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 406618
-Filename: gl-tertf_4.0.38-1_mipsel_24kc.ipk
-Size: 407514
-SHA256sum: 2b3601699f5862b933d8cc88a186744a36b3a8534297c45285ead5a195d2318c
+Filename: gl-tertf_4.0.39-1_mipsel_24kc.ipk
+Size: 407513
+SHA256sum: 133f30e7e6f2f6188f1684daf8ca3d2aabd6aa1e63abac769a4b8453a1b72cd0
 Description:  Terminal traffic.
 
 Package: gl-traffic
@@ -274,6 +313,19 @@ Filename: gl-ui_3.0.749-1_mipsel_24kc.ipk
 Size: 1984931
 SHA256sum: 8a905536cb38229f65d3a0c0d2d6f6c6a34eb60f70e1e360f8a1326ee5f551f3
 Description:  GL iNet web UI
+
+Package: gl-upload
+Version: 1.0.39-1
+Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, gl-util, libcurl4
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-upload
+SourceName: gl-upload
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 12819
+Filename: gl-upload_1.0.39-1_mipsel_24kc.ipk
+Size: 13580
+SHA256sum: 0c752ad8964c2cb367020d7ed01d2dd4ed31207e3563401948dfd794298606c9
+Description:  GL.iNet SDK3.0.
 
 Package: gl-util
 Version: 3.0.213-1
@@ -367,7 +419,7 @@ SHA256sum: 94282e298e625ad1f5cc66f8a90f7a4500009d8f121007aa5251aad2e060b8b7
 Description:  OVS AP initialisation for XWF integration
 
 Package: rtty-mbedtls
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev, libmbedtls12, zlib
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -377,14 +429,14 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 18663
-Filename: rtty-mbedtls_7.4.1-1_mipsel_24kc.ipk
-Size: 19507
-SHA256sum: 18f7fa96c5c6209d59885d087075b8382b737a4c4a9f7b7f8223b90477e11dbf
+Installed-Size: 18660
+Filename: rtty-mbedtls_7.4.2-1_mipsel_24kc.ipk
+Size: 19501
+SHA256sum: 13295fde7622a37e14109b52ca0387893d0ba54236ba92d6af0ab8f65091215d
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-nossl
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -394,14 +446,14 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 15957
-Filename: rtty-nossl_7.4.1-1_mipsel_24kc.ipk
-Size: 16780
-SHA256sum: 09fbcf7787a8813ba509266db8db71e645407afaa8e5fc5a0a647044027d8fa3
+Installed-Size: 15958
+Filename: rtty-nossl_7.4.2-1_mipsel_24kc.ipk
+Size: 16779
+SHA256sum: 68262589b1e2cb3e97d5ac9fd906983b4951bb4abb395ae9c3792109060caa5d
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev, libopenssl1.1
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -411,14 +463,14 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 18114
-Filename: rtty-openssl_7.4.1-1_mipsel_24kc.ipk
-Size: 18936
-SHA256sum: 9824335c291024a71a5743e63754eeb2eb81a8d0b524c20fa2c96eac3db6102d
+Installed-Size: 18110
+Filename: rtty-openssl_7.4.2-1_mipsel_24kc.ipk
+Size: 18882
+SHA256sum: 66fd6ff476e55b56583a97e8e51675e6ea88c810370bed21cabdaf92663f20b7
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-wolfssl
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev, libwolfssl24
 Provides: rtty
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
@@ -428,9 +480,9 @@ LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: mipsel_24kc
-Installed-Size: 18126
-Filename: rtty-wolfssl_7.4.1-1_mipsel_24kc.ipk
-Size: 18949
-SHA256sum: 6f9bbc4ad2c7d112e5782743ea84054fe7144ad76d0da1470280bbb4ecece182
+Installed-Size: 18123
+Filename: rtty-wolfssl_7.4.2-1_mipsel_24kc.ipk
+Size: 18953
+SHA256sum: 261b2e37f6ec73d215759662630a654e763443b8ddbdd6119544f312ddb6a61c
 Description:  Access your terminals from anywhere via the web
 

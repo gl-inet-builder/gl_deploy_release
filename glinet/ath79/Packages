@@ -368,14 +368,14 @@ SHA256sum: ac5e472b2fc795bc782b8438f082876d4233801c2da7166f77e48cfa3a04b77f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.41-1
+Version: 3.1.42-1
 Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 39752
-Filename: gl-mqtt_3.1.41-1_mips_24kc.ipk
-Size: 39998
-SHA256sum: 564470237fe7e5950e71273c9d50694d93dffeeb2db9cabfec45a6f82f8c2546
+Installed-Size: 39654
+Filename: gl-mqtt_3.1.42-1_mips_24kc.ipk
+Size: 39908
+SHA256sum: 419c2efc6a305407905669bb0aa989416a86bc5fb220cedb95e19c2bcfe9bf30
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -412,14 +412,14 @@ SHA256sum: 94e725058c4bad8556fb2a0b2484d30f01185162d40ed06ff9774d8b70e04456
 Description:  GL iNet Qos Function
 
 Package: gl-repeater
-Version: 3.1.14-1
+Version: 3.1.15-1
 Depends: libc, libubus20191227, gl-util, gl-wifi-core, libpthread
 Section: base
 Architecture: mips_24kc
 Installed-Size: 4068
-Filename: gl-repeater_3.1.14-1_mips_24kc.ipk
+Filename: gl-repeater_3.1.15-1_mips_24kc.ipk
 Size: 4793
-SHA256sum: d71a37b8ff5a627b8d1e0a902099477fc19196ecade9966e78b74bc306655330
+SHA256sum: c568414b10b84159a27f3347fd03e868255df650e2a027c69b37b2b7ae866775
 Description:  GL Health
 
 Package: gl-route-policy
@@ -456,14 +456,14 @@ SHA256sum: 49edf137d4e01889ba7fdb6ac830ba0b720e8f063736fc232a4bfee40dd13f1e
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.584-1
+Version: 3.0.586-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: mips_24kc
-Installed-Size: 265850
-Filename: gl-sdk_3.0.584-1_mips_24kc.ipk
-Size: 265833
-SHA256sum: 00659c71c1d0b070cf659730f0736731873a7c9dd4aeeb68d2066a6c7e7a66ee
+Installed-Size: 266361
+Filename: gl-sdk_3.0.586-1_mips_24kc.ipk
+Size: 266353
+SHA256sum: 619125b7aa5d9ad53545d5be97e4c8bd4032d07c959d26a19dad66950ec8127f
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -489,14 +489,14 @@ SHA256sum: 329036cf5b5dca6bb8e9d211a53297febfcfa2215a23d66efbafec514b379de8
 Description:  Shadowsocks-libev endpoint api for gl-inet.
 
 Package: gl-tertf
-Version: 4.0.38-1
+Version: 4.0.39-1
 Depends: libc, libiwinfo20181126, gl-util, libjson-c2, gl-traffic, libsqlite3-0, ebtables
 Section: base
 Architecture: mips_24kc
-Installed-Size: 407125
-Filename: gl-tertf_4.0.38-1_mips_24kc.ipk
-Size: 407965
-SHA256sum: 3cae2ac32a06e1b3f613a4ff6fdadbe8a7939b8aa6d530c03e931d46a03866d8
+Installed-Size: 407126
+Filename: gl-tertf_4.0.39-1_mips_24kc.ipk
+Size: 407967
+SHA256sum: ed8cb4ab3822cb141280a22242cfc26cb58a618dbe149191409d0d0606436c9c
 Description:  Terminal traffic.
 
 Package: gl-tor
@@ -668,54 +668,54 @@ SHA256sum: f26bef4f82dcf45bce1775b7d032514ffa498a6887bd526849bfe2561a5e1417
 Description:  Translate uci config into ralink wifi dat format
 
 Package: rtty-mbedtls
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev, libmbedtls12, zlib
 Provides: rtty
 License: MIT
 Section: utils
 Architecture: mips_24kc
-Installed-Size: 18598
-Filename: rtty-mbedtls_7.4.1-1_mips_24kc.ipk
-Size: 19329
-SHA256sum: 7a6b87b69cca5dcbe7941c070737be5177732fe37a9c029b15c7aa3cce348607
+Installed-Size: 18607
+Filename: rtty-mbedtls_7.4.2-1_mips_24kc.ipk
+Size: 19318
+SHA256sum: 78737433857d2b808ea2f191c32277b6a0cdcc6f3022e97a89d7bc2d3aeca55b
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-nossl
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev
 Provides: rtty
 License: MIT
 Section: utils
 Architecture: mips_24kc
 Installed-Size: 15860
-Filename: rtty-nossl_7.4.1-1_mips_24kc.ipk
-Size: 16570
-SHA256sum: e45fb56007ee724579d7682223be48266611cef0f707290f17370295dc8f7849
+Filename: rtty-nossl_7.4.2-1_mips_24kc.ipk
+Size: 16571
+SHA256sum: bbc0aeb15a24d86e552276ab5fd127ce90a474200c5b45d011e9253a6f09cde5
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev, libopenssl1.1
 Provides: rtty
 License: MIT
 Section: utils
 Architecture: mips_24kc
-Installed-Size: 18059
-Filename: rtty-openssl_7.4.1-1_mips_24kc.ipk
-Size: 18769
-SHA256sum: ea9eb330e5e5e8f3b7acd6b39aab35a6b5e7ca30fc4d487e85697d8db7adf8eb
+Installed-Size: 18067
+Filename: rtty-openssl_7.4.2-1_mips_24kc.ipk
+Size: 18771
+SHA256sum: cdd19ca978e2b1e246e2369e72034aa39dcb4eeecaa3bc6ba21ab7b0963451c1
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-wolfssl
-Version: 7.4.1-1
+Version: 7.4.2-1
 Depends: libc, libev, libwolfssl24
 Provides: rtty
 License: MIT
 Section: utils
 Architecture: mips_24kc
-Installed-Size: 18102
-Filename: rtty-wolfssl_7.4.1-1_mips_24kc.ipk
-Size: 18798
-SHA256sum: 79a5641f8f1eff94cd0bd54a0ff6805062c6903164a9d94b4fbd6af2f02d938e
+Installed-Size: 18097
+Filename: rtty-wolfssl_7.4.2-1_mips_24kc.ipk
+Size: 18796
+SHA256sum: 606c281281c0c02034c96c4169c9494790822238703248d920124706cd11ca37
 Description:  Access your terminals from anywhere via the web
 
