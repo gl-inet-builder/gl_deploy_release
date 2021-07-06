@@ -1,3 +1,47 @@
+Package: gl-2b-env
+Version: 1.0.5
+Depends: libc, gl-util, gl-wifi-core
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 9616
+Filename: gl-2b-env_1.0.5_mipsel_24kc.ipk
+Size: 10324
+SHA256sum: 506c3e194fc137da9e9adc8a1ce9c131bf5f4fea115f9472da0c7cc25f1fa1f9
+Description:  2b env information manage
+
+Package: gl-2b-ui
+Version: 3.0.755-1
+Depends: libc
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 1967256
+Filename: gl-2b-ui_3.0.755-1_mipsel_24kc.ipk
+Size: 1963297
+SHA256sum: 7cb47a52854e0e7acf74c20ab1b83a08eb01869332751b2858d189144a0f9649
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.756-1
+Depends: libc
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 1969173
+Filename: gl-2b-ui_3.0.756-1_mipsel_24kc.ipk
+Size: 1964768
+SHA256sum: a0d1ba251502848d056f579e33a3f854c57a897ebd9f1cc4f22295fef147ce89
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.757-1
+Depends: libc
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 1969175
+Filename: gl-2b-ui_3.0.757-1_mipsel_24kc.ipk
+Size: 1964762
+SHA256sum: 4bda4737aedfd263e1781f157075b31111cd06b81b5b44f086fb073813982917
+Description:  GL iNet web UI
+
 Package: gl-base-files-a53
 Version: 3.0.464-1
 Depends: libc
@@ -131,6 +175,30 @@ SHA256sum: 8ab3eb6beeb6a2b374929ab5df97840e6225a056b1b95a901d4ec3572bac5d26
 Description:  Monitor the carrier status of all network device. And call
  etc/hotplug.d/carrier/* use hotplug-call when the carrier has changed.
 
+Package: gl-cloud-ui
+Version: 3.0.31-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 9055
+Filename: gl-cloud-ui_3.0.31-1_mipsel_24kc.ipk
+Size: 9991
+SHA256sum: dd5a5b8267efb7972132030975a1120f289b1d3ca831d6d444790e93cbd54751
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-cloud-ui
+Version: 3.0.32-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 9165
+Filename: gl-cloud-ui_3.0.32-1_mipsel_24kc.ipk
+Size: 10094
+SHA256sum: c2962032a59bb10874c4c104fb9c6e45990d57a047ec30a4c52c7fc0617cd80e
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
 Package: gl-ddns
 Version: 3.0.25-1
 Depends: libc, libjson-c2, gl-util, ddns-scripts
@@ -230,6 +298,17 @@ Size: 262577
 SHA256sum: 5d46559448f84b8654b6217cbf60acf0cde42660459bbfb2716fbc259377aa6f
 Description:  GL.iNet SDK3.0.
 
+Package: gl-software
+Version: 3.0.28-1
+Depends: libc, gl-util
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 5754
+Filename: gl-software_3.0.28-1_mipsel_24kc.ipk
+Size: 6466
+SHA256sum: 536ff118e31c8f68432c307dbea6c813a3bd631f390ac31208f32e09be97d340
+Description:  Openvpn server endpoint api for gl-inet.
+
 Package: gl-tertf
 Version: 4.0.39-1
 Depends: libc, libiwinfo20181126, gl-util, libjson-c2, gl-traffic, libsqlite3-0, ebtables
@@ -264,6 +343,17 @@ Installed-Size: 1988787
 Filename: gl-ui_3.0.749-1_mipsel_24kc.ipk
 Size: 1984931
 SHA256sum: 8a905536cb38229f65d3a0c0d2d6f6c6a34eb60f70e1e360f8a1326ee5f551f3
+Description:  GL iNet web UI
+
+Package: gl-ui
+Version: 3.0.751-1
+Depends: libc
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 1988896
+Filename: gl-ui_3.0.751-1_mipsel_24kc.ipk
+Size: 1984898
+SHA256sum: 871fda7e8dbf6911f3f4c074b9aa674b6651c0203ffe37bf983252933083c411
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -343,6 +433,17 @@ Size: 24693
 SHA256sum: e6b49d517ec7fe270d0e8d4c9c10c8b31b375548ee06ddbbd32c52214259bd14
 Description:  
 
+Package: gl-wifi-core
+Version: 3.0.199-1
+Depends: libc, gl-util
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 23411
+Filename: gl-wifi-core_3.0.199-1_mipsel_24kc.ipk
+Size: 24131
+SHA256sum: df074b729562285fa807611928b9dcb96a0578163e1d4a823f0626893839db7b
+Description:  
+
 Package: gl-xwf
 Version: 1.0.55-1
 Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
@@ -352,6 +453,17 @@ Installed-Size: 10330
 Filename: gl-xwf_1.0.55-1_mipsel_24kc.ipk
 Size: 11134
 SHA256sum: 94282e298e625ad1f5cc66f8a90f7a4500009d8f121007aa5251aad2e060b8b7
+Description:  OVS AP initialisation for XWF integration
+
+Package: gl-xwf
+Version: 1.0.57-1
+Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 10332
+Filename: gl-xwf_1.0.57-1_mipsel_24kc.ipk
+Size: 11131
+SHA256sum: bc15a4ab025a7ad0430375517268dea088d3100e145183c4970f27a057a946d2
 Description:  OVS AP initialisation for XWF integration
 
 Package: rtty-mbedtls
