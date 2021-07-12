@@ -22,6 +22,28 @@ Size: 30080
 SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
+Package: gl-2b-env
+Version: 1.0.5
+Depends: libc, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9658
+Filename: gl-2b-env_1.0.5_mips_24kc.ipk
+Size: 10377
+SHA256sum: 62cb7f514178791161383cdd0f6905512a6dae3dd728922b5934ad642e024672
+Description:  2b env information manage
+
+Package: gl-2b-env
+Version: 1.0.6
+Depends: libc, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9707
+Filename: gl-2b-env_1.0.6_mips_24kc.ipk
+Size: 10425
+SHA256sum: 364f35eda00dbf48322a68a63f24a358701ab14ca4ba6a8663834706a7ea6bb4
+Description:  2b env information manage
+
 Package: gl-2b-ui
 Version: 3.0.746-1
 Depends: libc
@@ -31,6 +53,28 @@ Installed-Size: 1989271
 Filename: gl-2b-ui_3.0.746-1_mips_24kc.ipk
 Size: 1985217
 SHA256sum: 9644bf9c3537ce9bacf4b6bd1631fa9b64f20dd9533d8e17fb12486d035e6a1c
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.755-1
+Depends: libc
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1967256
+Filename: gl-2b-ui_3.0.755-1_mips_24kc.ipk
+Size: 1963295
+SHA256sum: c52bb320aa63e46a0a32e0c16d68f973713c920e803c5877a49d96315dcf18fb
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.757-1
+Depends: libc
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1969175
+Filename: gl-2b-ui_3.0.757-1_mips_24kc.ipk
+Size: 1964761
+SHA256sum: d516207f98c7897df75094773443a0e92754a70f056b16b1d9cc464ca63ffaae
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -252,6 +296,30 @@ Installed-Size: 9071
 Filename: gl-cloud-ui_3.0.30-1_mips_24kc.ipk
 Size: 10002
 SHA256sum: 608cf08bbee6e65fb01827aa854a8af6838752773ae57dbbf9eed71f1b7b14c0
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-cloud-ui
+Version: 3.0.31-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9055
+Filename: gl-cloud-ui_3.0.31-1_mips_24kc.ipk
+Size: 9988
+SHA256sum: a5dd5d3efe2d0c7725a9037724d34678ade40acd8717b4865ae851338676fe80
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-cloud-ui
+Version: 3.0.32-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9167
+Filename: gl-cloud-ui_3.0.32-1_mips_24kc.ipk
+Size: 10098
+SHA256sum: d83fec1d9637c8b5c970094fc9063f7a636b1d28702f58097d9409f115f3687b
 Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
  
 
@@ -546,6 +614,17 @@ Size: 1984929
 SHA256sum: 4394414f220f1234cbf1d132f203641e5ecf77472a53accd4c8eda068a130663
 Description:  GL iNet web UI
 
+Package: gl-ui
+Version: 3.0.752-1
+Depends: libc
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1988950
+Filename: gl-ui_3.0.752-1_mips_24kc.ipk
+Size: 1984979
+SHA256sum: b778a7377aab254b0ee139855db83727e64a2a0b3754b3d8ab3ac9220aa10121
+Description:  GL iNet web UI
+
 Package: gl-upload
 Version: 1.0.39-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, gl-util, libcurl4
@@ -634,6 +713,17 @@ Size: 24906
 SHA256sum: 2548d1eed09e86f737a242decfe9bf8004e5c924c1e80c8c08365d7c214cfb29
 Description:  
 
+Package: gl-wifi-core
+Version: 3.0.199-1
+Depends: libc, gl-util
+Section: base
+Architecture: mips_24kc
+Installed-Size: 23602
+Filename: gl-wifi-core_3.0.199-1_mips_24kc.ipk
+Size: 24320
+SHA256sum: 991d534453929091c20dfe8cbaa320023bff20698fcadee2f65a33ba790bb50f
+Description:  
+
 Package: gl-xe300-mcu
 Version: 3.0.4-1
 Depends: libc, libjson-c2, gl-util
@@ -654,6 +744,17 @@ Installed-Size: 10385
 Filename: gl-xwf_1.0.55-1_mips_24kc.ipk
 Size: 11189
 SHA256sum: 39e2ab090d83eecd14131d53aebc098486fb117b028da07c3fc56a928026fbf6
+Description:  OVS AP initialisation for XWF integration
+
+Package: gl-xwf
+Version: 1.0.57-1
+Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10385
+Filename: gl-xwf_1.0.57-1_mips_24kc.ipk
+Size: 11191
+SHA256sum: 6a8326d877392cf640eb1ed08309891b94be5cddc1922e234806379c69058c25
 Description:  OVS AP initialisation for XWF integration
 
 Package: mt76x8-uci2dat

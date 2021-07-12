@@ -11,6 +11,19 @@ Size: 10324
 SHA256sum: 506c3e194fc137da9e9adc8a1ce9c131bf5f4fea115f9472da0c7cc25f1fa1f9
 Description:  2b env information manage
 
+Package: gl-2b-env
+Version: 1.0.6
+Depends: libc, gl-util, gl-wifi-core
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-2b-env
+SourceName: gl-2b-env
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 9649
+Filename: gl-2b-env_1.0.6_mipsel_24kc.ipk
+Size: 10358
+SHA256sum: 6d66ddfb237872b2d25de100702254606a30432fafe6fde606b14b38b2a93b33
+Description:  2b env information manage
+
 Package: gl-2b-ui
 Version: 3.0.755-1
 Depends: libc
@@ -329,14 +342,14 @@ Description:  GL route policy
 Package: gl-sdk4-mtk-wifi-script
 Version: 2
 Depends: libc, wireless-tools, libiwinfo20181126, libubox20191228
-Source: /home/zjh/gli-sdk4/gl-sdk4-mtk-wifi-script
+Source: /home/zjh/gli/gl-sdk4-mtk-wifi-script
 SourceName: gl-sdk4-mtk-wifi-script
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 9457
+Installed-Size: 9552
 Filename: gl-sdk4-mtk-wifi-script_2_mipsel_24kc.ipk
-Size: 10211
-SHA256sum: b36c0b38d3b1083bfa273c9a695d32c19788272117e0e15a73652a61ced1b16f
+Size: 10312
+SHA256sum: ff536859c532720e9a7c83ee78bf42cb4da858c614644d2a2a768d89b853e47f
 Description:  mtk private wifi driver scripts
 
 Package: gl-sdk
@@ -471,6 +484,19 @@ Filename: gl-vpn_3.0.121-1_mipsel_24kc.ipk
 Size: 19896
 SHA256sum: 0e51efde633b92f3c184e1dc92df97a6aed2b1a130b243843183a7cdffd9c2e8
 Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-wan-detect
+Version: 3.0.1-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wan-detect
+SourceName: gl-wan-detect
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 11606
+Filename: gl-wan-detect_3.0.1-1_mipsel_24kc.ipk
+Size: 12312
+SHA256sum: 36ed6fb0928982a45faa66e66bed86b725f51bfcc74e792b4e591c33d7420eff
+Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
 Version: 3.0.88-2
