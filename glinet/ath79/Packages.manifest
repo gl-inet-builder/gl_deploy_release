@@ -26,6 +26,19 @@ Size: 30080
 SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
+Package: gl-2b-env
+Version: 1.0.7
+Depends: libc, gl-util, gl-wifi-core
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-2b-env
+SourceName: gl-2b-env
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9739
+Filename: gl-2b-env_1.0.7_mips_24kc.ipk
+Size: 10460
+SHA256sum: 2a3e338c4bca3ecc1170753f74de541cb73d814b303373f338c1232636b44e63
+Description:  2b env information manage
+
 Package: gl-2b-ui
 Version: 3.0.746-1
 Depends: libc
@@ -37,6 +50,19 @@ Installed-Size: 1989271
 Filename: gl-2b-ui_3.0.746-1_mips_24kc.ipk
 Size: 1985217
 SHA256sum: 9644bf9c3537ce9bacf4b6bd1631fa9b64f20dd9533d8e17fb12486d035e6a1c
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.757-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
+SourceName: gl-2b-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1969175
+Filename: gl-2b-ui_3.0.757-1_mips_24kc.ipk
+Size: 1964761
+SHA256sum: d516207f98c7897df75094773443a0e92754a70f056b16b1d9cc464ca63ffaae
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -154,6 +180,19 @@ Installed-Size: 1829
 Filename: gl-base-files-wbf_3.0.455-1_mips_24kc.ipk
 Size: 2535
 SHA256sum: b48318b8d7b57b1826a6556e1d90cebb71fab35c6d35443f01a96da1cf5a80a6
+Description:  GL iNet base files
+
+Package: gl-base-files-wbf
+Version: 3.0.464-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+SourceName: gl-base-files-wbf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1829
+Filename: gl-base-files-wbf_3.0.464-1_mips_24kc.ipk
+Size: 2542
+SHA256sum: 57377be8409d2dd99c632120c8c3fde5b77aca14b0526ec6be5adb65730bfdb8
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
@@ -298,6 +337,48 @@ Installed-Size: 9071
 Filename: gl-cloud-ui_3.0.30-1_mips_24kc.ipk
 Size: 10002
 SHA256sum: 608cf08bbee6e65fb01827aa854a8af6838752773ae57dbbf9eed71f1b7b14c0
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-cloud-ui
+Version: 3.0.32-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-cloud-ui
+SourceName: gl-cloud-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9167
+Filename: gl-cloud-ui_3.0.32-1_mips_24kc.ipk
+Size: 10098
+SHA256sum: d83fec1d9637c8b5c970094fc9063f7a636b1d28702f58097d9409f115f3687b
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-cloud-ui
+Version: 3.0.33-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-cloud-ui
+SourceName: gl-cloud-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9184
+Filename: gl-cloud-ui_3.0.33-1_mips_24kc.ipk
+Size: 10122
+SHA256sum: ceb791a9b98b1eec2f6ac2c5a43c5ce8cef7a0c449dec9bee41943046a46cfe7
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-cloud-ui
+Version: 3.0.34-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-cloud-ui
+SourceName: gl-cloud-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9182
+Filename: gl-cloud-ui_3.0.34-1_mips_24kc.ipk
+Size: 10115
+SHA256sum: 05a88df7975a15bdb56c2b82078d364ad057df0fa4b6b06407afebbfdd366d5a
 Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
  
 
@@ -589,6 +670,19 @@ Size: 407965
 SHA256sum: 3cae2ac32a06e1b3f613a4ff6fdadbe8a7939b8aa6d530c03e931d46a03866d8
 Description:  Terminal traffic.
 
+Package: gl-tertf
+Version: 4.0.39-1
+Depends: libc, libiwinfo20181126, gl-util, libjson-c2, gl-traffic, libsqlite3-0, ebtables
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tertf
+SourceName: gl-tertf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 407126
+Filename: gl-tertf_4.0.39-1_mips_24kc.ipk
+Size: 407967
+SHA256sum: ed8cb4ab3822cb141280a22242cfc26cb58a618dbe149191409d0d0606436c9c
+Description:  Terminal traffic.
+
 Package: gl-tor
 Version: 3.1.2-1
 Depends: libc, tor, tor-geoip, libjson-c2, gl-util
@@ -642,6 +736,19 @@ Installed-Size: 1987925
 Filename: gl-ui_3.0.746-1_mips_24kc.ipk
 Size: 1984067
 SHA256sum: 47d701774f33163961b13245247236e65d32490c0f1b265275138656d4540766
+Description:  GL iNet web UI
+
+Package: gl-ui
+Version: 3.0.752-1
+Depends: libc
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
+SourceName: gl-ui
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1988950
+Filename: gl-ui_3.0.752-1_mips_24kc.ipk
+Size: 1984979
+SHA256sum: b778a7377aab254b0ee139855db83727e64a2a0b3754b3d8ab3ac9220aa10121
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -748,6 +855,19 @@ Size: 24906
 SHA256sum: 2548d1eed09e86f737a242decfe9bf8004e5c924c1e80c8c08365d7c214cfb29
 Description:  
 
+Package: gl-wifi-core
+Version: 3.0.199-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
+SourceName: gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 23602
+Filename: gl-wifi-core_3.0.199-1_mips_24kc.ipk
+Size: 24320
+SHA256sum: 991d534453929091c20dfe8cbaa320023bff20698fcadee2f65a33ba790bb50f
+Description:  
+
 Package: gl-xe300-mcu
 Version: 3.0.4-1
 Depends: libc, libjson-c2, gl-util
@@ -772,6 +892,19 @@ Installed-Size: 10385
 Filename: gl-xwf_1.0.55-1_mips_24kc.ipk
 Size: 11189
 SHA256sum: 39e2ab090d83eecd14131d53aebc098486fb117b028da07c3fc56a928026fbf6
+Description:  OVS AP initialisation for XWF integration
+
+Package: gl-xwf
+Version: 1.0.57-1
+Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xwf
+SourceName: gl-xwf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10385
+Filename: gl-xwf_1.0.57-1_mips_24kc.ipk
+Size: 11191
+SHA256sum: 6a8326d877392cf640eb1ed08309891b94be5cddc1922e234806379c69058c25
 Description:  OVS AP initialisation for XWF integration
 
 Package: mt76x8-uci2dat
@@ -804,6 +937,23 @@ Size: 19329
 SHA256sum: 7a6b87b69cca5dcbe7941c070737be5177732fe37a9c029b15c7aa3cce348607
 Description:  Access your terminals from anywhere via the web
 
+Package: rtty-mbedtls
+Version: 7.4.2-1
+Depends: libc, libev, libmbedtls12, zlib
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-mbedtls
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 18607
+Filename: rtty-mbedtls_7.4.2-1_mips_24kc.ipk
+Size: 19318
+SHA256sum: 78737433857d2b808ea2f191c32277b6a0cdcc6f3022e97a89d7bc2d3aeca55b
+Description:  Access your terminals from anywhere via the web
+
 Package: rtty-nossl
 Version: 7.4.1-1
 Depends: libc, libev
@@ -819,6 +969,23 @@ Installed-Size: 15860
 Filename: rtty-nossl_7.4.1-1_mips_24kc.ipk
 Size: 16570
 SHA256sum: e45fb56007ee724579d7682223be48266611cef0f707290f17370295dc8f7849
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-nossl
+Version: 7.4.2-1
+Depends: libc, libev
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-nossl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 15860
+Filename: rtty-nossl_7.4.2-1_mips_24kc.ipk
+Size: 16571
+SHA256sum: bbc0aeb15a24d86e552276ab5fd127ce90a474200c5b45d011e9253a6f09cde5
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
@@ -838,6 +1005,23 @@ Size: 18769
 SHA256sum: ea9eb330e5e5e8f3b7acd6b39aab35a6b5e7ca30fc4d487e85697d8db7adf8eb
 Description:  Access your terminals from anywhere via the web
 
+Package: rtty-openssl
+Version: 7.4.2-1
+Depends: libc, libev, libopenssl1.1
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-openssl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 18067
+Filename: rtty-openssl_7.4.2-1_mips_24kc.ipk
+Size: 18771
+SHA256sum: cdd19ca978e2b1e246e2369e72034aa39dcb4eeecaa3bc6ba21ab7b0963451c1
+Description:  Access your terminals from anywhere via the web
+
 Package: rtty-wolfssl
 Version: 7.4.1-1
 Depends: libc, libev, libwolfssl24
@@ -853,5 +1037,22 @@ Installed-Size: 18102
 Filename: rtty-wolfssl_7.4.1-1_mips_24kc.ipk
 Size: 18798
 SHA256sum: 79a5641f8f1eff94cd0bd54a0ff6805062c6903164a9d94b4fbd6af2f02d938e
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-wolfssl
+Version: 7.4.2-1
+Depends: libc, libev, libwolfssl24
+Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+SourceName: rtty-wolfssl
+License: MIT
+LicenseFiles: LICENSE
+Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
+Architecture: mips_24kc
+Installed-Size: 18097
+Filename: rtty-wolfssl_7.4.2-1_mips_24kc.ipk
+Size: 18796
+SHA256sum: 606c281281c0c02034c96c4169c9494790822238703248d920124706cd11ca37
 Description:  Access your terminals from anywhere via the web
 
