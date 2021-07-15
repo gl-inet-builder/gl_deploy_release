@@ -23,36 +23,25 @@ SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
 Package: gl-2b-env
-Version: 1.0.7
+Version: 1.0.9
 Depends: libc, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 9739
-Filename: gl-2b-env_1.0.7_mips_24kc.ipk
-Size: 10460
-SHA256sum: 2a3e338c4bca3ecc1170753f74de541cb73d814b303373f338c1232636b44e63
+Installed-Size: 9980
+Filename: gl-2b-env_1.0.9_mips_24kc.ipk
+Size: 10702
+SHA256sum: d185850c0781e5d8a8011d6fbb75162aca97e808de4f374708c398ad2f71101e
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.746-1
+Version: 3.0.759-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 1989271
-Filename: gl-2b-ui_3.0.746-1_mips_24kc.ipk
-Size: 1985217
-SHA256sum: 9644bf9c3537ce9bacf4b6bd1631fa9b64f20dd9533d8e17fb12486d035e6a1c
-Description:  GL iNet web UI
-
-Package: gl-2b-ui
-Version: 3.0.757-1
-Depends: libc
-Section: base
-Architecture: mips_24kc
-Installed-Size: 1969175
-Filename: gl-2b-ui_3.0.757-1_mips_24kc.ipk
-Size: 1964761
-SHA256sum: d516207f98c7897df75094773443a0e92754a70f056b16b1d9cc464ca63ffaae
+Installed-Size: 1969959
+Filename: gl-2b-ui_3.0.759-1_mips_24kc.ipk
+Size: 1965605
+SHA256sum: 7b8a90db72be46138940873f7efec52bd0ca0a3bfd61c28bf497312668a7ea22
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -277,50 +266,14 @@ Description:  Monitor the carrier status of all network device. And call
  etc/hotplug.d/carrier/* use hotplug-call when the carrier has changed.
 
 Package: gl-cloud-ui
-Version: 3.0.30-1
+Version: 3.0.35-1
 Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
 Section: base
 Architecture: mips_24kc
-Installed-Size: 9071
-Filename: gl-cloud-ui_3.0.30-1_mips_24kc.ipk
-Size: 10002
-SHA256sum: 608cf08bbee6e65fb01827aa854a8af6838752773ae57dbbf9eed71f1b7b14c0
-Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
- 
-
-Package: gl-cloud-ui
-Version: 3.0.32-1
-Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
-Section: base
-Architecture: mips_24kc
-Installed-Size: 9167
-Filename: gl-cloud-ui_3.0.32-1_mips_24kc.ipk
-Size: 10098
-SHA256sum: d83fec1d9637c8b5c970094fc9063f7a636b1d28702f58097d9409f115f3687b
-Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
- 
-
-Package: gl-cloud-ui
-Version: 3.0.33-1
-Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
-Section: base
-Architecture: mips_24kc
-Installed-Size: 9184
-Filename: gl-cloud-ui_3.0.33-1_mips_24kc.ipk
-Size: 10122
-SHA256sum: ceb791a9b98b1eec2f6ac2c5a43c5ce8cef7a0c449dec9bee41943046a46cfe7
-Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
- 
-
-Package: gl-cloud-ui
-Version: 3.0.34-1
-Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
-Section: base
-Architecture: mips_24kc
-Installed-Size: 9182
-Filename: gl-cloud-ui_3.0.34-1_mips_24kc.ipk
-Size: 10115
-SHA256sum: 05a88df7975a15bdb56c2b82078d364ad057df0fa4b6b06407afebbfdd366d5a
+Installed-Size: 9192
+Filename: gl-cloud-ui_3.0.35-1_mips_24kc.ipk
+Size: 10123
+SHA256sum: 94d385ac4e9779087ee065af23c30ab46c474c618ea72a674140c775903d7f63
 Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
  
 
@@ -456,6 +409,17 @@ Installed-Size: 87983
 Filename: gl-portal_3.0.24-1_mips_24kc.ipk
 Size: 89061
 SHA256sum: 0256d9599fe90f5c812e171c332ac6ae958ffe42fbc0778f616881891e1d41eb
+Description:  glportal api for gl-inet.
+
+Package: gl-portal
+Version: 3.0.25-1
+Depends: libc, libjson-c2, gl-util, nodogsplash
+Section: base
+Architecture: mips_24kc
+Installed-Size: 88117
+Filename: gl-portal_3.0.25-1_mips_24kc.ipk
+Size: 89247
+SHA256sum: d15e65bb7bcbbde9449a5641801e276186d217ae3aff2bc154c5b746ed68e675
 Description:  glportal api for gl-inet.
 
 Package: gl-qos-internal
