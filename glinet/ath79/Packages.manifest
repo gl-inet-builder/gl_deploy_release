@@ -33,10 +33,10 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-2b-env
 SourceName: gl-2b-env
 Section: base
 Architecture: mips_24kc
-Installed-Size: 9980
+Installed-Size: 9959
 Filename: gl-2b-env_1.0.9_mips_24kc.ipk
-Size: 10702
-SHA256sum: d185850c0781e5d8a8011d6fbb75162aca97e808de4f374708c398ad2f71101e
+Size: 10678
+SHA256sum: 7986640941b0e93f03c848269ac5dbd6ee45f02c150c6d218fc0bb632de887e7
 Description:  2b env information manage
 
 Package: gl-2b-ui
@@ -492,10 +492,10 @@ Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
 SourceName: gl-portal
 Section: base
 Architecture: mips_24kc
-Installed-Size: 88117
+Installed-Size: 88319
 Filename: gl-portal_3.0.25-1_mips_24kc.ipk
-Size: 89247
-SHA256sum: d15e65bb7bcbbde9449a5641801e276186d217ae3aff2bc154c5b746ed68e675
+Size: 89457
+SHA256sum: 040b57cdf9138730889f9ffa95c988f61087d803db3b04b5513add9640ebd2ae
 Description:  glportal api for gl-inet.
 
 Package: gl-qos-internal
