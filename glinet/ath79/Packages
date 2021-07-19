@@ -27,10 +27,10 @@ Version: 1.0.9
 Depends: libc, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 9980
+Installed-Size: 9959
 Filename: gl-2b-env_1.0.9_mips_24kc.ipk
-Size: 10702
-SHA256sum: d185850c0781e5d8a8011d6fbb75162aca97e808de4f374708c398ad2f71101e
+Size: 10678
+SHA256sum: 7986640941b0e93f03c848269ac5dbd6ee45f02c150c6d218fc0bb632de887e7
 Description:  2b env information manage
 
 Package: gl-2b-ui
