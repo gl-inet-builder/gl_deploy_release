@@ -485,6 +485,19 @@ Size: 89457
 SHA256sum: 040b57cdf9138730889f9ffa95c988f61087d803db3b04b5513add9640ebd2ae
 Description:  glportal api for gl-inet.
 
+Package: gl-portal
+Version: 3.0.26-1
+Depends: libc, libjson-c2, gl-util, nodogsplash
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
+SourceName: gl-portal
+Section: base
+Architecture: mips_24kc
+Installed-Size: 88336
+Filename: gl-portal_3.0.26-1_mips_24kc.ipk
+Size: 89469
+SHA256sum: 569095c50feb8df1a1a99fd20eea9db35e6bc96d8aed14d5bc6f963f19bccfc2
+Description:  glportal api for gl-inet.
+
 Package: gl-qos-internal
 Version: 3.0.37-1
 Depends: libc, gl-util, libjson-c2, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
