@@ -473,29 +473,16 @@ SHA256sum: 564470237fe7e5950e71273c9d50694d93dffeeb2db9cabfec45a6f82f8c2546
 Description:  MQTT common libary
 
 Package: gl-portal
-Version: 3.0.24-1
-Depends: libc, libjson-c2, gl-util, nodogsplash
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
-SourceName: gl-portal
-Section: base
-Architecture: mips_24kc
-Installed-Size: 87983
-Filename: gl-portal_3.0.24-1_mips_24kc.ipk
-Size: 89061
-SHA256sum: 0256d9599fe90f5c812e171c332ac6ae958ffe42fbc0778f616881891e1d41eb
-Description:  glportal api for gl-inet.
-
-Package: gl-portal
 Version: 3.0.25-1
 Depends: libc, libjson-c2, gl-util, nodogsplash
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
 SourceName: gl-portal
 Section: base
 Architecture: mips_24kc
-Installed-Size: 88117
+Installed-Size: 88319
 Filename: gl-portal_3.0.25-1_mips_24kc.ipk
-Size: 89247
-SHA256sum: d15e65bb7bcbbde9449a5641801e276186d217ae3aff2bc154c5b746ed68e675
+Size: 89457
+SHA256sum: 040b57cdf9138730889f9ffa95c988f61087d803db3b04b5513add9640ebd2ae
 Description:  glportal api for gl-inet.
 
 Package: gl-qos-internal
