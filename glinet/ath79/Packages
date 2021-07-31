@@ -22,6 +22,17 @@ Size: 30080
 SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
+Package: gl-2b-env
+Version: 1.0.15
+Depends: libc, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10869
+Filename: gl-2b-env_1.0.15_mips_24kc.ipk
+Size: 11606
+SHA256sum: c05309eec33d638f6edcc3dae8a1deed428781b98c7787d354a5eba182d20194
+Description:  2b env information manage
+
 Package: gl-2b-ui
 Version: 3.0.746-1
 Depends: libc
@@ -31,6 +42,17 @@ Installed-Size: 1989271
 Filename: gl-2b-ui_3.0.746-1_mips_24kc.ipk
 Size: 1985217
 SHA256sum: 9644bf9c3537ce9bacf4b6bd1631fa9b64f20dd9533d8e17fb12486d035e6a1c
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.762-1
+Depends: libc
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1970142
+Filename: gl-2b-ui_3.0.762-1_mips_24kc.ipk
+Size: 1965858
+SHA256sum: e0b9dd6c121f68766f6af3dd64832cb0f8278615bc8026be7f24d4fb80f7bcf2
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -255,6 +277,18 @@ SHA256sum: 608cf08bbee6e65fb01827aa854a8af6838752773ae57dbbf9eed71f1b7b14c0
 Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
  
 
+Package: gl-cloud-ui
+Version: 3.0.35-1
+Depends: libc, gl-util, libjson-c2, gl-mqtt, gl-ddns
+Section: base
+Architecture: mips_24kc
+Installed-Size: 9192
+Filename: gl-cloud-ui_3.0.35-1_mips_24kc.ipk
+Size: 10123
+SHA256sum: 94d385ac4e9779087ee065af23c30ab46c474c618ea72a674140c775903d7f63
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
 Package: gl-crond
 Version: 3.0.4-1
 Depends: libc, libubox20191228, libubus20191227, libjson-c2, gl-util
@@ -379,14 +413,14 @@ SHA256sum: 419c2efc6a305407905669bb0aa989416a86bc5fb220cedb95e19c2bcfe9bf30
 Description:  MQTT common libary
 
 Package: gl-portal
-Version: 3.0.24-1
+Version: 3.0.26-1
 Depends: libc, libjson-c2, gl-util, nodogsplash
 Section: base
 Architecture: mips_24kc
-Installed-Size: 87983
-Filename: gl-portal_3.0.24-1_mips_24kc.ipk
-Size: 89061
-SHA256sum: 0256d9599fe90f5c812e171c332ac6ae958ffe42fbc0778f616881891e1d41eb
+Installed-Size: 88336
+Filename: gl-portal_3.0.26-1_mips_24kc.ipk
+Size: 89469
+SHA256sum: 569095c50feb8df1a1a99fd20eea9db35e6bc96d8aed14d5bc6f963f19bccfc2
 Description:  glportal api for gl-inet.
 
 Package: gl-qos-internal
@@ -654,6 +688,17 @@ Installed-Size: 10385
 Filename: gl-xwf_1.0.55-1_mips_24kc.ipk
 Size: 11189
 SHA256sum: 39e2ab090d83eecd14131d53aebc098486fb117b028da07c3fc56a928026fbf6
+Description:  OVS AP initialisation for XWF integration
+
+Package: gl-xwf
+Version: 1.0.57-1
+Depends: libc, kmod-veth, openvswitch, libjson-c2, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
+Section: base
+Architecture: mips_24kc
+Installed-Size: 10385
+Filename: gl-xwf_1.0.57-1_mips_24kc.ipk
+Size: 11191
+SHA256sum: 6a8326d877392cf640eb1ed08309891b94be5cddc1922e234806379c69058c25
 Description:  OVS AP initialisation for XWF integration
 
 Package: mt76x8-uci2dat
