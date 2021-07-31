@@ -27,29 +27,29 @@ SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
 Package: gl-2b-env
-Version: 1.0.9
+Version: 1.0.15
 Depends: libc, gl-util, gl-wifi-core
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-2b-env
 SourceName: gl-2b-env
 Section: base
 Architecture: mips_24kc
-Installed-Size: 9959
-Filename: gl-2b-env_1.0.9_mips_24kc.ipk
-Size: 10678
-SHA256sum: 7986640941b0e93f03c848269ac5dbd6ee45f02c150c6d218fc0bb632de887e7
+Installed-Size: 10869
+Filename: gl-2b-env_1.0.15_mips_24kc.ipk
+Size: 11606
+SHA256sum: c05309eec33d638f6edcc3dae8a1deed428781b98c7787d354a5eba182d20194
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.759-1
+Version: 3.0.762-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
 SourceName: gl-2b-ui
 Section: base
 Architecture: mips_24kc
-Installed-Size: 1969959
-Filename: gl-2b-ui_3.0.759-1_mips_24kc.ipk
-Size: 1965605
-SHA256sum: 7b8a90db72be46138940873f7efec52bd0ca0a3bfd61c28bf497312668a7ea22
+Installed-Size: 1970142
+Filename: gl-2b-ui_3.0.762-1_mips_24kc.ipk
+Size: 1965858
+SHA256sum: e0b9dd6c121f68766f6af3dd64832cb0f8278615bc8026be7f24d4fb80f7bcf2
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -434,16 +434,16 @@ SHA256sum: 055f984e97b49a39ed8d6949e2086664ebbbec7931ae63073dbddf5aea98b4a1
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
-Version: 3.0.154-1
+Version: 3.0.155-1
 Depends: libc, libpthread, libuci20130104, libubus20191227, libblobmsg-json, libubox20191228, smstools3, gl-util, gl-wifi-core, ssmtp
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-modem
 SourceName: gl-modem
 Section: base
 Architecture: mips_24kc
-Installed-Size: 105245
-Filename: gl-modem_3.0.154-1_mips_24kc.ipk
-Size: 105983
-SHA256sum: 44b4b5f2f5a81833aa1e3775da29a8db51dc3eebba5c5469222b2e47027adf89
+Installed-Size: 105373
+Filename: gl-modem_3.0.155-1_mips_24kc.ipk
+Size: 106081
+SHA256sum: abd5409f0eba298b3a4fe049da047833b0155a687452e6c6d5506dddc6fc65b8
 Description:  GL iNet modem manager
 
 Package: gl-monitor
@@ -473,29 +473,16 @@ SHA256sum: 564470237fe7e5950e71273c9d50694d93dffeeb2db9cabfec45a6f82f8c2546
 Description:  MQTT common libary
 
 Package: gl-portal
-Version: 3.0.24-1
+Version: 3.0.26-1
 Depends: libc, libjson-c2, gl-util, nodogsplash
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
 SourceName: gl-portal
 Section: base
 Architecture: mips_24kc
-Installed-Size: 87983
-Filename: gl-portal_3.0.24-1_mips_24kc.ipk
-Size: 89061
-SHA256sum: 0256d9599fe90f5c812e171c332ac6ae958ffe42fbc0778f616881891e1d41eb
-Description:  glportal api for gl-inet.
-
-Package: gl-portal
-Version: 3.0.25-1
-Depends: libc, libjson-c2, gl-util, nodogsplash
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
-SourceName: gl-portal
-Section: base
-Architecture: mips_24kc
-Installed-Size: 88319
-Filename: gl-portal_3.0.25-1_mips_24kc.ipk
-Size: 89457
-SHA256sum: 040b57cdf9138730889f9ffa95c988f61087d803db3b04b5513add9640ebd2ae
+Installed-Size: 88336
+Filename: gl-portal_3.0.26-1_mips_24kc.ipk
+Size: 89469
+SHA256sum: 569095c50feb8df1a1a99fd20eea9db35e6bc96d8aed14d5bc6f963f19bccfc2
 Description:  glportal api for gl-inet.
 
 Package: gl-qos-internal
