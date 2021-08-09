@@ -43,14 +43,14 @@ SHA256sum: 78e6d2f567187a0a7be9daefadb0dd986a2ce935e7b85e898fd652b37cf08b45
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.464-1
+Version: 3.0.472-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 9721
-Filename: gl-base-files-mt_3.0.464-1_mipsel_24kc.ipk
-Size: 10437
-SHA256sum: f832c1af8b530c77188298879360757a25eec97d41d0449d14dd69dc58eff090
+Installed-Size: 9796
+Filename: gl-base-files-mt_3.0.472-1_mipsel_24kc.ipk
+Size: 10514
+SHA256sum: f83c0e295ae37746c5ca98ba4912686ce8491e261340e2963f380947c6ad8c49
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
@@ -229,6 +229,17 @@ Filename: gl-sdk_3.0.586-1_mipsel_24kc.ipk
 Size: 262577
 SHA256sum: 5d46559448f84b8654b6217cbf60acf0cde42660459bbfb2716fbc259377aa6f
 Description:  GL.iNet SDK3.0.
+
+Package: gl-software
+Version: 3.0.28-1
+Depends: libc, gl-util
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 5754
+Filename: gl-software_3.0.28-1_mipsel_24kc.ipk
+Size: 6466
+SHA256sum: 536ff118e31c8f68432c307dbea6c813a3bd631f390ac31208f32e09be97d340
+Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-tertf
 Version: 4.0.39-1
