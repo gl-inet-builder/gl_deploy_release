@@ -412,6 +412,17 @@ Size: 39908
 SHA256sum: 419c2efc6a305407905669bb0aa989416a86bc5fb220cedb95e19c2bcfe9bf30
 Description:  MQTT common libary
 
+Package: gl-mqtt
+Version: 3.1.47-1
+Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 41186
+Filename: gl-mqtt_3.1.47-1_mips_24kc.ipk
+Size: 41458
+SHA256sum: f8a4c15c0ef43bdbb77bbb5dd754ae3f835d3744657a02c8dac4acd88bbec355
+Description:  MQTT common libary
+
 Package: gl-portal
 Version: 3.0.26-1
 Depends: libc, libjson-c2, gl-util, nodogsplash
@@ -477,6 +488,17 @@ Filename: gl-rs485_1.2.4-1_mips_24kc.ipk
 Size: 22658
 SHA256sum: fcd4df3239f48548d37890eb10a5dbdaed57eea2ff64b8fe20633121f73bdd16
 Description:  gl rs485 for gl-inet.
+
+Package: gl-rtty
+Version: 1.0.0-1
+Depends: libc, rtty-openssl
+Section: base
+Architecture: mips_24kc
+Installed-Size: 393
+Filename: gl-rtty_1.0.0-1_mips_24kc.ipk
+Size: 1085
+SHA256sum: a15cad5abf5b8b6940965f9424dd003bfc86d461bbd2dad7caa67f2e64d3e074
+Description:  GL SDK3.0
 
 Package: gl-s2s
 Version: 1.0.24-1
@@ -763,4 +785,16 @@ Filename: rtty-wolfssl_7.4.2-1_mips_24kc.ipk
 Size: 18796
 SHA256sum: 606c281281c0c02034c96c4169c9494790822238703248d920124706cd11ca37
 Description:  Access your terminals from anywhere via the web
+
+Package: uboot-envtools
+Version: 2021.01-10
+Depends: libc
+License: GPL-2.0 GPL-2.0+
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 13390
+Filename: uboot-envtools_2021.01-10_mips_24kc.ipk
+Size: 14134
+SHA256sum: 76a0afae1aee44ab71a55638c768b6e0d36c8db58681e45b9396ebd08e57761d
+Description:  This package includes tools to read and modify U-Boot bootloader environment.
 

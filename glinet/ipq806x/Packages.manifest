@@ -1,6 +1,7 @@
 Package: AdGuardHome
 Version: 0.104.3-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/adguardhome
 Section: net
 Architecture: ipq
 Installed-Size: 7939317
@@ -14,8 +15,10 @@ Description:  AdGuard Home is a network-wide software for blocking ads & trackin
 Package: arc
 Version: 1.0.0-1
 Depends: libc, libstdcpp, libpthread, libopenssl
+Source: package/arc
 License: Proprietary
 Section: net
+Maintainer: John Norrbin <jlnorrbin@johnex.se>
 Architecture: ipq806x
 Installed-Size: 29079
 Filename: arc_1.0.0-1_ipq806x.ipk
@@ -27,6 +30,7 @@ Description:  AstroRelay Client is the client part of the AstroRelay reverse tun
 Package: gl-2b-ui
 Version: 3.0.746-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
 Section: base
 Architecture: ipq
 Installed-Size: 1991068
@@ -39,6 +43,7 @@ Description:  GL iNet web UI
 Package: gl-agh-stats
 Version: 3.0.5-1
 Depends: libc, libssp, libjson-c, gl-util, AdGuardHome
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-agh-stats
 Section: base
 Architecture: ipq
 Installed-Size: 283127
@@ -51,6 +56,7 @@ Description:  AdGuardHome Stats
 Package: gl-base-files-a53
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 21243
@@ -63,6 +69,7 @@ Description:  GL iNet base files
 Package: gl-base-files-ar
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 7647
@@ -75,6 +82,7 @@ Description:  GL iNet base files
 Package: gl-base-files-e750
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 1569
@@ -87,6 +95,7 @@ Description:  GL iNet base files
 Package: gl-base-files-ipq
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 76658
@@ -99,6 +108,7 @@ Description:  GL iNet base files
 Package: gl-base-files-mt
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 4447
@@ -111,6 +121,7 @@ Description:  GL iNet base files
 Package: gl-base-files-mv1000
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 35145
@@ -123,6 +134,7 @@ Description:  GL iNet base files
 Package: gl-base-files-sf
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 333
@@ -135,6 +147,7 @@ Description:  GL iNet base files
 Package: gl-base-files-wbf
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 1801
@@ -147,6 +160,7 @@ Description:  GL iNet base files
 Package: gl-base-files-x1200
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 3009
@@ -159,6 +173,7 @@ Description:  GL iNet base files
 Package: gl-base-files-x300b
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 1217
@@ -171,6 +186,7 @@ Description:  GL iNet base files
 Package: gl-base-files
 Version: 3.0.464-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 48671
@@ -183,6 +199,7 @@ Description:  GL iNet base files
 Package: gl-ble-api
 Version: 3.0.18-1
 Depends: libc, libssp, libjson-c
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ble-packages/gl-ble-api
 Section: base
 Architecture: ipq
 Installed-Size: 16498
@@ -195,6 +212,7 @@ Description:  GL iNet BLE api
 Package: gl-ble-daemon
 Version: 3.0.20-1
 Depends: libc, libssp, libpthread, libjson-c, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ble-packages/gl-ble-daemon
 Section: base
 Architecture: ipq
 Installed-Size: 13789
@@ -207,6 +225,7 @@ Description:  GL inet BLE plugin
 Package: gl-ble-ubus
 Version: 3.0.8-1
 Depends: libc, libssp, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ble-ubus
 Section: glinet
 Architecture: ipq
 Installed-Size: 4357
@@ -219,6 +238,7 @@ Description:  ble ubus setting api and scripts.
 Package: gl-ble_cfg_router_telink
 Version: 1.0.0
 Depends: libc, libssp, libuci, libubox, libubus, libblobmsg-json, libpthread, libjson-c, gl-util, libopenssl
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ble_cfg_router_telink
 Section: base
 Architecture: ipq
 Installed-Size: 11095
@@ -231,6 +251,7 @@ Description:  A framework for ble config wifi.
 Package: gl-bletool
 Version: 3.4.2
 Depends: libc, libssp, libubox, libubus, libjson-c, libblobmsg-json, libuci, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ble
 Section: base
 Architecture: ipq
 Installed-Size: 48808
@@ -243,6 +264,7 @@ Description:  GL inet BLE driver
 Package: gl-bletool
 Version: 3.4.6
 Depends: libc, libssp, libubox, libubus, libjson-c, libblobmsg-json, libuci, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/bletool
 Section: base
 Architecture: ipq
 Installed-Size: 49424
@@ -255,6 +277,7 @@ Description:  GL inet BLE driver
 Package: gl-carrier-monitor
 Version: 1
 Depends: libc, libssp, libnl-tiny
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-carrier-monitor
 Section: base
 Architecture: ipq
 Installed-Size: 2235
@@ -268,6 +291,7 @@ Description:  Monitor the carrier status of all network device. And call
 Package: gl-cloud-ui
 Version: 3.0.30-1
 Depends: libc, libssp, gl-util, libjson-c, gl-mqtt, gl-ddns
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-cloud-ui
 Section: base
 Architecture: ipq
 Installed-Size: 9572
@@ -281,6 +305,7 @@ Description:  The firmware needs to be upgraded to 3.010 to support cloud manage
 Package: gl-crond
 Version: 3.0.4-1
 Depends: libc, libssp, libubox, libubus, libjson-c, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-crond
 Section: base
 Architecture: ipq
 Installed-Size: 6265
@@ -295,6 +320,7 @@ Description:  A framework for timing task, you can register or unregister their 
 Package: gl-ddns
 Version: 3.0.25-1
 Depends: libc, libssp, libjson-c, gl-util, ddns-scripts
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ddns
 Section: base
 Architecture: ipq
 Installed-Size: 18597
@@ -307,6 +333,7 @@ Description:  glddns api for gl-inet.
 Package: gl-files-brower
 Version: 3.0.10-1
 Depends: libc, libssp, gl-util, samba36-server
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-files-brower
 Section: base
 Architecture: ipq
 Installed-Size: 4259
@@ -319,6 +346,7 @@ Description:  Openvpn server endpoint api for gl-inet.
 Package: gl-firewall
 Version: 3.0.5-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-firewall
 Section: base
 Architecture: ipq
 Installed-Size: 722
@@ -331,6 +359,7 @@ Description:  GL iNet firewall
 Package: gl-fw
 Version: 3.0.29-1
 Depends: libc, libssp, iptables, ip-full, gl-util, libuci
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-fw
 Section: base
 Architecture: ipq
 Installed-Size: 8317
@@ -343,6 +372,7 @@ Description:  This service allows open port and port forwarding.
 Package: gl-ipv6
 Version: 3.0.14-1
 Depends: libc, libssp, gl-util, kmod-ipt-nat6
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ipv6
 Section: base
 Architecture: ipq
 Installed-Size: 22953
@@ -355,6 +385,7 @@ Description:  ipv6 function for gl-inet.
 Package: gl-modem
 Version: 3.0.154-1
 Depends: libc, libssp, libpthread, libuci, libubus, libblobmsg-json, libubox, smstools3, gl-util, gl-wifi-core, ssmtp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-modem
 Section: base
 Architecture: ipq
 Installed-Size: 116015
@@ -367,6 +398,7 @@ Description:  GL iNet modem manager
 Package: gl-monitor
 Version: 3.0.122-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-monitor
 Section: base
 Architecture: ipq
 Installed-Size: 7354
@@ -379,6 +411,7 @@ Description:  gl-monitor
 Package: gl-mqtt
 Version: 3.1.42-1
 Depends: libc, libssp, libpthread, mqtt, libcurl, libjson-c, gl-util, gl-wifi-core
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-mqtt
 Section: base
 Architecture: ipq
 Installed-Size: 49797
@@ -391,6 +424,7 @@ Description:  MQTT common libary
 Package: gl-portal
 Version: 3.0.24-1
 Depends: libc, libssp, libjson-c, gl-util, nodogsplash
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-portal
 Section: base
 Architecture: ipq
 Installed-Size: 88267
@@ -403,6 +437,7 @@ Description:  glportal api for gl-inet.
 Package: gl-qos-internal
 Version: 3.0.37-1
 Depends: libc, libssp, gl-util, libjson-c, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-qos
 Section: base
 Architecture: ipq
 Installed-Size: 7295
@@ -415,6 +450,7 @@ Description:  GL iNet Qos Function
 Package: gl-qos
 Version: 3.0.37-1
 Depends: libc, libssp, gl-util, libjson-c, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-qos
 Section: base
 Architecture: ipq
 Installed-Size: 35530
@@ -427,6 +463,7 @@ Description:  GL iNet Qos Function
 Package: gl-repeater
 Version: 3.1.15-1
 Depends: libc, libssp, libubus, gl-util, gl-wifi-core, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-repeater
 Section: base
 Architecture: ipq
 Installed-Size: 4578
@@ -439,6 +476,7 @@ Description:  GL Health
 Package: gl-route-policy
 Version: 3.0.49-1
 Depends: libc, libssp, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-route-policy
 Section: base
 Architecture: ipq
 Installed-Size: 12094
@@ -451,6 +489,7 @@ Description:  GL route policy
 Package: gl-rs485
 Version: 1.2.4-1
 Depends: libc, libssp, libblobmsg-json, gl-util, libuci, libjson-c, mqtt
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rs485
 Section: base
 Architecture: ipq
 Installed-Size: 25375
@@ -463,6 +502,7 @@ Description:  gl rs485 for gl-inet.
 Package: gl-s2s
 Version: 1.0.24-1
 Depends: libc, libssp, wireguard, libjson-c, libubox, libubus, gl-util, gl-crond
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-s2s
 Section: base
 Architecture: ipq
 Installed-Size: 15843
@@ -475,6 +515,7 @@ Description:  It is the Site to Site API for GL.iNet.
 Package: gl-sdk
 Version: 3.0.586-1
 Depends: libc, libssp, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
 Section: base
 Architecture: ipq
 Installed-Size: 305553
@@ -487,6 +528,7 @@ Description:  GL.iNet SDK3.0.
 Package: gl-software
 Version: 3.0.28-1
 Depends: libc, libssp, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-software
 Section: base
 Architecture: ipq
 Installed-Size: 6657
@@ -499,6 +541,7 @@ Description:  Openvpn server endpoint api for gl-inet.
 Package: gl-ss-server
 Version: 3.0.12-1
 Depends: libc, libssp, gl-util, libjson-c, shadowsocks-libev-server
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ss
 Section: base
 Architecture: ipq
 Installed-Size: 7730
@@ -511,6 +554,7 @@ Description:  Shadowsocks-libev endpoint api for gl-inet.
 Package: gl-ss
 Version: 3.0.12-1
 Depends: libc, libssp, gl-util, libjson-c, shadowsocks-libev, luci-app-shadowsocks
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ss
 Section: base
 Architecture: ipq
 Installed-Size: 8354
@@ -523,6 +567,7 @@ Description:  Shadowsocks-libev endpoint api for gl-inet.
 Package: gl-tertf
 Version: 4.0.39-1
 Depends: libc, libssp, libiwinfo, gl-util, libjson-c, gl-traffic, libsqlite3, ebtables
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tertf
 Section: base
 Architecture: ipq
 Installed-Size: 409976
@@ -535,6 +580,7 @@ Description:  Terminal traffic.
 Package: gl-tor
 Version: 3.1.2-1
 Depends: libc, libssp, tor, tor-geoip, libjson-c, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tor
 Section: base
 Architecture: ipq
 Installed-Size: 4508
@@ -547,6 +593,7 @@ Description:  GL iNet tor interface
 Package: gl-traffic
 Version: 1.0.5-1
 Depends: libc, libssp, libpcap, libpthread
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-tertf/gl-traffic
 Section: gl-inet
 Architecture: ipq
 Installed-Size: 6845
@@ -562,6 +609,7 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
 Package: gl-ui
 Version: 3.0.749-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
 Section: base
 Architecture: ipq
 Installed-Size: 1988830
@@ -574,6 +622,7 @@ Description:  GL iNet web UI
 Package: gl-upload
 Version: 1.0.39-1
 Depends: libc, libssp, libuci, libjson-c, libiwinfo, gl-util, libcurl
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-upload
 Section: base
 Architecture: ipq
 Installed-Size: 13815
@@ -586,6 +635,7 @@ Description:  GL.iNet SDK3.0.
 Package: gl-util
 Version: 3.0.213-1
 Depends: libc, libssp, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
 Section: base
 Architecture: ipq
 Installed-Size: 37072
@@ -598,6 +648,7 @@ Description:  GL.iNet SDK3.0.
 Package: gl-vpn-server
 Version: 3.0.121-1
 Depends: libc, libssp, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 Section: base
 Architecture: ipq
 Installed-Size: 11747
@@ -610,6 +661,7 @@ Description:  Openvpn server endpoint api for gl-inet.
 Package: gl-vpn
 Version: 3.0.121-1
 Depends: libc, libssp, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 Section: base
 Architecture: ipq
 Installed-Size: 20713
@@ -622,6 +674,7 @@ Description:  Openvpn server endpoint api for gl-inet.
 Package: gl-wan-detect
 Version: 3.0.1-1
 Depends: libc, libssp
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wan-detect
 Section: base
 Architecture: ipq
 Installed-Size: 12481
@@ -634,6 +687,7 @@ Description:  GL Auto Detect Wan Type
 Package: gl-wg-server
 Version: 3.0.88-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wg
 Section: base
 Architecture: ipq
 Installed-Size: 17691
@@ -646,6 +700,7 @@ Description:  wireguard endpoint api for gl-inet.
 Package: gl-wg
 Version: 3.0.88-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wg
 Section: base
 Architecture: ipq
 Installed-Size: 25068
@@ -658,6 +713,7 @@ Description:  wireguard endpoint api for gl-inet.
 Package: gl-wifi-core
 Version: 3.0.195-1
 Depends: libc, libssp, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
 Section: base
 Architecture: ipq
 Installed-Size: 28412
@@ -670,6 +726,7 @@ Description:
 Package: gl-wifison
 Version: 3.0.117-1
 Depends: libc, libssp, qca-whc-repacd, qca-hyd, qca-wpa-cli, qca-hostapd-cli, gl-util, gl-base-files
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-b1300-gl-s1300-product/gl-wifison
 Section: glinet
 Architecture: ipq
 Installed-Size: 70356
@@ -682,6 +739,7 @@ Description:  wifi son setting api and scripts.
 Package: gl-xe300-mcu
 Version: 3.0.4-1
 Depends: libc, libssp, libjson-c, gl-util
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xe300-mcu
 Section: base
 Architecture: ipq
 Installed-Size: 8415
@@ -694,6 +752,7 @@ Description:  gl XE300 mcu data interface for gl-inet.
 Package: gl-xwf
 Version: 1.0.55-1
 Depends: libc, libssp, kmod-veth, openvswitch, libjson-c, gl-util, tcpdump, libubox-lua, libubus-lua, libuci-lua, lua-cjson, uboot-envtools, kmod-openvswitch-intree, gl-carrier-monitor
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-xwf
 Section: base
 Architecture: ipq
 Installed-Size: 11677
@@ -706,6 +765,7 @@ Description:  OVS AP initialisation for XWF integration
 Package: mt76x8-uci2dat
 Version: 3.0.4-9
 Depends: libc, libssp, libuci
+Source: /home/glinet/builds/zkXze51p/0/gl.router/mt76x8-uci2dat
 Section: base
 Architecture: ipq
 Installed-Size: 18077
@@ -719,8 +779,11 @@ Package: rtty-mbedtls
 Version: 7.4.2-1
 Depends: libc, libssp, libev, libmbedtls, zlib
 Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
 License: MIT
+LicenseFiles: LICENSE
 Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
 Installed-Size: 20145
 Filename: rtty-mbedtls_7.4.2-1_ipq.ipk
@@ -733,8 +796,11 @@ Package: rtty-nossl
 Version: 7.4.2-1
 Depends: libc, libssp, libev
 Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
 License: MIT
+LicenseFiles: LICENSE
 Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
 Installed-Size: 17646
 Filename: rtty-nossl_7.4.2-1_ipq.ipk
@@ -747,8 +813,11 @@ Package: rtty-openssl
 Version: 7.4.2-1
 Depends: libc, libssp, libev, libopenssl
 Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
 License: MIT
+LicenseFiles: LICENSE
 Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
 Installed-Size: 19647
 Filename: rtty-openssl_7.4.2-1_ipq.ipk
@@ -761,8 +830,11 @@ Package: rtty-wolfssl
 Version: 7.4.2-1
 Depends: libc, libssp, libev, libwolfssl
 Provides: rtty
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
 License: MIT
+LicenseFiles: LICENSE
 Section: utils
+Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
 Installed-Size: 19681
 Filename: rtty-wolfssl_7.4.2-1_ipq.ipk
