@@ -402,25 +402,14 @@ SHA256sum: ac5e472b2fc795bc782b8438f082876d4233801c2da7166f77e48cfa3a04b77f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.42-1
+Version: 3.1.48-1
 Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 39654
-Filename: gl-mqtt_3.1.42-1_mips_24kc.ipk
-Size: 39908
-SHA256sum: 419c2efc6a305407905669bb0aa989416a86bc5fb220cedb95e19c2bcfe9bf30
-Description:  MQTT common libary
-
-Package: gl-mqtt
-Version: 3.1.47-1
-Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
-Section: base
-Architecture: mips_24kc
-Installed-Size: 41186
-Filename: gl-mqtt_3.1.47-1_mips_24kc.ipk
+Installed-Size: 41195
+Filename: gl-mqtt_3.1.48-1_mips_24kc.ipk
 Size: 41458
-SHA256sum: f8a4c15c0ef43bdbb77bbb5dd754ae3f835d3744657a02c8dac4acd88bbec355
+SHA256sum: ae98725d48cdbf12397680b59d375689b3717ae6b0d0b8c061571ca68cc77f6d
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -771,6 +760,19 @@ Installed-Size: 18067
 Filename: rtty-openssl_7.4.2-1_mips_24kc.ipk
 Size: 18771
 SHA256sum: cdd19ca978e2b1e246e2369e72034aa39dcb4eeecaa3bc6ba21ab7b0963451c1
+Description:  Access your terminals from anywhere via the web
+
+Package: rtty-openssl
+Version: 8.0.0-1
+Depends: libc, libev, libopenssl1.1
+Provides: rtty
+License: MIT
+Section: utils
+Architecture: mips_24kc
+Installed-Size: 18729
+Filename: rtty-openssl_8.0.0-1_mips_24kc.ipk
+Size: 19428
+SHA256sum: 7f8600f249e7b3d1ee243c259b1ceeb7f8acb28cedacbe1ed2efe1fc9e1d28d9
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-wolfssl
