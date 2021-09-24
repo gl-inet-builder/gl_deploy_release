@@ -603,6 +603,19 @@ Size: 266353
 SHA256sum: 619125b7aa5d9ad53545d5be97e4c8bd4032d07c959d26a19dad66950ec8127f
 Description:  GL.iNet SDK3.0.
 
+Package: gl-sdk
+Version: 3.0.606-1
+Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
+SourceName: gl-sdk
+Section: base
+Architecture: mips_24kc
+Installed-Size: 268912
+Filename: gl-sdk_3.0.606-1_mips_24kc.ipk
+Size: 268946
+SHA256sum: 7f85aedd55490037da21d89f4fe4738e15cd1f7fdcfb0d20de2bce3c58978fbd
+Description:  GL.iNet SDK3.0.
+
 Package: gl-software
 Version: 3.0.28-1
 Depends: libc, gl-util
