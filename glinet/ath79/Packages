@@ -33,6 +33,17 @@ Size: 11903
 SHA256sum: 40eb86ad97485b215a4a9f7efb5db4d3c05a133adc4a58a2c2e3cad23089f73e
 Description:  2b env information manage
 
+Package: gl-2b-env
+Version: 1.0.17
+Depends: libc, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_24kc
+Installed-Size: 11256
+Filename: gl-2b-env_1.0.17_mips_24kc.ipk
+Size: 11992
+SHA256sum: 2022427bdfe1429ec1a8e3efd416b171eb95ad0815b7fd6b205362e8d51428b2
+Description:  2b env information manage
+
 Package: gl-2b-ui
 Version: 3.0.746-1
 Depends: libc
