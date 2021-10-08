@@ -182,6 +182,19 @@ Size: 2542
 SHA256sum: 57377be8409d2dd99c632120c8c3fde5b77aca14b0526ec6be5adb65730bfdb8
 Description:  GL iNet base files
 
+Package: gl-base-files-wbf
+Version: 3.0.490-1
+Depends: libc
+Source: /home/cc/Project/newdisk/win_share/SourceCode/gl-base-files
+SourceName: gl-base-files-wbf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1827
+Filename: gl-base-files-wbf_3.0.490-1_mips_24kc.ipk
+Size: 2518
+SHA256sum: 21053a2fe1b20e5bb814f6d63674f6a01316c7134904a33923d32384602dca22
+Description:  GL iNet base files
+
 Package: gl-base-files-x1200
 Version: 3.0.464-1
 Depends: libc
