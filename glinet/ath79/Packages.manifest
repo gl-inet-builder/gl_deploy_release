@@ -27,30 +27,17 @@ SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
 Package: gl-2b-env
-Version: 1.0.16
+Version: 1.0.17
 Depends: libc, gl-util, gl-wifi-core
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-2b-env
 SourceName: gl-2b-env
 Section: base
 Architecture: mips_24kc
-Installed-Size: 11172
-Filename: gl-2b-env_1.0.16_mips_24kc.ipk
-Size: 11903
-SHA256sum: 40eb86ad97485b215a4a9f7efb5db4d3c05a133adc4a58a2c2e3cad23089f73e
+Installed-Size: 11256
+Filename: gl-2b-env_1.0.17_mips_24kc.ipk
+Size: 11992
+SHA256sum: 2022427bdfe1429ec1a8e3efd416b171eb95ad0815b7fd6b205362e8d51428b2
 Description:  2b env information manage
-
-Package: gl-2b-ui
-Version: 3.0.746-1
-Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
-SourceName: gl-2b-ui
-Section: base
-Architecture: mips_24kc
-Installed-Size: 1989271
-Filename: gl-2b-ui_3.0.746-1_mips_24kc.ipk
-Size: 1985217
-SHA256sum: 9644bf9c3537ce9bacf4b6bd1631fa9b64f20dd9533d8e17fb12486d035e6a1c
-Description:  GL iNet web UI
 
 Package: gl-2b-ui
 Version: 3.0.762-1
@@ -604,16 +591,16 @@ SHA256sum: 49edf137d4e01889ba7fdb6ac830ba0b720e8f063736fc232a4bfee40dd13f1e
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.586-1
+Version: 3.0.606-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mips_24kc
-Installed-Size: 266361
-Filename: gl-sdk_3.0.586-1_mips_24kc.ipk
-Size: 266353
-SHA256sum: 619125b7aa5d9ad53545d5be97e4c8bd4032d07c959d26a19dad66950ec8127f
+Installed-Size: 268912
+Filename: gl-sdk_3.0.606-1_mips_24kc.ipk
+Size: 268946
+SHA256sum: 7f85aedd55490037da21d89f4fe4738e15cd1f7fdcfb0d20de2bce3c58978fbd
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
