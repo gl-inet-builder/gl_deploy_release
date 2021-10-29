@@ -34,14 +34,25 @@ SHA256sum: 2022427bdfe1429ec1a8e3efd416b171eb95ad0815b7fd6b205362e8d51428b2
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.762-1
+Version: 3.0.771-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 1970142
-Filename: gl-2b-ui_3.0.762-1_mips_24kc.ipk
-Size: 1965858
-SHA256sum: e0b9dd6c121f68766f6af3dd64832cb0f8278615bc8026be7f24d4fb80f7bcf2
+Installed-Size: 1970387
+Filename: gl-2b-ui_3.0.771-1_mips_24kc.ipk
+Size: 1965967
+SHA256sum: e9ee3e3daa8e7376a1c08130001ce988f1677db27b3c4f97576f8f4f10b03020
+Description:  GL iNet web UI
+
+Package: gl-2b-ui
+Version: 3.0.772-1
+Depends: libc
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1970938
+Filename: gl-2b-ui_3.0.772-1_mips_24kc.ipk
+Size: 1966591
+SHA256sum: ff599220cfb5aef4a89553252b5fd47df32022a31288ca0f75612809e983401a
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -133,25 +144,14 @@ SHA256sum: 2b38c615b123d7544cde4f973cb609ec707ba54d6b21f32e037d10ed67813ed2
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.464-1
+Version: 3.0.495-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1829
-Filename: gl-base-files-wbf_3.0.464-1_mips_24kc.ipk
-Size: 2542
-SHA256sum: 57377be8409d2dd99c632120c8c3fde5b77aca14b0526ec6be5adb65730bfdb8
-Description:  GL iNet base files
-
-Package: gl-base-files-wbf
-Version: 3.0.490-1
-Depends: libc
-Section: base
-Architecture: mips_24kc
-Installed-Size: 1827
-Filename: gl-base-files-wbf_3.0.490-1_mips_24kc.ipk
-Size: 2518
-SHA256sum: 21053a2fe1b20e5bb814f6d63674f6a01316c7134904a33923d32384602dca22
+Filename: gl-base-files-wbf_3.0.495-1_mips_24kc.ipk
+Size: 2519
+SHA256sum: d1b3fcdf935ef8cb5409cc14c62642f27530f14386338a5c74ca5a8e6bfaf1f8
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
@@ -230,17 +230,6 @@ Filename: gl-ble_cfg_router_telink_1.0.0_mips_24kc.ipk
 Size: 12089
 SHA256sum: be96d039ca594f0730908508632145847c99220d874798dcbb8de14fa931fb76
 Description:  A framework for ble config wifi.
-
-Package: gl-bletool
-Version: 3.4.2
-Depends: libc, libubox20191228, libubus20191227, libjson-c2, libblobmsg-json, libuci20130104, libpthread
-Section: base
-Architecture: mips_24kc
-Installed-Size: 44519
-Filename: gl-bletool_3.4.2_mips_24kc.ipk
-Size: 45289
-SHA256sum: e82d41b19e2cc9cc4ee48f26783084ec740a9c789d0f6486e65f84137d83bf82
-Description:  GL inet BLE driver
 
 Package: gl-bletool
 Version: 3.4.6
@@ -402,14 +391,14 @@ SHA256sum: ac5e472b2fc795bc782b8438f082876d4233801c2da7166f77e48cfa3a04b77f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.48-1
+Version: 3.1.49-1
 Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 41195
-Filename: gl-mqtt_3.1.48-1_mips_24kc.ipk
-Size: 41458
-SHA256sum: ae98725d48cdbf12397680b59d375689b3717ae6b0d0b8c061571ca68cc77f6d
+Installed-Size: 41240
+Filename: gl-mqtt_3.1.49-1_mips_24kc.ipk
+Size: 41478
+SHA256sum: ca469759b6db2d624c05cb7bd243fc3e4678c1012a59eab60e320a56183360f2
 Description:  MQTT common libary
 
 Package: gl-portal
