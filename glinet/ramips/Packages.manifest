@@ -102,6 +102,19 @@ Size: 2540
 SHA256sum: c851cc12f04b39fa21f6bb6cb2bee4b5fc31782232b194b50752bb96e3e6a08e
 Description:  GL iNet base files
 
+Package: gl-base-files-wbf
+Version: 3.0.495-1
+Depends: libc
+Source: /home/cc/Project/newdisk/win_share/SourceCode/gl-base-files
+SourceName: gl-base-files-wbf
+Section: base
+Architecture: mips_24kc
+Installed-Size: 1829
+Filename: gl-base-files-wbf_3.0.495-1_mips_24kc.ipk
+Size: 2519
+SHA256sum: d1b3fcdf935ef8cb5409cc14c62642f27530f14386338a5c74ca5a8e6bfaf1f8
+Description:  GL iNet base files
+
 Package: gl-base-files-x1200
 Version: 3.0.464-1
 Depends: libc
@@ -246,6 +259,19 @@ Size: 11920
 SHA256sum: e1433f692854b695322c27ca5b2857b8ca542cc632825830c6d25484e3d6cdbd
 Description:  GL route policy
 
+Package: gl-sdk4-mtk-apcli
+Version: git-2021.284.10854-48e2c05-1
+Depends: libc, wireless-tools, libiwinfo20181126, libubus20191227, libubox20191228
+Source: /home/zjh/gli/gl-sdk4-mtk-apcli
+SourceName: gl-sdk4-mtk-apcli
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 4825
+Filename: gl-sdk4-mtk-apcli_git-2021.284.10854-48e2c05-1_mipsel_24kc.ipk
+Size: 5561
+SHA256sum: 661becfedf0a2727c61797753c6a67417803d7ee3c7a2dd7ec16b694b3a28abd
+Description:  Apcli for mtk private wifi
+
 Package: gl-sdk4-mtk-wifi-script
 Version: 2
 Depends: libc, wireless-tools, libiwinfo20181126, libubox20191228
@@ -257,6 +283,19 @@ Installed-Size: 9457
 Filename: gl-sdk4-mtk-wifi-script_2_mipsel_24kc.ipk
 Size: 10211
 SHA256sum: b36c0b38d3b1083bfa273c9a695d32c19788272117e0e15a73652a61ced1b16f
+Description:  mtk private wifi driver scripts
+
+Package: gl-sdk4-mtk-wifi
+Version: git-2021.288.41918-b9aa225-1
+Depends: libc, wireless-tools
+Source: /home/zjh/gli/gl-sdk4-mtk-wifi
+SourceName: gl-sdk4-mtk-wifi
+Section: base
+Architecture: mipsel_24kc
+Installed-Size: 6738
+Filename: gl-sdk4-mtk-wifi_git-2021.288.41918-b9aa225-1_mipsel_24kc.ipk
+Size: 7509
+SHA256sum: afa6381e957032b8159ea19a11d99b2b6d87a7fb5985d278e11aca506ac05da4
 Description:  mtk private wifi driver scripts
 
 Package: gl-sdk

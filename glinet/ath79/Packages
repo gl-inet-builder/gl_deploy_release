@@ -391,14 +391,14 @@ SHA256sum: ac5e472b2fc795bc782b8438f082876d4233801c2da7166f77e48cfa3a04b77f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.49-1
+Version: 3.1.50-1
 Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 41240
-Filename: gl-mqtt_3.1.49-1_mips_24kc.ipk
-Size: 41478
-SHA256sum: ca469759b6db2d624c05cb7bd243fc3e4678c1012a59eab60e320a56183360f2
+Installed-Size: 41236
+Filename: gl-mqtt_3.1.50-1_mips_24kc.ipk
+Size: 41468
+SHA256sum: e17a25e1116d1fe03e10c4eac423cf552906f7a0634fd381ee9961ade7d04aaa
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -490,14 +490,14 @@ SHA256sum: 49edf137d4e01889ba7fdb6ac830ba0b720e8f063736fc232a4bfee40dd13f1e
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.606-1
+Version: 3.0.609-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: mips_24kc
-Installed-Size: 268912
-Filename: gl-sdk_3.0.606-1_mips_24kc.ipk
-Size: 268946
-SHA256sum: 7f85aedd55490037da21d89f4fe4738e15cd1f7fdcfb0d20de2bce3c58978fbd
+Installed-Size: 270796
+Filename: gl-sdk_3.0.609-1_mips_24kc.ipk
+Size: 270870
+SHA256sum: 7e01b776df555f2f72a4fa79ccba1564566a9913fc5fd44d4b9c0f6d06ac1980
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
