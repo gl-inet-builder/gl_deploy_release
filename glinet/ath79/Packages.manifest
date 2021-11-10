@@ -578,16 +578,16 @@ SHA256sum: 49edf137d4e01889ba7fdb6ac830ba0b720e8f063736fc232a4bfee40dd13f1e
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.609-1
+Version: 3.0.615-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20191227, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: package/gl/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mips_24kc
-Installed-Size: 270796
-Filename: gl-sdk_3.0.609-1_mips_24kc.ipk
-Size: 270870
-SHA256sum: 7e01b776df555f2f72a4fa79ccba1564566a9913fc5fd44d4b9c0f6d06ac1980
+Installed-Size: 272105
+Filename: gl-sdk_3.0.615-1_mips_24kc.ipk
+Size: 272020
+SHA256sum: c62362b57990191d03bf045a79be40edfd0ebc35f1d771f45c31f8c86c3ced4f
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
