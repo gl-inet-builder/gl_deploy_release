@@ -23,14 +23,14 @@ SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
 Package: gl-2b-env
-Version: 1.0.17
+Version: 1.0.18
 Depends: libc, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 11256
-Filename: gl-2b-env_1.0.17_mips_24kc.ipk
-Size: 11992
-SHA256sum: 2022427bdfe1429ec1a8e3efd416b171eb95ad0815b7fd6b205362e8d51428b2
+Installed-Size: 12490
+Filename: gl-2b-env_1.0.18_mips_24kc.ipk
+Size: 13159
+SHA256sum: 21fad210d2f46e9d89e707f00ec6988a1c0086536455b21308d915051d1da00f
 Description:  2b env information manage
 
 Package: gl-2b-ui
@@ -776,16 +776,4 @@ Filename: rtty-wolfssl_7.4.2-1_mips_24kc.ipk
 Size: 18796
 SHA256sum: 606c281281c0c02034c96c4169c9494790822238703248d920124706cd11ca37
 Description:  Access your terminals from anywhere via the web
-
-Package: uboot-envtools
-Version: 2021.01-10
-Depends: libc
-License: GPL-2.0 GPL-2.0+
-Section: utils
-Architecture: mips_24kc
-Installed-Size: 13390
-Filename: uboot-envtools_2021.01-10_mips_24kc.ipk
-Size: 14134
-SHA256sum: 76a0afae1aee44ab71a55638c768b6e0d36c8db58681e45b9396ebd08e57761d
-Description:  This package includes tools to read and modify U-Boot bootloader environment.
 
