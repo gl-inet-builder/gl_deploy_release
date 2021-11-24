@@ -33,24 +33,11 @@ Source: /home/cc/Project/newdisk/win_share/SourceCode/gl-2b-env
 SourceName: gl-2b-env
 Section: base
 Architecture: mips_24kc
-Installed-Size: 12490
+Installed-Size: 12594
 Filename: gl-2b-env_1.0.18_mips_24kc.ipk
-Size: 13159
-SHA256sum: 21fad210d2f46e9d89e707f00ec6988a1c0086536455b21308d915051d1da00f
+Size: 13264
+SHA256sum: 5d22796208800b3f7b7d9979caed45a0600722c848876c3cd65e30d6ef09b339
 Description:  2b env information manage
-
-Package: gl-2b-ui
-Version: 3.0.771-1
-Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
-SourceName: gl-2b-ui
-Section: base
-Architecture: mips_24kc
-Installed-Size: 1970387
-Filename: gl-2b-ui_3.0.771-1_mips_24kc.ipk
-Size: 1965967
-SHA256sum: e9ee3e3daa8e7376a1c08130001ce988f1677db27b3c4f97576f8f4f10b03020
-Description:  GL iNet web UI
 
 Package: gl-2b-ui
 Version: 3.0.772-1
