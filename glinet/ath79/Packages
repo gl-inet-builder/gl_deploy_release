@@ -11,25 +11,25 @@ Description:  AdGuard Home is a network-wide software for blocking ads & trackin
  it'll cover ALL your home devices, and you don't need any client-side software for that.
 
 Package: gl-2b-env
-Version: 1.0.17
+Version: 1.0.19
 Depends: libc, gl-util, gl-wifi-core
 Section: base
 Architecture: mips_24kc
-Installed-Size: 11256
-Filename: gl-2b-env_1.0.17_mips_24kc.ipk
-Size: 11992
-SHA256sum: 2022427bdfe1429ec1a8e3efd416b171eb95ad0815b7fd6b205362e8d51428b2
+Installed-Size: 12887
+Filename: gl-2b-env_1.0.19_mips_24kc.ipk
+Size: 13566
+SHA256sum: de0f86f7eee5b81a22d6ab00c72c524e15e1c361d8db5918b0187831e05a1e93
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.775-1
+Version: 3.0.781-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 1970990
-Filename: gl-2b-ui_3.0.775-1_mips_24kc.ipk
-Size: 1966705
-SHA256sum: 0eeae17362f340a40541e1258f247c4275edb5665bfd601e16e934aa2f13fbd2
+Installed-Size: 1973456
+Filename: gl-2b-ui_3.0.781-1_mips_24kc.ipk
+Size: 1969428
+SHA256sum: ff8336bcf9a0014524de5496d31595df7b0f087c4fefc07c49dfe368cc0105c8
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -44,124 +44,124 @@ SHA256sum: 3bf78e1148a8a6d54922026033bd3a56490695f945d13df764196f42d49ef34b
 Description:  AdGuardHome Stats
 
 Package: gl-base-files-a53
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 20970
-Filename: gl-base-files-a53_3.0.504-1_mips_24kc.ipk
-Size: 21798
-SHA256sum: 3c22b360f3aa4b89afd59cf87f5a149da165ac9c2c9b41f214a6ab97eaa72aa7
+Installed-Size: 21085
+Filename: gl-base-files-a53_3.0.511-1_mips_24kc.ipk
+Size: 21920
+SHA256sum: c126a299c07190a6145e95be03a525d3c3f9b10b0d0a9c0456c131e9acbb691f
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 7493
-Filename: gl-base-files-ar_3.0.504-1_mips_24kc.ipk
-Size: 8227
-SHA256sum: feb935e5834eb2f641e392145a4666c145b336f339e2bc1517135f560821cc14
+Installed-Size: 7618
+Filename: gl-base-files-ar_3.0.511-1_mips_24kc.ipk
+Size: 8348
+SHA256sum: 19fe00d6e1e1363ce36a6a4aa07f7130bc7602c9f24201b6898d79dd4b3ed294
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1584
-Filename: gl-base-files-e750_3.0.504-1_mips_24kc.ipk
+Filename: gl-base-files-e750_3.0.511-1_mips_24kc.ipk
 Size: 2273
-SHA256sum: 6a7885fd0521258fa16bcd7364ad5e4b6551330f29a306c2fbac08ab6614752b
+SHA256sum: c783dc7d959ef06294cc317fa876709d9a0498f8b2dafa2889b652df7a96b210
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 40973
-Filename: gl-base-files-ipq_3.0.504-1_mips_24kc.ipk
-Size: 41704
-SHA256sum: 1224c3df2b1503ced81ffcd29b0e2f4168b5736237fa570a306bad86b1140139
+Installed-Size: 41094
+Filename: gl-base-files-ipq_3.0.511-1_mips_24kc.ipk
+Size: 41802
+SHA256sum: 9dee1b5a21c9b15f18e0756a0d86745d5430b67cc60e22f78a39a8fff416e7e3
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 9799
-Filename: gl-base-files-mt_3.0.504-1_mips_24kc.ipk
-Size: 10507
-SHA256sum: 7d9c07741a56bc66b0badb164327d2499a9f9979fba0cfb354e7b0b844f43d62
+Installed-Size: 9923
+Filename: gl-base-files-mt_3.0.511-1_mips_24kc.ipk
+Size: 10640
+SHA256sum: 004b4d78d03a40eba586b9e45bec0eeb8e41be57f40c17840988f940190f0fa3
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 34210
-Filename: gl-base-files-mv1000_3.0.504-1_mips_24kc.ipk
-Size: 35123
-SHA256sum: 9e4d02e0404dc158b7e57ae4aa64d8c505f9bf68055fef413dfe8daf857a6c05
+Installed-Size: 34314
+Filename: gl-base-files-mv1000_3.0.511-1_mips_24kc.ipk
+Size: 35233
+SHA256sum: 1295ee1047d50f272af2c9d62ae303ff00e71f23bf2893fc9dd3c2f42eefcb60
 Description:  GL iNet base files
 
 Package: gl-base-files-sf
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 8003
-Filename: gl-base-files-sf_3.0.504-1_mips_24kc.ipk
-Size: 8734
-SHA256sum: 90018552eaa4a4c4be90504ee1fadd08d5eb679430530ccfe64d8a0f645d31b7
+Installed-Size: 8121
+Filename: gl-base-files-sf_3.0.511-1_mips_24kc.ipk
+Size: 8853
+SHA256sum: 1cf0fa86001b5c7a96af93f4a855f99d1d2457d54e42e889266a2c6c94bff1d0
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1834
-Filename: gl-base-files-wbf_3.0.504-1_mips_24kc.ipk
+Filename: gl-base-files-wbf_3.0.511-1_mips_24kc.ipk
 Size: 2532
-SHA256sum: 69fcfa65810f35dcc558b4ad0fb8704672bb515e0a6937769b317d2a5174d187
+SHA256sum: 7ac45d01d1978d4d12c93b15594eb0eb021a340d0086e92b7ddefce35c055bbf
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
 Installed-Size: 3027
-Filename: gl-base-files-x1200_3.0.504-1_mips_24kc.ipk
-Size: 3723
-SHA256sum: 79667e287cf06a0b26e0652a32bd8572fb1fb5ea5bd8cbe0940d54bb7f483a9e
+Filename: gl-base-files-x1200_3.0.511-1_mips_24kc.ipk
+Size: 3724
+SHA256sum: 247171bd1249b93c3f6dc7e191ff41fcb1f03ae46261c5dfa15ca5e42a0b661a
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1248
-Filename: gl-base-files-x300b_3.0.504-1_mips_24kc.ipk
-Size: 1946
-SHA256sum: f7eddc6e8089c3bee5a68b52ca9fac8dfb94d466b553410eb63907f36d66435b
+Filename: gl-base-files-x300b_3.0.511-1_mips_24kc.ipk
+Size: 1948
+SHA256sum: c44bf96ff9f72894199a6b213d3893c66d4f9743436c6ffa222eae4f84929f05
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.504-1
+Version: 3.0.511-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 50170
-Filename: gl-base-files_3.0.504-1_mips_24kc.ipk
-Size: 50985
-SHA256sum: 1d8345fddd5af0d758e01766dbaf52d4e05b718eb948ce68a5efa600ede23df8
+Installed-Size: 50165
+Filename: gl-base-files_3.0.511-1_mips_24kc.ipk
+Size: 50982
+SHA256sum: 477d79651b9d5a4a2afad065c7b374ea87da69fe1ee1ddf8a8d89bd4382a2a29
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -278,14 +278,14 @@ SHA256sum: 896a9f9c4a2a1fb0d015df7997bfb720db450e0b8bc5ef8551eb0eb2d0cb5137
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-files-browser
-Version: 3.0.10-1
+Version: 3.0.11-1
 Depends: libc, gl-util, samba36-server
 Section: base
 Architecture: mips_24kc
-Installed-Size: 3599
-Filename: gl-files-browser_3.0.10-1_mips_24kc.ipk
-Size: 4306
-SHA256sum: e3574615a502dd594afef5ce870d0761133bf908c14f7a3ef6aaeb11a2de4097
+Installed-Size: 3554
+Filename: gl-files-browser_3.0.11-1_mips_24kc.ipk
+Size: 4264
+SHA256sum: 8692b50f55a6d8a009b624540f6ab649d39c330594233169651882659d629006
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-firewall
@@ -344,14 +344,14 @@ SHA256sum: 61dd909185123c15fbf22e790c950cc10ef392a6e08b308da5aa69ddf89eee40
 Description:  GL iNet modem manager
 
 Package: gl-monitor
-Version: 3.0.126-1
+Version: 3.0.127-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 7665
-Filename: gl-monitor_3.0.126-1_mips_24kc.ipk
-Size: 8261
-SHA256sum: 65fce45658303151c95478fa7d5541f968cb1c19a3d38de033567ee2755ba5ec
+Installed-Size: 7874
+Filename: gl-monitor_3.0.127-1_mips_24kc.ipk
+Size: 8498
+SHA256sum: 9f09f24c8b68b24797691f658d9f985dfe0f7f6b5b5e00874b06496367204ea7
 Description:  gl-monitor
 
 Package: gl-mqtt
@@ -399,25 +399,25 @@ SHA256sum: c2cadad49da4dd36abd277fad239e9beb88f053e35c239adbe332c23e12487b5
 Description:  GL iNet Qos Function
 
 Package: gl-repeater
-Version: 3.1.17-1
+Version: 3.1.18-1
 Depends: libc, libubus20210603, gl-util, gl-wifi-core, libpthread
 Section: base
 Architecture: mips_24kc
-Installed-Size: 3946
-Filename: gl-repeater_3.1.17-1_mips_24kc.ipk
-Size: 4660
-SHA256sum: 677bc35de37ec902fc689c45a70bdff15c97e44fc45125560aa018afe3a3e2b2
+Installed-Size: 3882
+Filename: gl-repeater_3.1.18-1_mips_24kc.ipk
+Size: 4596
+SHA256sum: 8e25a8db72f808b1883d12ece1ff38143d3eccb232b28b1caa2b3d2503ceb856
 Description:  GL Health
 
 Package: gl-route-policy
-Version: 3.0.51-1
+Version: 3.0.52-1
 Depends: libc, gl-util
 Section: base
 Architecture: mips_24kc
-Installed-Size: 10896
-Filename: gl-route-policy_3.0.51-1_mips_24kc.ipk
-Size: 11592
-SHA256sum: 1667cd09e1d540478a702a9d2530aeca34fcf7a785df6d6628a957e90e9a1da8
+Installed-Size: 10901
+Filename: gl-route-policy_3.0.52-1_mips_24kc.ipk
+Size: 11608
+SHA256sum: 48d40b50a4e88093fbf529e795e59a5cc5c061f57773dd2031d0b6fc9adb2e7d
 Description:  GL route policy
 
 Package: gl-rs485
@@ -454,14 +454,14 @@ SHA256sum: 6be821c61e15707ec259ef1103b5d1a57438e73172c1e91130e384cfdf0a784f
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.616-1
+Version: 3.0.618-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: mips_24kc
-Installed-Size: 272795
-Filename: gl-sdk_3.0.616-1_mips_24kc.ipk
-Size: 272671
-SHA256sum: 06a502555243a3a8b644b5a34b76e5e557895a952464cee858b47aa9ec11b898
+Installed-Size: 272810
+Filename: gl-sdk_3.0.618-1_mips_24kc.ipk
+Size: 272835
+SHA256sum: f6bfbd1eb49954f5aafa6101d22ceee0442dcdaad8ebf6ea6ba267ef86a6fa99
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -523,14 +523,14 @@ SHA256sum: 6e4385e6d8316f0263d2b6fa1d1d8d01d362e11e7ebb013e4211b83cee0131bc
 Description:  VPN daemon for gl-inet.
 
 Package: gl-ui
-Version: 3.0.778-1
+Version: 3.0.782-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 1998147
-Filename: gl-ui_3.0.778-1_mips_24kc.ipk
-Size: 1993845
-SHA256sum: 6ce943f70ae9e12fa826234a1ad7abb6263eed0b41af081cd7ea119dfb95eb59
+Installed-Size: 1998587
+Filename: gl-ui_3.0.782-1_mips_24kc.ipk
+Size: 1994333
+SHA256sum: 2439e00bf064666362f4586656da155f90a27637028b5ea1a50cc307133c81ed
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -556,25 +556,25 @@ SHA256sum: 64d14d8e896bd58dca3c1560cad1c26751e613fd1bf38dfc38c7f5f562e2cecb
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
-Version: 3.0.124-1
+Version: 3.0.125-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
 Section: base
 Architecture: mips_24kc
-Installed-Size: 10905
-Filename: gl-vpn-server_3.0.124-1_mips_24kc.ipk
-Size: 11738
-SHA256sum: aff47294a01e25d58a26ab8d0a9a09d8ef3cf29bbc333a6c8dc113a6b6e86643
+Installed-Size: 10911
+Filename: gl-vpn-server_3.0.125-1_mips_24kc.ipk
+Size: 11740
+SHA256sum: b354a5523d492b34caff6ac10101035d0008c27c231e8ded0fba71b0089d542f
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-vpn
-Version: 3.0.124-1
+Version: 3.0.125-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
 Section: base
 Architecture: mips_24kc
 Installed-Size: 19201
-Filename: gl-vpn_3.0.124-1_mips_24kc.ipk
-Size: 20069
-SHA256sum: f6d5f7b7c324bf82b9439afddd4fd0b0c38c64e952aee377308670cb068f1507
+Filename: gl-vpn_3.0.125-1_mips_24kc.ipk
+Size: 20071
+SHA256sum: dae96034999662b129823a39761211d1729ea2862d5afe2a5c519e12f8fd0605
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -633,14 +633,14 @@ SHA256sum: abf4488140de75b4d7929cc7876e367d52bb66145da4435c78e32b1b24fb0da5
 Description:  gl XE300 mcu data interface for gl-inet.
 
 Package: mt76x8-uci2dat
-Version: 3.0.4-10
+Version: 3.0.4-11
 Depends: libc, libuci20130104
 Section: base
 Architecture: mips_24kc
-Installed-Size: 17572
-Filename: mt76x8-uci2dat_3.0.4-10_mips_24kc.ipk
-Size: 18271
-SHA256sum: 21bef6d5b323d75e4018d5f96968f7a214e2b6a62681bea141b4d0b629b4ceaa
+Installed-Size: 17664
+Filename: mt76x8-uci2dat_3.0.4-11_mips_24kc.ipk
+Size: 18352
+SHA256sum: d5cf04fec1d349f0f966250d767c54d761ec0d5c788b2b944d94bed8178fbd80
 Description:  Translate uci config into ralink wifi dat format
 
 Package: rtty-mbedtls
