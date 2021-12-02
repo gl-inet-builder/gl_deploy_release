@@ -27,16 +27,16 @@ SHA256sum: fc6e17593768690deb4db659151a8c48681b00c2c5f938610d535f948d9a1aa7
 Description:  AstroRelay Client is the client part of the AstroRelay reverse tunneling solution, letting users behind double NAT bypass server hosting restrictions
 
 Package: gl-2b-env
-Version: 1.0.21
+Version: 1.0.23
 Depends: libc, gl-util, gl-wifi-core
 Source: /home/cc/Project/newdisk/win_share/SourceCode/gl-2b-env
 SourceName: gl-2b-env
 Section: base
 Architecture: mips_24kc
-Installed-Size: 12920
-Filename: gl-2b-env_1.0.21_mips_24kc.ipk
-Size: 13589
-SHA256sum: a3b6c55721722d090a757a448604215923b1046d911fb46fa904d9ecc8e85108
+Installed-Size: 13076
+Filename: gl-2b-env_1.0.23_mips_24kc.ipk
+Size: 13744
+SHA256sum: 3fca7fbe2371184ff4c3606f0a9af4ebd7f0b0844650e017f1f8e9538908a7f0
 Description:  2b env information manage
 
 Package: gl-2b-ui
