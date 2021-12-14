@@ -1,41 +1,41 @@
 Package: AdGuardHome
-Version: 0.104.3-1
+Version: 0.106.3-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/adguardhome
 SourceName: AdGuardHome
 Section: net
 Architecture: mipsel_24kc
-Installed-Size: 7659011
-Filename: AdGuardHome_0.104.3-1_mipsel_24kc.ipk
-Size: 7650271
-SHA256sum: ace514c68186f2d7ac01daf155af47bc946643a33a0e7d9458483cff3740dc56
+Installed-Size: 9944940
+Filename: AdGuardHome_0.106.3-1_mipsel_24kc.ipk
+Size: 9937129
+SHA256sum: 95dbe8204fe7e344333ae4638acd1d641db035efae8cceaabb39b03daca1649f
 Description:  AdGuard Home is a network-wide software for blocking ads & tracking. After you set it up,
  it'll cover ALL your home devices, and you don't need any client-side software for that.
 
 Package: gl-2b-env
-Version: 1.0.19
+Version: 1.0.25
 Depends: libc, gl-util, gl-wifi-core
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-2b-env
 SourceName: gl-2b-env
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 12766
-Filename: gl-2b-env_1.0.19_mipsel_24kc.ipk
-Size: 13441
-SHA256sum: a152d90ee63b0e367adc20cc25e45f7bd6694ee4c4bcf76dada37239073371f4
+Installed-Size: 19288
+Filename: gl-2b-env_1.0.25_mipsel_24kc.ipk
+Size: 20043
+SHA256sum: ec73e444ead0d4e43a500a94a633b1da73050b1ed149da27beb5e9809bf1447b
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.781-1
+Version: 3.0.784-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
 SourceName: gl-2b-ui
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 1973456
-Filename: gl-2b-ui_3.0.781-1_mipsel_24kc.ipk
-Size: 1969431
-SHA256sum: a455bdc2afacc38047f1f955626ff948e8849858a7a3e300c0afe0838115f25a
+Installed-Size: 1973252
+Filename: gl-2b-ui_3.0.784-1_mipsel_24kc.ipk
+Size: 1969035
+SHA256sum: 4567ce149e35b45bf8f6a2e58d4434eb1b55d71f4e23c0b02bb446dce2beb3e7
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -52,146 +52,146 @@ SHA256sum: df7a141d7a70581145615a0ad9b9ae4c5d7cc6ce5400b201bb4bf9dc6a14c9b9
 Description:  AdGuardHome Stats
 
 Package: gl-base-files-a53
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-a53
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 21085
-Filename: gl-base-files-a53_3.0.511-1_mipsel_24kc.ipk
-Size: 21926
-SHA256sum: 9ddcf73603a7bf5bbb598aabe76d7187392c358564b3c9a2b73646d722b4cdf4
+Filename: gl-base-files-a53_3.0.518-1_mipsel_24kc.ipk
+Size: 21925
+SHA256sum: 0390a3305f86f82c4aebb19abcece251e1e5e82c68cffc9033dd7487ae2dc77f
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-ar
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 7618
-Filename: gl-base-files-ar_3.0.511-1_mipsel_24kc.ipk
-Size: 8355
-SHA256sum: ba41b2758df5f63ea4c9e2ccb3a32ee309495c1886ebb05802cd5842ac67162b
+Filename: gl-base-files-ar_3.0.518-1_mipsel_24kc.ipk
+Size: 8354
+SHA256sum: c1c8ea896bb439f327aa20b43b3230c1cd61fd9daa3c200a67b917741dafa0f5
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-e750
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 1584
-Filename: gl-base-files-e750_3.0.511-1_mipsel_24kc.ipk
-Size: 2272
-SHA256sum: 5eb807eaed1e3408da2411dcf7eea19544f582b514bc93f78dd7eecf92c08ee1
+Filename: gl-base-files-e750_3.0.518-1_mipsel_24kc.ipk
+Size: 2279
+SHA256sum: e66cea398633e6be730fb37d92f97a00accc7cc404da7a305a62620ab6d8ff1e
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-ipq
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 41094
-Filename: gl-base-files-ipq_3.0.511-1_mipsel_24kc.ipk
-Size: 41800
-SHA256sum: d619b58b2f669c8486e63c389fd17a9ad2b9722cb97d16fd6ac95cff84f38be2
+Filename: gl-base-files-ipq_3.0.518-1_mipsel_24kc.ipk
+Size: 41802
+SHA256sum: e2d807b65589291600bc2038a2e7f976ecd87aba2028a09380c20d56fe595f84
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-mt
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 9923
-Filename: gl-base-files-mt_3.0.511-1_mipsel_24kc.ipk
-Size: 10642
-SHA256sum: a452f7b06ff935c43732a45f0f86896c1fb42c3a8fd79399372035f60de5b5d2
+Filename: gl-base-files-mt_3.0.518-1_mipsel_24kc.ipk
+Size: 10643
+SHA256sum: aa28f6c672fbf1ba25e3cb10ee5b9d96401a76a8af287cab5eddc401cf0b567c
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-mv1000
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 34314
-Filename: gl-base-files-mv1000_3.0.511-1_mipsel_24kc.ipk
+Filename: gl-base-files-mv1000_3.0.518-1_mipsel_24kc.ipk
 Size: 35233
-SHA256sum: 9b1135f0f8d413d2578891bd0e052d575a6b888f4c1ec68d9b360574de2f0901
+SHA256sum: bdfa2f3d9596ed13b05febcb16d4547253ed58ebe8030cf6317b068209f61aab
 Description:  GL iNet base files
 
 Package: gl-base-files-sf
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-sf
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 8121
-Filename: gl-base-files-sf_3.0.511-1_mipsel_24kc.ipk
-Size: 8855
-SHA256sum: 6068474c973baebf91e88c50784078272e7b44859da9607f0240687159c8930e
+Filename: gl-base-files-sf_3.0.518-1_mipsel_24kc.ipk
+Size: 8857
+SHA256sum: 970035b8a5c27ccab9d43138e62dbfce5ad82458f11c1066673eb4fb4a0d00a5
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-wbf
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 1834
-Filename: gl-base-files-wbf_3.0.511-1_mipsel_24kc.ipk
-Size: 2532
-SHA256sum: c2c4a430d71b3bb64915b4d4a903b50cd8767134effe1deca39a0c97bc7ee8af
+Filename: gl-base-files-wbf_3.0.518-1_mipsel_24kc.ipk
+Size: 2537
+SHA256sum: 3ef027afc4119e70ec0b9276f244dc52cffd2423ac62d8265c17bb1feacf1f06
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-x1200
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 3027
-Filename: gl-base-files-x1200_3.0.511-1_mipsel_24kc.ipk
-Size: 3724
-SHA256sum: 58926c5bac2da1b06cd6812a8c45b18c5c22f02e80dfafd3c7ba824fab88a045
+Filename: gl-base-files-x1200_3.0.518-1_mipsel_24kc.ipk
+Size: 3728
+SHA256sum: 59969ae70e53f34b6c800792375beac80ec22980dd177f5b431aa1325931ee83
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files-x300b
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 1248
-Filename: gl-base-files-x300b_3.0.511-1_mipsel_24kc.ipk
-Size: 1947
-SHA256sum: 90433abd56a3d2165a85df9efb207f76d7208878b6ce12044f5fd6c1ec5172fd
+Filename: gl-base-files-x300b_3.0.518-1_mipsel_24kc.ipk
+Size: 1953
+SHA256sum: 745d8eb6d33163159c216a4011898a07205c4900725eb745a5424a3f3bde8f2c
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.511-1
+Version: 3.0.518-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
 SourceName: gl-base-files
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 50165
-Filename: gl-base-files_3.0.511-1_mipsel_24kc.ipk
-Size: 50981
-SHA256sum: f75ebf66a43d29bedce56cec62097b860c643c294778e1317bf2748e0b3a97fb
+Installed-Size: 50121
+Filename: gl-base-files_3.0.518-1_mipsel_24kc.ipk
+Size: 50948
+SHA256sum: c5eb3ce5f53f1977a1729dc607d93e5c295237359c9841892e005130bfaf88ac
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -355,16 +355,16 @@ SHA256sum: 842ac8505feec0a5e001872c0adc2fcd3a62fbbd862866d1784b192d430e9a05
 Description:  This service allows open port and port forwarding.
 
 Package: gl-ipv6
-Version: 3.0.17-1
+Version: 3.0.18-1
 Depends: libc, gl-util, kmod-ipt-nat6
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ipv6
 SourceName: gl-ipv6
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 20352
-Filename: gl-ipv6_3.0.17-1_mipsel_24kc.ipk
-Size: 21038
-SHA256sum: 6f475e581ebc12857c141766309134d298711a6ae65a33b5f9eb9f11c3cda49a
+Installed-Size: 20370
+Filename: gl-ipv6_3.0.18-1_mipsel_24kc.ipk
+Size: 21054
+SHA256sum: 042d12977b9adf64928e86a3b484d923aecd75d24f2c3b7fd56fbb9663033302
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
@@ -537,16 +537,16 @@ SHA256sum: 0eb6876a22b8c60431f19ae5221387dc3d7f892ad57e0eae7430fd6d738739eb
 Description:  mtk private wifi driver scripts
 
 Package: gl-sdk
-Version: 3.0.618-1
+Version: 3.0.620-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 268874
-Filename: gl-sdk_3.0.618-1_mipsel_24kc.ipk
-Size: 269549
-SHA256sum: 8625335cfa95454a1dba00951b274d790e05402b5a87d7fb1b28598ad90b785c
+Installed-Size: 269127
+Filename: gl-sdk_3.0.620-1_mipsel_24kc.ipk
+Size: 269894
+SHA256sum: dc12f4d19ee41408926b9e34eea2983558f2d3a0f548abd463271c4693fd79ec
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -605,68 +605,68 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.782-1
+Version: 3.0.785-1
 Depends: libc
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-ui3.0
 SourceName: gl-ui
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 1998587
-Filename: gl-ui_3.0.782-1_mipsel_24kc.ipk
-Size: 1994336
-SHA256sum: db09a1fa147f0d44ed04c09ca251001ae9d4f4ec29a9f494e9ed3dba20408f86
+Installed-Size: 1997998
+Filename: gl-ui_3.0.785-1_mipsel_24kc.ipk
+Size: 1994236
+SHA256sum: 69794ebcdc8972f05578171b0583036435686be5173e9f5cd28571f4827ab5b8
 Description:  GL iNet web UI
 
 Package: gl-upload
-Version: 1.0.43-1
+Version: 1.0.46-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, gl-util, libcurl4
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-upload
 SourceName: gl-upload
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 13023
-Filename: gl-upload_1.0.43-1_mipsel_24kc.ipk
-Size: 13777
-SHA256sum: e05286e91fc0463267c9c43d3dd3c3830d6bcd151079701616083857a7c74995
+Installed-Size: 12994
+Filename: gl-upload_1.0.46-1_mipsel_24kc.ipk
+Size: 13707
+SHA256sum: de0548f7602812a1e42ff675722678ffd85d92bdbf41ef188a6723e82c27037d
 Description:  GL.iNet SDK3.0.
 
 Package: gl-util
-Version: 3.0.221-1
+Version: 3.0.222-1
 Depends: libc, libuci20130104, libjson-c2, libiwinfo20181126, libcurl4, libubox20191228, libubus20210603, libblobmsg-json
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-util
 SourceName: gl-util
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 33002
-Filename: gl-util_3.0.221-1_mipsel_24kc.ipk
-Size: 33819
-SHA256sum: cd79d6f34379b4719cad671e16c18b5754dd9c0837978ada37c05788ffd7ad43
+Installed-Size: 33144
+Filename: gl-util_3.0.222-1_mipsel_24kc.ipk
+Size: 33965
+SHA256sum: edb643bd7446347a6f38bfbf323936031b0ac35441ec1d5bc2ba45924a7b45df
 Description:  GL.iNet SDK3.0.
 
 Package: gl-vpn-server
-Version: 3.0.125-1
+Version: 3.0.126-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 SourceName: gl-vpn-server
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 10902
-Filename: gl-vpn-server_3.0.125-1_mipsel_24kc.ipk
-Size: 11737
-SHA256sum: d102c9c5de3b34511af42ac5f6e3fdf2b959c1addfc4c9119d03d9deb91a24b4
+Installed-Size: 11477
+Filename: gl-vpn-server_3.0.126-1_mipsel_24kc.ipk
+Size: 12343
+SHA256sum: 0890aae3c611d423c9513056da87203c45888f2e423295ad65025d3afacfd824
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-vpn
-Version: 3.0.125-1
+Version: 3.0.126-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-vpn
 SourceName: gl-vpn
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 19038
-Filename: gl-vpn_3.0.125-1_mipsel_24kc.ipk
-Size: 19910
-SHA256sum: e8f0d533c6ad527b3668bb8fa8fa80bf4d11ef9bc6e2f1a75c32b279b74e01ba
+Filename: gl-vpn_3.0.126-1_mipsel_24kc.ipk
+Size: 19911
+SHA256sum: 2979a5a30fb0ae87492f49b852f9f27e60a74dadc7b576c62353c70bb9d08819
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -709,16 +709,16 @@ SHA256sum: 561a8822d54968b52549f92dd8e42e3edb2e90030feeaae9e3f3a7c092c059cd
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
-Version: 3.0.215-1
+Version: 3.0.216-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-wifi-core
 SourceName: gl-wifi-core
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 24238
-Filename: gl-wifi-core_3.0.215-1_mipsel_24kc.ipk
-Size: 24934
-SHA256sum: 74930811a14a72ea28e3c27ce47bbf05cf94cc69c770ff85ddc9501edd9a1797
+Installed-Size: 24237
+Filename: gl-wifi-core_3.0.216-1_mipsel_24kc.ipk
+Size: 24937
+SHA256sum: 7884a829ebebe4a2ff537362f37c560952a095b0b888295632c30b46a1a49cfa
 Description:  
 
 Package: gl-xe300-mcu
