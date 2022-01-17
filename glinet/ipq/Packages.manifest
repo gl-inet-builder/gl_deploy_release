@@ -760,70 +760,53 @@ SHA256sum: 6c3d4360845495b5028708090dbb9d493bb610feb0f18a7523d11fba5147397f
 Description:  Translate uci config into ralink wifi dat format
 
 Package: rtty-mbedtls
-Version: 7.4.2-1
+Version: 8.0.0-2
 Depends: libc, libssp, libev, libmbedtls, zlib
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: feeds/gli_pub/rtty
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
-Installed-Size: 20145
-Filename: rtty-mbedtls_7.4.2-1_ipq.ipk
-Size: 20856
-MD5Sum: a5a3b3f99a9b8ee974cbb150ea4b1d57
-SHA256sum: 6daf14351e8e2f021c4644dbecdc340f49da4eef9611a7b044ae1bd36717578f
+Installed-Size: 20927
+Filename: rtty-mbedtls_8.0.0-2_ipq.ipk
+Size: 21637
+MD5Sum: 3c174e377d89033d6c5abf82bd3f4347
+SHA256sum: 87b2bbe6f8244271ed19bd38afb4981bf1a9c075a27fa46587f2b85e7ef7e4e7
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-nossl
-Version: 7.4.2-1
+Version: 8.0.0-2
 Depends: libc, libssp, libev
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: feeds/gli_pub/rtty
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
-Installed-Size: 17646
-Filename: rtty-nossl_7.4.2-1_ipq.ipk
-Size: 18472
-MD5Sum: bc6a82a45a0be40ba53ace2b01db0a7e
-SHA256sum: 798f796bffaea9ded1f50318be0d1b030916968125d6a6841ed2e3bd51960405
+Installed-Size: 18023
+Filename: rtty-nossl_8.0.0-2_ipq.ipk
+Size: 18782
+MD5Sum: 6485705c9b91dd60de0999fe6a06fb7c
+SHA256sum: 2739adcb9ba7adfb7ac53b3b0cbb3bcf1facc1356e2f367a284db27d02d875cd
 Description:  Access your terminals from anywhere via the web
 
 Package: rtty-openssl
-Version: 7.4.2-1
+Version: 8.0.0-2
 Depends: libc, libssp, libev, libopenssl
 Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
+Source: feeds/gli_pub/rtty
 License: MIT
 LicenseFiles: LICENSE
 Section: utils
 Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
 Architecture: ipq
-Installed-Size: 19648
-Filename: rtty-openssl_7.4.2-1_ipq.ipk
-Size: 20312
-MD5Sum: 7cd469662436d28041ec25e7378d091d
-SHA256sum: 3801e51cdb3c8cdeb5a5c0ff446a4d32525bca37f8da3cd0671d2dea2246ecf8
-Description:  Access your terminals from anywhere via the web
-
-Package: rtty-wolfssl
-Version: 7.4.2-1
-Depends: libc, libssp, libev, libwolfssl
-Provides: rtty
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-rtty
-License: MIT
-LicenseFiles: LICENSE
-Section: utils
-Maintainer: Jianhui Zhao <zhaojh329@gmail.com>
-Architecture: ipq
-Installed-Size: 19681
-Filename: rtty-wolfssl_7.4.2-1_ipq.ipk
-Size: 20385
-MD5Sum: fe589e392d35be6a04694ca7955565cb
-SHA256sum: 7f2f02d58984642400ffb30a3023a00ffa1cfbf55f414392fb1c0c17ffd0f33c
+Installed-Size: 20558
+Filename: rtty-openssl_8.0.0-2_ipq.ipk
+Size: 21183
+MD5Sum: d6d40f266a52addef83c03bfcd7382dd
+SHA256sum: 608c0c7e6f86fa76c0bdf99a2790e7fe5ff670b53b0d76b32335afeb9eb5d441
 Description:  Access your terminals from anywhere via the web
 

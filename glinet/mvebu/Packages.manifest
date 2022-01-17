@@ -419,16 +419,16 @@ SHA256sum: 80676c2f2111ca6a5bf6e2dfc32d80b348f74bcdd05e948624a7d89c19d9af90
 Description:  GL iNet Qos Function
 
 Package: gl-repeater
-Version: 3.1.18-1
+Version: 3.1.19-1
 Depends: libc, libubus20210603, gl-util, gl-wifi-core, libpthread
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-repeater
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-repeater
 SourceName: gl-repeater
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 4133
-Filename: gl-repeater_3.1.18-1_aarch64_cortex-a53.ipk
-Size: 4840
-SHA256sum: cc5290f7c69c679c1a1354a9839a162a5bf0b98d16a2c09874a168188a44a219
+Installed-Size: 4143
+Filename: gl-repeater_3.1.19-1_aarch64_cortex-a53.ipk
+Size: 4858
+SHA256sum: 3cb171bb58be31a3d05ca2c2d22ee01a0b3597e9b66b25950269e4a23f57fb9e
 Description:  GL Health
 
 Package: gl-route-policy
