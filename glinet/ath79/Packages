@@ -465,14 +465,14 @@ SHA256sum: 6cd1e67b756e5f7e90b2f6a5c9f70e197b6d81b45780f3fa348d6c49e5077cff
 Description:  Oui Support for client mgmt
 
 Package: gl-sdk
-Version: 3.0.622-1
+Version: 3.0.623-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: mips_24kc
-Installed-Size: 275315
-Filename: gl-sdk_3.0.622-1_mips_24kc.ipk
-Size: 275311
-SHA256sum: ad153757ef10d793ede3c2cf4d9e6df02be151469040ad11c51c64f2984359b6
+Installed-Size: 275445
+Filename: gl-sdk_3.0.623-1_mips_24kc.ipk
+Size: 275348
+SHA256sum: 0dfff48b4e5cf84c3f7a8137ebc21f5c431ee930b1d461c164e8bae7f2e52072
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -534,14 +534,14 @@ SHA256sum: 6e4385e6d8316f0263d2b6fa1d1d8d01d362e11e7ebb013e4211b83cee0131bc
 Description:  VPN daemon for gl-inet.
 
 Package: gl-ui
-Version: 3.0.790-1
+Version: 3.0.803-1
 Depends: libc
 Section: base
 Architecture: mips_24kc
-Installed-Size: 1999580
-Filename: gl-ui_3.0.790-1_mips_24kc.ipk
-Size: 1995316
-SHA256sum: 0fda71f508107f2f714e684161cc1d09e097794b5ad84308275596f2cf9364c5
+Installed-Size: 2081319
+Filename: gl-ui_3.0.803-1_mips_24kc.ipk
+Size: 2077043
+SHA256sum: 18d6fa36d7f91c17b184da380f72de297065871c1629d481096b2efdc07ed2ff
 Description:  GL iNet web UI
 
 Package: gl-upload

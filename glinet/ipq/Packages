@@ -483,15 +483,15 @@ SHA256sum: e8b90e932c49cd1a3848fcd77b31507908a4e7531e4120fba2e94967ee23c304
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.622-1
+Version: 3.0.623-1
 Depends: libc, libssp, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: ipq
-Installed-Size: 314917
-Filename: gl-sdk_3.0.622-1_ipq.ipk
-Size: 314759
-MD5Sum: af6afbd6c6ddea25fcdc44f04b3f8481
-SHA256sum: 7d85a0133287223d58ac9b2e4fbd52a61a35ecd68cc3b94b174ddf0e4ca9e493
+Installed-Size: 315059
+Filename: gl-sdk_3.0.623-1_ipq.ipk
+Size: 314892
+MD5Sum: c356fa7a46c24ffbf658a0be71868a33
+SHA256sum: b8b42afea6acfeb441f9e7c58c3dd49575437dcf26faaf7f3327574beed09c93
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
@@ -546,15 +546,15 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.790-1
+Version: 3.0.803-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 2000804
-Filename: gl-ui_3.0.790-1_ipq.ipk
-Size: 1997046
-MD5Sum: 732b6c6b3b9928b7cf46510949f860d1
-SHA256sum: 10b0fef6721a0d60993ba31218bc81e2da4b2498e69b8aad27a5148923c8baac
+Installed-Size: 2080056
+Filename: gl-ui_3.0.803-1_ipq.ipk
+Size: 2076179
+MD5Sum: 79a19fc84019bd97c54d20db6b612a61
+SHA256sum: 2ac76318a9836ce07d973b6e9cf04241cb6673ccb3343ba950f721f3ac9c81fb
 Description:  GL iNet web UI
 
 Package: gl-upload
