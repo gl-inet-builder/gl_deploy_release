@@ -484,16 +484,16 @@ SHA256sum: 81febd347d6fff29c7db42aec1dc29f85ce102f7dff07e5e4d55f810a8965979
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.622-1
+Version: 3.0.623-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-sdk3.0
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 315495
-Filename: gl-sdk_3.0.622-1_aarch64_cortex-a53.ipk
-Size: 316100
-SHA256sum: c9966889324ff12f0ef8f08d28eaf6a85a28206e0a9ad45f542fb7a32d2f8790
+Installed-Size: 315539
+Filename: gl-sdk_3.0.623-1_aarch64_cortex-a53.ipk
+Size: 316120
+SHA256sum: f17de4d40d43cae1d0855315d9deae57bd8460b2822584a1ccfda59e0cd6ccc9
 Description:  GL.iNet SDK3.0.
 
 Package: gl-software
