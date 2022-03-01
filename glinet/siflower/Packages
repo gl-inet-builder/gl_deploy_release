@@ -1,0 +1,470 @@
+Package: gl-base-files-a53
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 21080
+Filename: gl-base-files-a53_3.0.520-1_mips_siflower.ipk
+Size: 21897
+SHA256sum: 0a32dc965ed7552774a5d82b3f2c5652842debe6d5eb5698279fb44f33f7ab9b
+Description:  GL iNet base files
+
+Package: gl-base-files-ar
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 7771
+Filename: gl-base-files-ar_3.0.520-1_mips_siflower.ipk
+Size: 8476
+SHA256sum: 889e608d7499a823c9492a794d8bb70c82df2e0e2297424650047be3dc45dd28
+Description:  GL iNet base files
+
+Package: gl-base-files-e750
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 1577
+Filename: gl-base-files-e750_3.0.520-1_mips_siflower.ipk
+Size: 2249
+SHA256sum: b8eb69b1386e2ba0739bf1f87468ae643ff63e2f316092f30433548a4ad56643
+Description:  GL iNet base files
+
+Package: gl-base-files-ipq
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 41084
+Filename: gl-base-files-ipq_3.0.520-1_mips_siflower.ipk
+Size: 41742
+SHA256sum: 45881ae17a8cf52c0a74d01d2cc5ee26e778e36cda134714a0b544b26bf95ac2
+Description:  GL iNet base files
+
+Package: gl-base-files-mt
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 4628
+Filename: gl-base-files-mt_3.0.520-1_mips_siflower.ipk
+Size: 5284
+SHA256sum: 8a3b0b0cafb73ec8ed54dec159b2e0d167b9b275862a75b4d62417a601622d06
+Description:  GL iNet base files
+
+Package: gl-base-files-mv1000
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 34302
+Filename: gl-base-files-mv1000_3.0.520-1_mips_siflower.ipk
+Size: 35198
+SHA256sum: 8987a127bfa7223698beba53649c880cb737ebd2767f7ac5a8f5a4a424f076bc
+Description:  GL iNet base files
+
+Package: gl-base-files-sf
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 8115
+Filename: gl-base-files-sf_3.0.520-1_mips_siflower.ipk
+Size: 8831
+SHA256sum: 46173e5bdf2822654eca25d79762e90b4237c5f015a7deee999d8518b5be2471
+Description:  GL iNet base files
+
+Package: gl-base-files-wbf
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 1829
+Filename: gl-base-files-wbf_3.0.520-1_mips_siflower.ipk
+Size: 2512
+SHA256sum: e8b48ecc056df5728e6f403203367cf13a6cf667757cc029a40367cc0a3f2853
+Description:  GL iNet base files
+
+Package: gl-base-files-x1200
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 3023
+Filename: gl-base-files-x1200_3.0.520-1_mips_siflower.ipk
+Size: 3703
+SHA256sum: c49793d2c6bc07b7fdf07b142d640ab80c8cce34511b0ed80c42dbb7b8c3cf28
+Description:  GL iNet base files
+
+Package: gl-base-files-x300b
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 1236
+Filename: gl-base-files-x300b_3.0.520-1_mips_siflower.ipk
+Size: 1915
+SHA256sum: c3473ac9e09cfeb5ef437355bb2269a9d1bbec7c2b38c0649d886ea25da97865
+Description:  GL iNet base files
+
+Package: gl-base-files
+Version: 3.0.520-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 50006
+Filename: gl-base-files_3.0.520-1_mips_siflower.ipk
+Size: 50803
+SHA256sum: 2d43e6b26d5fb1544ab987e7f9a429f8a7ec8088d3e3f67d3bd834e12fd3d02e
+Description:  GL iNet base files
+
+Package: gl-cloud-ui
+Version: 3.0.36-1
+Depends: libc, gl-util, libjson-c, gl-mqtt, gl-ddns
+Section: base
+Architecture: mips_siflower
+Installed-Size: 9172
+Filename: gl-cloud-ui_3.0.36-1_mips_siflower.ipk
+Size: 10076
+SHA256sum: d918b77332d0aba21f60ae3522a10396db1d9581945a15ca1df5e8bd4987fe42
+Description:  The firmware needs to be upgraded to 3.010 to support cloud management and dynamic DNS.
+ 
+
+Package: gl-crond
+Version: 3.0.4-1
+Depends: libc, libubox, libubus, libjson-c, gl-util
+Section: base
+Architecture: mips_siflower
+Installed-Size: 6526
+Filename: gl-crond_3.0.4-1_mips_siflower.ipk
+Size: 7349
+SHA256sum: 23a253c66f9cbda3cd81cb93c6873ca41d409bf4cb56e9efdef4de9ef19a6d7b
+Description:  A framework for timing task, you can register or unregister their task to this
+ framework via ubus. Task can be written in shell or C, you just need to write 
+ task, glcrond will dispatch your task regularly when you register to it.
+
+Package: gl-ddns
+Version: 3.0.26-1
+Depends: libc, libjson-c, gl-util, ddns-scripts
+Section: base
+Architecture: mips_siflower
+Installed-Size: 17863
+Filename: gl-ddns_3.0.26-1_mips_siflower.ipk
+Size: 18753
+SHA256sum: 10b9de1c31d7c239dc81e44e1992c8f57864efcae8a2007bf0dc130d925b27b5
+Description:  glddns api for gl-inet.
+
+Package: gl-firewall
+Version: 3.0.5-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 723
+Filename: gl-firewall_3.0.5-1_mips_siflower.ipk
+Size: 1400
+SHA256sum: f5fe30d5fdf13308d102dee5cb3fda4aba170bebae760ff0005616b31fb9f3df
+Description:  GL iNet firewall
+
+Package: gl-fw
+Version: 3.0.29-1
+Depends: libc, iptables, ip-full, gl-util, libuci
+Section: base
+Architecture: mips_siflower
+Installed-Size: 7786
+Filename: gl-fw_3.0.29-1_mips_siflower.ipk
+Size: 8637
+SHA256sum: 4c9773a4069a5d7709b59c2f1913c064bf6bca788cbd77b61231d60710ebb2fb
+Description:  This service allows open port and port forwarding.
+
+Package: gl-ipv6
+Version: 3.0.17-1
+Depends: libc, gl-util, kmod-ipt-nat6
+Section: base
+Architecture: mips_siflower
+Installed-Size: 22884
+Filename: gl-ipv6_3.0.17-1_mips_siflower.ipk
+Size: 23574
+SHA256sum: 8a8c7b75d8713f3dfdf38817092694aa21d2d7d5f9d5f2d11e4ba7b1db4f2989
+Description:  ipv6 function for gl-inet.
+
+Package: gl-modem
+Version: 3.0.160-1
+Depends: libc, libpthread, libuci, libubus, libblobmsg-json, libubox, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_siflower
+Installed-Size: 119654
+Filename: gl-modem_3.0.160-1_mips_siflower.ipk
+Size: 120341
+SHA256sum: 67de305f83b56b170c0c9912d4a38bcc57b7f47535c2eff8a60ced5b11aade6e
+Description:  GL iNet modem manager
+
+Package: gl-monitor
+Version: 3.0.127-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 7870
+Filename: gl-monitor_3.0.127-1_mips_siflower.ipk
+Size: 8470
+SHA256sum: 17ee292beb562a34c810bfd2eaef534d28ee2aa9a8ee5d0c8f1ad50d4994803f
+Description:  gl-monitor
+
+Package: gl-mqtt
+Version: 3.1.51-1
+Depends: libc, libpthread, mqtt, libcurl, libjson-c, gl-util, gl-wifi-core
+Section: base
+Architecture: mips_siflower
+Installed-Size: 42934
+Filename: gl-mqtt_3.1.51-1_mips_siflower.ipk
+Size: 43138
+SHA256sum: 97d0087d00e0cb5f0a11cfcb10c250b5e9d176f404366ae84ddd2b1f4ff61331
+Description:  MQTT common libary
+
+Package: gl-portal
+Version: 3.0.27-1
+Depends: libc, libjson-c, gl-util, nodogsplash
+Section: base
+Architecture: mips_siflower
+Installed-Size: 88479
+Filename: gl-portal_3.0.27-1_mips_siflower.ipk
+Size: 89568
+SHA256sum: 80278ed89df483f25dc78b70c36a54f3e79c05fab7b56faf004f5644d1ed3b11
+Description:  glportal api for gl-inet.
+
+Package: gl-qos-internal
+Version: 3.0.38-1
+Depends: libc, gl-util, libjson-c, tc, kmod-sched, kmod-sched-core, kmod-sched-connmark, kmod-ipt-ipmark, kmod-ipt-hashlimit, kmod-ipt-core, iptables, iptables-mod-conntrack-extra, iptables-mod-hashlimit, iptables-mod-ipopt, iptables-mod-u32
+Section: base
+Architecture: mips_siflower
+Installed-Size: 6847
+Filename: gl-qos-internal_3.0.38-1_mips_siflower.ipk
+Size: 7633
+SHA256sum: 6f416cd1bcb2a14feba12a341b87501b75de34972dcde61dd098b3b914d16d99
+Description:  GL iNet Qos Function
+
+Package: gl-repeater
+Version: 3.1.17-1
+Depends: libc, libubus, gl-util, gl-wifi-core, libpthread
+Section: base
+Architecture: mips_siflower
+Installed-Size: 4314
+Filename: gl-repeater_3.1.17-1_mips_siflower.ipk
+Size: 5010
+SHA256sum: 23d543a0ee28f93114938579b706700e24be3f1ea029581a169881eaa3a0b8c8
+Description:  GL Health
+
+Package: gl-route-policy
+Version: 3.0.52-1
+Depends: libc, gl-util
+Section: base
+Architecture: mips_siflower
+Installed-Size: 11205
+Filename: gl-route-policy_3.0.52-1_mips_siflower.ipk
+Size: 11870
+SHA256sum: 9aa420c4a851f07afb7823629a8296abacbd4ee2f8009b1a40de216acff7e460
+Description:  GL route policy
+
+Package: gl-rtty
+Version: 1.0.0-1
+Depends: libc, rtty-openssl
+Section: base
+Architecture: mips_siflower
+Installed-Size: 395
+Filename: gl-rtty_1.0.0-1_mips_siflower.ipk
+Size: 1061
+SHA256sum: 86783219edc48a3441c65e4438ddf11bae6bba3534fde48d645d910692d010e7
+Description:  GL SDK3.0
+
+Package: gl-s2s
+Version: 1.0.24-1
+Depends: libc, wireguard, libjson-c, libubox, libubus, gl-util, gl-crond
+Section: base
+Architecture: mips_siflower
+Installed-Size: 17529
+Filename: gl-s2s_1.0.24-1_mips_siflower.ipk
+Size: 18326
+SHA256sum: 6a86d586daa372a6e1e270672b8a32db7eb12a1c34f8ce00c4e2768e0ae3b139
+Description:  It is the Site to Site API for GL.iNet. 
+
+Package: gl-sdk
+Version: 3.0.619-1
+Depends: libc, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
+Section: base
+Architecture: mips_siflower
+Installed-Size: 300071
+Filename: gl-sdk_3.0.619-1_mips_siflower.ipk
+Size: 300002
+SHA256sum: 7f8dc2466910116c1a36375e0ec4027233934d37210b9379d77319b185bae682
+Description:  GL.iNet SDK3.0.
+
+Package: gl-software
+Version: 3.0.28-1
+Depends: libc, gl-util
+Section: base
+Architecture: mips_siflower
+Installed-Size: 6145
+Filename: gl-software_3.0.28-1_mips_siflower.ipk
+Size: 6828
+SHA256sum: a54b4fc8fcfdfab82cebd32ee0cb9f202608ac33ac821b2847b520c2692bd01a
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-tertf-sf1200
+Version: 4.0.45-1
+Depends: libc, libiwinfo, gl-util, libjson-c, gl-traffic
+Section: base
+Architecture: mips_siflower
+Installed-Size: 16499
+Filename: gl-tertf-sf1200_4.0.45-1_mips_siflower.ipk
+Size: 17161
+SHA256sum: 29a38e321d1234b4d028915ffb7f5b2adf7a5fb7e874a74899c367e918b52505
+Description:  Terminal traffic.
+
+Package: gl-tertf
+Version: 4.0.45-1
+Depends: libc, libiwinfo, gl-util, libjson-c, gl-traffic, libsqlite3, ebtables
+Section: base
+Architecture: mips_siflower
+Installed-Size: 409791
+Filename: gl-tertf_4.0.45-1_mips_siflower.ipk
+Size: 410602
+SHA256sum: c5eb54d3ec26f371017132b3250086f0f70e7389a3c7dd7af825ff4fafdc0bcc
+Description:  Terminal traffic.
+
+Package: gl-tor
+Version: 3.1.2-1
+Depends: libc, tor, tor-geoip, libjson-c, gl-util
+Section: base
+Architecture: mips_siflower
+Installed-Size: 3983
+Filename: gl-tor_3.1.2-1_mips_siflower.ipk
+Size: 4658
+SHA256sum: c9c0e68de873c11e543957086142f7fd7799886675d2c5a496e0213b36e14384
+Description:  GL iNet tor interface
+
+Package: gl-traffic
+Version: 1.0.5-1
+Depends: libc, libpcap, libpthread
+Section: gl-inet
+Architecture: mips_siflower
+Installed-Size: 7121
+Filename: gl-traffic_1.0.5-1_mips_siflower.ipk
+Size: 7995
+SHA256sum: 9208d33c804d39a5510afc130fefe3f97e53dbf96b4dedfec94dd1b1cdf83ed7
+Description:  iftop does for network usage what top(1) does for CPU usage. It 
+ listens to network traffic on a named interface and displays a 
+ table of current bandwidth usage by pairs of hosts. Handy for 
+ answering the question 'why is our ADSL link so slow?'.
+
+Package: gl-ui
+Version: 3.0.783-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 2079077
+Filename: gl-ui_3.0.783-1_mips_siflower.ipk
+Size: 2073849
+SHA256sum: 401e8da361ecf72c11d62ff2d1572f0762e45988d1207211882aaca133e61b4c
+Description:  GL iNet web UI
+
+Package: gl-upload
+Version: 1.0.43-1
+Depends: libc, libuci, libjson-c, libiwinfo, gl-util, libcurl
+Section: base
+Architecture: mips_siflower
+Installed-Size: 14937
+Filename: gl-upload_1.0.43-1_mips_siflower.ipk
+Size: 15610
+SHA256sum: f5857ad41f0f27d18c3a5d10471b833e6ecdb4f6c9e00feb236106318f0ffddc
+Description:  GL.iNet SDK3.0.
+
+Package: gl-util
+Version: 3.0.221-1
+Depends: libc, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
+Section: base
+Architecture: mips_siflower
+Installed-Size: 36963
+Filename: gl-util_3.0.221-1_mips_siflower.ipk
+Size: 37721
+SHA256sum: b5d1599dd5c025dda5633bb17e6b7b804f9ec03b2efeffdf269f5b05c43581f0
+Description:  GL.iNet SDK3.0.
+
+Package: gl-vpn-server
+Version: 3.0.125-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Section: base
+Architecture: mips_siflower
+Installed-Size: 11142
+Filename: gl-vpn-server_3.0.125-1_mips_siflower.ipk
+Size: 11959
+SHA256sum: 26327f6a335bfa4f3097b8173591c0f36747021b2b187356307cf2b70ee1fe3a
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-vpn
+Version: 3.0.125-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Section: base
+Architecture: mips_siflower
+Installed-Size: 20458
+Filename: gl-vpn_3.0.125-1_mips_siflower.ipk
+Size: 21242
+SHA256sum: fef8d25d5ae9127f648bc8da56a49cced09db389611f1ab158cd2f432cd766ed
+Description:  Openvpn server endpoint api for gl-inet.
+
+Package: gl-wan-detect
+Version: 3.0.1-1
+Depends: libc
+Section: base
+Architecture: mips_siflower
+Installed-Size: 13796
+Filename: gl-wan-detect_3.0.1-1_mips_siflower.ipk
+Size: 14425
+SHA256sum: 62adda0c8fc0712e12dae4e8154163e02887201bc42f0bff0fa49e31e782c16b
+Description:  GL Auto Detect Wan Type
+
+Package: gl-wg-server
+Version: 3.0.90-2
+Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Section: base
+Architecture: mips_siflower
+Installed-Size: 17550
+Filename: gl-wg-server_3.0.90-2_mips_siflower.ipk
+Size: 18427
+SHA256sum: f771b81806812a7b30511e88390622263b287f8c2b9c48b0625f5898778278b2
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wg
+Version: 3.0.90-2
+Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
+Section: base
+Architecture: mips_siflower
+Installed-Size: 23981
+Filename: gl-wg_3.0.90-2_mips_siflower.ipk
+Size: 24804
+SHA256sum: 433fa2226a22079a5f680cfa73df173d79777ba37faaa64fd6f39805a7d8ae6e
+Description:  wireguard endpoint api for gl-inet.
+
+Package: gl-wifi-core
+Version: 3.0.215-1
+Depends: libc, gl-util
+Section: base
+Architecture: mips_siflower
+Installed-Size: 27520
+Filename: gl-wifi-core_3.0.215-1_mips_siflower.ipk
+Size: 28158
+SHA256sum: 645d4c436f86ad7738d7e5c1cfddb34b2dc045dde10212b4051866da30d36285
+Description:  
+
+Package: rtty-openssl
+Version: 8.0.0-1
+Depends: libc, libev, libopenssl
+Provides: rtty
+License: MIT
+Section: utils
+Architecture: mips_siflower
+Installed-Size: 21538
+Filename: rtty-openssl_8.0.0-1_mips_siflower.ipk
+Size: 22276
+SHA256sum: 12785761d34961716579b00ac42968ad98e7c011464009a3ef1b3cdc0a2093b3
+Description:  Access your terminals from anywhere via the web
+
