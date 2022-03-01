@@ -289,14 +289,14 @@ SHA256sum: 237e6097838793c14d0903cec5b0a23f652f7f1d5011e8ee8f00a603a7da2035
 Description:  GL INIT PORTAL FOR GL-INET
 
 Package: gl-ipv6
-Version: 3.0.19-1
+Version: 3.0.20-1
 Depends: libc, gl-util, kmod-ipt-nat6
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 22223
-Filename: gl-ipv6_3.0.19-1_aarch64_cortex-a53.ipk
-Size: 22924
-SHA256sum: 36ec4b069df8f1e4c721393461ca9df6f56f4df7492c25cf8e7f0f249443251b
+Installed-Size: 22240
+Filename: gl-ipv6_3.0.20-1_aarch64_cortex-a53.ipk
+Size: 22929
+SHA256sum: f075cc2d0789faa2db575cc7aae6bbd23ce848f0e48fdd91c3cfa352808ef0dc
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem

@@ -393,16 +393,16 @@ SHA256sum: 806a698032ea48e242101e779f8fe1e744e4d2b0b251790ae5f7a8e6571f318a
 Description:  GL INIT PORTAL FOR GL-INET
 
 Package: gl-ipv6
-Version: 3.0.19-1
+Version: 3.0.20-1
 Depends: libc, libssp, gl-util, kmod-ipt-nat6
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ipv6
 Section: base
 Architecture: ipq
-Installed-Size: 23103
-Filename: gl-ipv6_3.0.19-1_ipq.ipk
-Size: 23804
-MD5Sum: 8bcb61eee03acf51fa82b1d40f6baf35
-SHA256sum: 4240a8024158e1ce3f50b382d5134b19147f23f544e81c5029a478cafa907484
+Installed-Size: 23117
+Filename: gl-ipv6_3.0.20-1_ipq.ipk
+Size: 23816
+MD5Sum: b6ead6c41a9aac9b6fef3f441e8a3360
+SHA256sum: 73efc862d99f1e32822d6f5d6d9a00d3aa827698404de14a8554146162d8dee9
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem

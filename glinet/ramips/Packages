@@ -301,14 +301,14 @@ SHA256sum: b18be2a832a67d6911c8e000201a9a132d205b44e6a3a5e78c1415b784f8a307
 Description:  GL INIT PORTAL FOR GL-INET
 
 Package: gl-ipv6
-Version: 3.0.19-1
+Version: 3.0.20-1
 Depends: libc, gl-util, kmod-ipt-nat6
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 20364
-Filename: gl-ipv6_3.0.19-1_mipsel_24kc.ipk
-Size: 21048
-SHA256sum: e079d10a4ceb5a2c23e1b7cdf6f458a587465528a80170169e9d04d995bc3707
+Installed-Size: 20380
+Filename: gl-ipv6_3.0.20-1_mipsel_24kc.ipk
+Size: 21062
+SHA256sum: cc313f1def8852c2e6de1df67613d28ea8b0e93344a830eb4162baca2457cd5d
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem

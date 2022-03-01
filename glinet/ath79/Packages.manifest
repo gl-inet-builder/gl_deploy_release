@@ -393,16 +393,16 @@ SHA256sum: a38f6d7df6bb41e060debbd459fe59046717479baa5cd43ff556db996b0c957a
 Description:  GL INIT PORTAL FOR GL-INET
 
 Package: gl-ipv6
-Version: 3.0.19-1
+Version: 3.0.20-1
 Depends: libc, gl-util, kmod-ipt-nat6
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ipv6
 SourceName: gl-ipv6
 Section: base
 Architecture: mips_24kc
-Installed-Size: 20372
-Filename: gl-ipv6_3.0.19-1_mips_24kc.ipk
-Size: 21054
-SHA256sum: 3c18a178336f990c6cc44fbb2f77848c745db62432ab7ff348acbbdd84d04994
+Installed-Size: 20392
+Filename: gl-ipv6_3.0.20-1_mips_24kc.ipk
+Size: 21073
+SHA256sum: 61dbc08a33db8229def24c7173fd42ac2ab044b0ac0eca4930d3baf77151b4bc
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
