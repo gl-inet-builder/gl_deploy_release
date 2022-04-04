@@ -412,18 +412,6 @@ Size: 15610
 SHA256sum: f5857ad41f0f27d18c3a5d10471b833e6ecdb4f6c9e00feb236106318f0ffddc
 Description:  GL.iNet SDK3.0.
 
-Package: gl-util
-Version: 3.0.221-1
-Depends: libc, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
-Source: /work/work/gl/gl-util
-Section: base
-Architecture: mips_siflower
-Installed-Size: 36963
-Filename: gl-util_3.0.221-1_mips_siflower.ipk
-Size: 37721
-SHA256sum: b5d1599dd5c025dda5633bb17e6b7b804f9ec03b2efeffdf269f5b05c43581f0
-Description:  GL.iNet SDK3.0.
-
 Package: gl-vpn-server
 Version: 3.0.125-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip

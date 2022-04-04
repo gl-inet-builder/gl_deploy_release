@@ -4,7 +4,7 @@
 		"vpn": "openvpn-openssl wireguard gl-wg gl-wg-server gl-vpn gl-vpn-server -gl-ss -gl-ss-server",
 		"storage": "blkid kmod-fs-ext4 kmod-fs-ntfs kmod-fs-vfat kmod-fs-exfat ntfs-3g -samba36-server -minidlna",
 		"usb": "kmod-usb-storage-uas kmod-usb-storage kmod-usb-uhci kmod-usb2 kmod-usb-ohci kmod-usb-acm kmod-usb-net-huawei-cdc-ncm comgt chat comgt-directip comgt-ncm kmod-usb-serial kmod-usb-serial-cp210x kmod-usb-serial-option kmod-usb-serial-wwan kmod-usb-serial-sierrawireless kmod-rt2800-usb usb-modeswitch kmod-mppe kmod-usb-net kmod-usb-net-cdc-ether kmod-usb-net-rndis kmod-usb-net-qmi-wwan uqmi kmod-usb-net-ipheth libusbmuxd libimobiledevice usbmuxd",
-		"glinet": "-gl-airkiss gl-crond gl-s2s gl-portal gl-cloud-ui gl-route-policy gl-qos-internal gl-tertf gl-fw gl-base-files -gl-files-browser gl-firewall gl-modem gl-repeater gl-sdk gl-software gl-ui gl-util gl-wan-detect gl-wifi-core gl-monitor gl-ipv6 gl-rtty gl-upload gl-init-portal",
+		"glinet": "-gl-airkiss gl-crond gl-s2s gl-portal gl-cloud-ui gl-route-policy gl-qos-internal gl-tertf gl-fw gl-base-files -gl-files-browser gl-firewall gl-modem gl-repeater gl-sdk gl-software gl-ui gl-util gl-wan-detect gl-wifi-core gl-monitor gl-ipv6 gl-rtty gl-upload gl-init-portal gl-siderouter",
 		"glinet_vixmini": "gl-sdk gl-base-files -gl-files-browser gl-firewall gl-repeater gl-software -gl-ui gl-ui-vixmini gl-util gl-wan-detect gl-wifi-core gl-monitor",
 		"basic_vixmini": "dnsmasq -wpad-mini iwinfo -kmod-nls-cp437 -kmod-nls-iso8859-1 -kmod-nls-utf8 kmod-nf-nathelper-extra -luci luci-mod-rpc ethtool fcgi lighttpd lighttpd-mod-openssl lighttpd-mod-access lighttpd-mod-cgi lighttpd-mod-expire lighttpd-mod-fastcgi lighttpd-mod-proxy unzip wpa-cli wpad bridge ip-full mwan3"
 	},
@@ -246,8 +246,9 @@
 			"disabled": 0,
 			"profile": "QSDK_Premium",
 			"version": "3.212",
+            "files":"imagebuilder/3.5/openwrt-imagebuilder-ipq-ipq40xx-QSDK_Premium_3.5/files",
 			"imagebuilder": "3.5/openwrt-imagebuilder-ipq-ipq40xx-QSDK_Premium_3.5",
-			"packages": "-wpad-openssl gl-upload gl-wifison gl-base-files-ipq $glinet -gl-qos gl-qos-internal $vpn $basic $storage $usb -wpad -wpa-cli -kmod-rt2800-usb -kmod-GobiNet -kmod-GobiSerial -kmod-usb-storage-uas gl-tor gl-rtty gl-tor kmod-i2c-gpio-custom gl-agh-stats gl-ble_config_wifi gl-bletool gl-ble-ubus luci luci-mod-rpc luci-base"
+			"packages": "-wpad-openssl gl-upload gl-b2200-wifison gl-base-files-ipq $glinet -gl-qos gl-qos-internal $vpn $basic $storage $usb -wpad -wpa-cli -kmod-rt2800-usb -kmod-GobiNet -kmod-GobiSerial -kmod-usb-storage-uas gl-tor gl-rtty gl-tor kmod-i2c-gpio-custom gl-agh-stats gl-ble_config_wifi gl-bletool gl-ble-ubus luci luci-mod-rpc luci-base"
 		},
 		"s1300": {
 			"state": "release",
@@ -257,21 +258,29 @@
 			"imagebuilder": "3.5/openwrt-imagebuilder-ipq-ipq40xx-QSDK_Premium_3.5",
 			"packages": "-wpad-openssl gl-upload gl-wifison gl-base-files-ipq $glinet -gl-qos gl-qos-internal $vpn $basic $storage $usb -wpad -wpa-cli -kmod-rt2800-usb -kmod-GobiNet -kmod-GobiSerial -kmod-usb-storage-uas gl-tor gl-rtty gl-ble-api gl-ble-daemon gl-agh-stats luci luci-mod-rpc luci-base"
 		},
-		"sf1200_2b": {
+		"sf1200": {
+			"state": "develop",
+			"disabled": 1,
 			"profile": "SF19A28-GL-SF1200",
-			"version": "VB_3.211",
+			"version": "3.212",
+			"imagebuilder": "3.7/openwrt-imagebuilder-siflower-sf19a28_3.7",
+			"packages": "-kmod-leds-gpio -ubi-utils -gl-portal -gl-modem gl-base-files-sf  gl-ddns  gl-fw  gl-mqtt -gl-tertf gl-tertf-sf1200 gl-traffic $basic $vpn $glinet $siflower_driver"
+			},
+		"sft1200": {
+			"state": "develop",
 			"disabled": 1,
-			"type": "2B",
-			"imagebuilder": "3.6/openwrt-imagebuilder-siflower-sf19a28_3.6",
-			"packages": "-kmod-leds-gpio -ubi-utils -gl-portal -gl-modem gl-base-files-sf  gl-ddns  gl-fw  gl-mqtt -gl-tertf gl-tertf-sf1200 gl-traffic $basic $vpn $glinet $siflower_driver gl-base-files-wbf openvswitch kmod-openvswitch-intree gl-xwf -gl-ui gl-2b-ui gl-2b-env"
-		},
-		"ax1800_2b": {
+			"profile": "SF19A28-GL-SFT1200",
+			"version": "3.212",
+			"imagebuilder": "3.6/openwrt-imagebuilder-siflower-sf19a28-nand_3.6",
+			"packages": "-kmod-leds-gpio blockdev gl-base-files-sf gl-tor $basic $vpn $storage $usb $glinet $siflower_driver"
+			},
+		"ax1800": {
+			"state": "develop",
+			"disabled": 1,
 			"profile": "QSDK_Premium",
-			"version": "VB_3.211",
-			"disabled": 1,
-			"type": "2B",
-			"imagebuilder": "3.5/openwrt-imagebuilder-ipq-ipq60xx-QSDK_Premium_3.5",
-			"packages": "-wpad-openssl gl-ble-ubus gl-ble_cfg_ax1800 gl-agh-stats gl-upload gl-wifison gl-base-files-ipq $glinet -gl-qos gl-qos-internal $vpn $basic $storage $usb -wpad -wpa-cli -kmod-rt2800-usb -kmod-GobiNet -kmod-GobiSerial -kmod-usb-storage-uas gl-tor rtty-openssl -lighttpd-mod-openssl gl-ipv6 bridge luci luci-mod-rpc kmod-i2c-gpio-custom gl-base-files-wbf openvswitch kmod-openvswitch-intree gl-xwf -gl-ui gl-2b-ui gl-2b-env"
+			"version": "3.214",
+			"imagebuilder": "3.6/openwrt-imagebuilder-ipq-ipq60xx-QSDK_Premium_3.6",
+			"packages": "-wpad-openssl gl-ble-ubus gl-ble_cfg_ax1800 gl-agh-stats gl-upload gl-wifison gl-base-files-ipq $glinet -gl-qos gl-qos-internal $vpn $basic $storage $usb -wpad -wpa-cli -kmod-rt2800-usb -kmod-GobiNet -kmod-GobiSerial -kmod-usb-storage-uas gl-tor rtty-openssl -lighttpd-mod-openssl gl-ipv6 bridge luci luci-mod-rpc kmod-i2c-gpio-custom gl-rtty kmod-mtdoops gl-sdk4-logread gl-init-portal"
 		}
 	}
 }
