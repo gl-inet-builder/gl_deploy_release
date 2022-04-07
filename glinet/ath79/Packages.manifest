@@ -66,146 +66,146 @@ SHA256sum: 5d5a6d1fa4a13bfe448ae51673bacd04d8342e3baa82208ab4794d5862541b01
 Description:  AdGuardHome Stats
 
 Package: gl-base-files-a53
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-a53
 Section: base
 Architecture: mips_24kc
 Installed-Size: 21085
-Filename: gl-base-files-a53_3.0.537-1_mips_24kc.ipk
+Filename: gl-base-files-a53_3.0.538-1_mips_24kc.ipk
 Size: 21921
-SHA256sum: ff23f4cda6d8c42901fd99321ddc892d7e69f3b6f7f48ef8bab430cd7cdc281a
+SHA256sum: 586f7c4d95d1ca5db9c0404063cd5a500e257eb475414757327d47a07d16dec9
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-ar
 Section: base
 Architecture: mips_24kc
 Installed-Size: 7704
-Filename: gl-base-files-ar_3.0.537-1_mips_24kc.ipk
+Filename: gl-base-files-ar_3.0.538-1_mips_24kc.ipk
 Size: 8438
-SHA256sum: 963c03260ab543805f5da4b72adb5455af9e0a2a93339ba8ca38f0b640c85a7b
+SHA256sum: d3be07df893926c5e8d46f671e40c3d20226a0501aecb9c2708852f1cc25de48
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-e750
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1584
-Filename: gl-base-files-e750_3.0.537-1_mips_24kc.ipk
-Size: 2277
-SHA256sum: 4b1f5f76997e188aba50cab2d90abc56a6d5fd5e7316ce43608bce6ba3327da0
+Filename: gl-base-files-e750_3.0.538-1_mips_24kc.ipk
+Size: 2275
+SHA256sum: 5284cd079765bfcfa07ad1770f468ce5ebce464bc09438b0f98edd40e2636179
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-ipq
 Section: base
 Architecture: mips_24kc
 Installed-Size: 41094
-Filename: gl-base-files-ipq_3.0.537-1_mips_24kc.ipk
-Size: 41803
-SHA256sum: 1688fed8f9c483767c3c2f710c91a61e5980925cc48192ee6b8ef234217c92af
+Filename: gl-base-files-ipq_3.0.538-1_mips_24kc.ipk
+Size: 41805
+SHA256sum: ffbdde5d15382a802a9d98c9406b9f9de6044e10fbfdfdf676ec36531633f64f
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-mt
 Section: base
 Architecture: mips_24kc
 Installed-Size: 9956
-Filename: gl-base-files-mt_3.0.537-1_mips_24kc.ipk
-Size: 10668
-SHA256sum: 17f048efacc9f00efc3e255ce55fc801f0391e76ab648db87612034dbf15d81c
+Filename: gl-base-files-mt_3.0.538-1_mips_24kc.ipk
+Size: 10672
+SHA256sum: 6f27507650611f199dbe3c7ebc86ee2022608cd4494f2d326bf9f746e5a61b9f
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-mv1000
 Section: base
 Architecture: mips_24kc
 Installed-Size: 34314
-Filename: gl-base-files-mv1000_3.0.537-1_mips_24kc.ipk
+Filename: gl-base-files-mv1000_3.0.538-1_mips_24kc.ipk
 Size: 35231
-SHA256sum: 869f91d1a33701aaa2f0776597421ab0e2e09e7a87503d4dd01fc4c4e4a63825
+SHA256sum: a3a6e6ff5b47645451394f49b0be32aa1b19a6c52363e2110cafb9b209275f62
 Description:  GL iNet base files
 
 Package: gl-base-files-sf
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-sf
 Section: base
 Architecture: mips_24kc
 Installed-Size: 8121
-Filename: gl-base-files-sf_3.0.537-1_mips_24kc.ipk
-Size: 8850
-SHA256sum: 87a31f62cb66ea20bcd81990179e3a71ab031a469c0f0df00c828bf9fe2678a6
+Filename: gl-base-files-sf_3.0.538-1_mips_24kc.ipk
+Size: 8851
+SHA256sum: 73e3e0a2b512219a2a0d8bb4f56e46b0686fa2fbc81378eefbbee3060f5fd71b
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-wbf
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1834
-Filename: gl-base-files-wbf_3.0.537-1_mips_24kc.ipk
-Size: 2531
-SHA256sum: bf59731312ebb80f5825d62353f7d8dcb1d78bc55c5870bb521294d82e5e187c
+Filename: gl-base-files-wbf_3.0.538-1_mips_24kc.ipk
+Size: 2533
+SHA256sum: a2df564175c677ede41bbc574bce1239db64140d7efd27e19dd73e413c0cc5ff
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-x1200
 Section: base
 Architecture: mips_24kc
 Installed-Size: 3027
-Filename: gl-base-files-x1200_3.0.537-1_mips_24kc.ipk
-Size: 3721
-SHA256sum: 4a9609f036b607e8e5521288def1406901c6861155fb75b2541eeb42a36d5c6e
+Filename: gl-base-files-x1200_3.0.538-1_mips_24kc.ipk
+Size: 3720
+SHA256sum: 914e28bda7f351b670a60c77eec00d556d2b7708b9d23ecb253ed490fc4cc631
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files-x300b
 Section: base
 Architecture: mips_24kc
 Installed-Size: 1248
-Filename: gl-base-files-x300b_3.0.537-1_mips_24kc.ipk
+Filename: gl-base-files-x300b_3.0.538-1_mips_24kc.ipk
 Size: 1945
-SHA256sum: 2bf47278522829622b4f5bf656173c31787b61e405914f4525b3f67e932c3dd5
+SHA256sum: fa23007bfa6f24bd3ca2d445b154cd1f1a811465963242918035ea730d52fb33
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.537-1
+Version: 3.0.538-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 SourceName: gl-base-files
 Section: base
 Architecture: mips_24kc
-Installed-Size: 51290
-Filename: gl-base-files_3.0.537-1_mips_24kc.ipk
-Size: 52071
-SHA256sum: 970d2f690a4ce99adaceb7d6e249640c86a8fe9620df2462172eaaff0da55e94
+Installed-Size: 62124
+Filename: gl-base-files_3.0.538-1_mips_24kc.ipk
+Size: 62948
+SHA256sum: 86983e509e02b4ebb66643b2feae1ea37ea8deb23f88886ceb0dd1984e9bfd94
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -446,16 +446,16 @@ SHA256sum: 219f47950d0868f6ef5c635a1d03f983d53e363bff34a3b395db96d9424c030f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.58-1
+Version: 3.1.59-1
 Depends: libc, libpthread, mqtt, libcurl4, libjson-c2, gl-util, gl-wifi-core
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-mqtt
 SourceName: gl-mqtt
 Section: base
 Architecture: mips_24kc
-Installed-Size: 41611
-Filename: gl-mqtt_3.1.58-1_mips_24kc.ipk
-Size: 41837
-SHA256sum: 522a3cd43f388aa983d340662e2547055dae15ce46b0edb92b8cf0d2d3166387
+Installed-Size: 41606
+Filename: gl-mqtt_3.1.59-1_mips_24kc.ipk
+Size: 41879
+SHA256sum: 2d41a688b70eec006b5bb8c31bc1e9268fc17d2d488170803f54874ae075f0f7
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -576,16 +576,16 @@ SHA256sum: 6cd1e67b756e5f7e90b2f6a5c9f70e197b6d81b45780f3fa348d6c49e5077cff
 Description:  Oui Support for client mgmt
 
 Package: gl-sdk
-Version: 3.0.636-1
-Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy2
+Version: 3.0.638-1
+Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mips_24kc
-Installed-Size: 278115
-Filename: gl-sdk_3.0.636-1_mips_24kc.ipk
-Size: 277933
-SHA256sum: 2496e8ec07c3d8dcf6d09ac5cfff08c614e6fcb7c47ba036a36b91d5b5331702
+Installed-Size: 278130
+Filename: gl-sdk_3.0.638-1_mips_24kc.ipk
+Size: 277965
+SHA256sum: 5029340091dc9805177a8a3e8d60f7bb4dc0400c65f8342e2c85d5bd8f38479f
 Description:  GL.iNet SDK3.0.
 
 Package: gl-siderouter
@@ -595,23 +595,23 @@ Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-siderouter
 SourceName: gl-siderouter
 Section: base
 Architecture: mips_24kc
-Installed-Size: 5314
+Installed-Size: 5312
 Filename: gl-siderouter_3.0.0-1_mips_24kc.ipk
-Size: 6029
-SHA256sum: e0eced40391a449912edc34752e2eb4a595ef9662e717081ca2fe33dda26ad25
+Size: 6025
+SHA256sum: 7a02de86b24018c47edf0d64dda38b5c3895975470b29571ae8840560c65e116
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-software
-Version: 3.0.29-1
+Version: 3.0.30-1
 Depends: libc, gl-util
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-software
 SourceName: gl-software
 Section: base
 Architecture: mips_24kc
-Installed-Size: 5814
-Filename: gl-software_3.0.29-1_mips_24kc.ipk
-Size: 6532
-SHA256sum: 47b7fd2db82c17f426e3ea8d356c6d124a150d2283ca44f41db37d1cd9f7e105
+Installed-Size: 5850
+Filename: gl-software_3.0.30-1_mips_24kc.ipk
+Size: 6562
+SHA256sum: 7ee5cd38f5105adc154079c68dce780ae94c9ce7ade54ccdd6e0c1b37d132b74
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-tertf
