@@ -1,134 +1,158 @@
-Package: gl-base-files-a53
-Version: 3.0.520-1
+Package: gl-2b-ui
+Version: 3.0.829-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 Section: base
 Architecture: mips_siflower
-Installed-Size: 21080
-Filename: gl-base-files-a53_3.0.520-1_mips_siflower.ipk
-Size: 21897
-SHA256sum: 0a32dc965ed7552774a5d82b3f2c5652842debe6d5eb5698279fb44f33f7ab9b
+Installed-Size: 2058306
+Filename: gl-2b-ui_3.0.829-1_mips_siflower.ipk
+Size: 2054033
+SHA256sum: ef8de279cf3f541d8c132ebd447ce2273f12e218e108182ef5e0a36cd7b45ff8
+Description:  GL iNet web UI
+
+Package: gl-base-files-a53
+Version: 3.0.545-1
+Depends: libc
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
+Section: base
+Architecture: mips_siflower
+Installed-Size: 21082
+Filename: gl-base-files-a53_3.0.545-1_mips_siflower.ipk
+Size: 21907
+SHA256sum: ccdb71969c854704bd2e599daafc213422b482b1b9f52e88d58c2c7da0109b66
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
-Installed-Size: 7771
-Filename: gl-base-files-ar_3.0.520-1_mips_siflower.ipk
-Size: 8476
-SHA256sum: 889e608d7499a823c9492a794d8bb70c82df2e0e2297424650047be3dc45dd28
+Installed-Size: 7773
+Filename: gl-base-files-ar_3.0.545-1_mips_siflower.ipk
+Size: 8481
+SHA256sum: e45b7c442ff481254ad73aa179fef388b9a6f889139a06445e03fb658bba9aad
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
 Installed-Size: 1577
-Filename: gl-base-files-e750_3.0.520-1_mips_siflower.ipk
-Size: 2249
-SHA256sum: b8eb69b1386e2ba0739bf1f87468ae643ff63e2f316092f30433548a4ad56643
+Filename: gl-base-files-e750_3.0.545-1_mips_siflower.ipk
+Size: 2247
+SHA256sum: 0059b20134013b846f41587c6137d0dc327efd90cc39e8eb77c935b1ab4650ba
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
 Installed-Size: 41084
-Filename: gl-base-files-ipq_3.0.520-1_mips_siflower.ipk
-Size: 41742
-SHA256sum: 45881ae17a8cf52c0a74d01d2cc5ee26e778e36cda134714a0b544b26bf95ac2
+Filename: gl-base-files-ipq_3.0.545-1_mips_siflower.ipk
+Size: 41748
+SHA256sum: 80b9f2060c12896d8f69eb3ead8b32a1a7377d3f9cfa756d77f976d7289d707e
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
-Installed-Size: 4628
-Filename: gl-base-files-mt_3.0.520-1_mips_siflower.ipk
-Size: 5284
-SHA256sum: 8a3b0b0cafb73ec8ed54dec159b2e0d167b9b275862a75b4d62417a601622d06
+Installed-Size: 4627
+Filename: gl-base-files-mt_3.0.545-1_mips_siflower.ipk
+Size: 5279
+SHA256sum: 414922cd2c069435a5e80baa3e0fa2919080c270f0484e09962baa4ee1390a21
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
-Installed-Size: 34302
-Filename: gl-base-files-mv1000_3.0.520-1_mips_siflower.ipk
-Size: 35198
-SHA256sum: 8987a127bfa7223698beba53649c880cb737ebd2767f7ac5a8f5a4a424f076bc
+Installed-Size: 34303
+Filename: gl-base-files-mv1000_3.0.545-1_mips_siflower.ipk
+Size: 35195
+SHA256sum: ac72ba53053bf5de71d0bac3842c26877fe255e60999f5eb15a16022dda113d0
 Description:  GL iNet base files
 
 Package: gl-base-files-sf
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
 Installed-Size: 8115
-Filename: gl-base-files-sf_3.0.520-1_mips_siflower.ipk
-Size: 8831
-SHA256sum: 46173e5bdf2822654eca25d79762e90b4237c5f015a7deee999d8518b5be2471
+Filename: gl-base-files-sf_3.0.545-1_mips_siflower.ipk
+Size: 8832
+SHA256sum: 896dcd67bdea95cffde7298b13549f094d961ea07435408edcc3a149a4d4d2ab
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
 Installed-Size: 1829
-Filename: gl-base-files-wbf_3.0.520-1_mips_siflower.ipk
-Size: 2512
-SHA256sum: e8b48ecc056df5728e6f403203367cf13a6cf667757cc029a40367cc0a3f2853
+Filename: gl-base-files-wbf_3.0.545-1_mips_siflower.ipk
+Size: 2516
+SHA256sum: 32f864be53ecdcd16a4dda203bdff0bef189bd559c64bd82dba7a1d62648340c
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
 Installed-Size: 3023
-Filename: gl-base-files-x1200_3.0.520-1_mips_siflower.ipk
-Size: 3703
-SHA256sum: c49793d2c6bc07b7fdf07b142d640ab80c8cce34511b0ed80c42dbb7b8c3cf28
+Filename: gl-base-files-x1200_3.0.545-1_mips_siflower.ipk
+Size: 3705
+SHA256sum: 9ebc6d91e98d90c34c96605732e028ac651026314dc5723d01a9b546a8ef2dda
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
 Installed-Size: 1236
-Filename: gl-base-files-x300b_3.0.520-1_mips_siflower.ipk
+Filename: gl-base-files-x300b_3.0.545-1_mips_siflower.ipk
 Size: 1915
-SHA256sum: c3473ac9e09cfeb5ef437355bb2269a9d1bbec7c2b38c0649d886ea25da97865
+SHA256sum: c324fd42c76c45f51357f3387c43e32d40348773bb40266409bde71b60ad7522
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.520-1
+Version: 3.0.545-1
 Depends: libc
-Source: /home/glinet/builds/zkXze51p/0/gl.router/gl-base-files
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: mips_siflower
-Installed-Size: 50006
-Filename: gl-base-files_3.0.520-1_mips_siflower.ipk
-Size: 50803
-SHA256sum: 2d43e6b26d5fb1544ab987e7f9a429f8a7ec8088d3e3f67d3bd834e12fd3d02e
+Installed-Size: 62007
+Filename: gl-base-files_3.0.545-1_mips_siflower.ipk
+Size: 62798
+SHA256sum: 7c22baad2915f80532c712bf1f82eac939a3bc0e9091684c09a71b21e90e2007
 Description:  GL iNet base files
+
+Package: gl-ble-ubus
+Version: 3.0.10-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ble-ubus
+Section: glinet
+Architecture: mips_siflower
+Installed-Size: 4454
+Filename: gl-ble-ubus_3.0.10-1_mips_siflower.ipk
+Size: 5130
+SHA256sum: 602dacc152f7b2ca37c84ecf46b7542c846466455ffd8b476cec3567f588e9cf
+Description:  ble ubus setting api and scripts.
 
 Package: gl-cloud-ui
 Version: 3.0.36-1
@@ -158,15 +182,15 @@ Description:  A framework for timing task, you can register or unregister their 
  task, glcrond will dispatch your task regularly when you register to it.
 
 Package: gl-ddns
-Version: 3.0.26-1
+Version: 3.0.28-1
 Depends: libc, libjson-c, gl-util, ddns-scripts
-Source: /work/work/gl/gl-ddns
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ddns
 Section: base
 Architecture: mips_siflower
-Installed-Size: 17863
-Filename: gl-ddns_3.0.26-1_mips_siflower.ipk
-Size: 18753
-SHA256sum: 10b9de1c31d7c239dc81e44e1992c8f57864efcae8a2007bf0dc130d925b27b5
+Installed-Size: 18191
+Filename: gl-ddns_3.0.28-1_mips_siflower.ipk
+Size: 19076
+SHA256sum: b9994dc8b48a0941ea614b783cf08dc206c8aeefea8fceff80189efadd126b1d
 Description:  glddns api for gl-inet.
 
 Package: gl-firewall
@@ -193,28 +217,40 @@ Size: 8637
 SHA256sum: 4c9773a4069a5d7709b59c2f1913c064bf6bca788cbd77b61231d60710ebb2fb
 Description:  This service allows open port and port forwarding.
 
-Package: gl-ipv6
-Version: 3.0.17-1
-Depends: libc, gl-util, kmod-ipt-nat6
-Source: /work/work/gl/gl-ipv6
+Package: gl-init-portal
+Version: 3.0.2-1
+Depends: libc, lighttpd, lighttpd-mod-redirect
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-init-portal
 Section: base
 Architecture: mips_siflower
-Installed-Size: 22884
-Filename: gl-ipv6_3.0.17-1_mips_siflower.ipk
-Size: 23574
-SHA256sum: 8a8c7b75d8713f3dfdf38817092694aa21d2d7d5f9d5f2d11e4ba7b1db4f2989
+Installed-Size: 1686
+Filename: gl-init-portal_3.0.2-1_mips_siflower.ipk
+Size: 2385
+SHA256sum: 87d6bf273c0df8fc5d557746549db44253b27a15082f57bcec8dd869e96eeac9
+Description:  GL INIT PORTAL FOR GL-INET
+
+Package: gl-ipv6
+Version: 3.0.23-1
+Depends: libc, gl-util, kmod-ipt-nat6
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ipv6
+Section: base
+Architecture: mips_siflower
+Installed-Size: 22929
+Filename: gl-ipv6_3.0.23-1_mips_siflower.ipk
+Size: 23614
+SHA256sum: aa8d72654cbe24fb2d772798706a2876ad8572277e6665ebe6c58dedd85d53a3
 Description:  ipv6 function for gl-inet.
 
 Package: gl-modem
-Version: 3.0.160-1
+Version: 3.0.163-1
 Depends: libc, libpthread, libuci, libubus, libblobmsg-json, libubox, gl-util, gl-wifi-core
-Source: /work/work/gl/gl-modem
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-modem
 Section: base
 Architecture: mips_siflower
-Installed-Size: 119654
-Filename: gl-modem_3.0.160-1_mips_siflower.ipk
-Size: 120341
-SHA256sum: 67de305f83b56b170c0c9912d4a38bcc57b7f47535c2eff8a60ced5b11aade6e
+Installed-Size: 121321
+Filename: gl-modem_3.0.163-1_mips_siflower.ipk
+Size: 122010
+SHA256sum: ff48eafaddf908a5f57e1fd8ffa12c65bf08aa2371917344fc71b5a73e41a29c
 Description:  GL iNet modem manager
 
 Package: gl-monitor
@@ -230,15 +266,15 @@ SHA256sum: 17ee292beb562a34c810bfd2eaef534d28ee2aa9a8ee5d0c8f1ad50d4994803f
 Description:  gl-monitor
 
 Package: gl-mqtt
-Version: 3.1.51-1
+Version: 3.1.60-1
 Depends: libc, libpthread, mqtt, libcurl, libjson-c, gl-util, gl-wifi-core
-Source: /work/work/gl/gl-mqtt
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-mqtt
 Section: base
 Architecture: mips_siflower
-Installed-Size: 42934
-Filename: gl-mqtt_3.1.51-1_mips_siflower.ipk
-Size: 43138
-SHA256sum: 97d0087d00e0cb5f0a11cfcb10c250b5e9d176f404366ae84ddd2b1f4ff61331
+Installed-Size: 43412
+Filename: gl-mqtt_3.1.60-1_mips_siflower.ipk
+Size: 43538
+SHA256sum: e64073f91f95c8cb6c8dbb39ba330440f3e6fcbf452bf4c78cf34ae5d20b70cf
 Description:  MQTT common libary
 
 Package: gl-portal
@@ -278,15 +314,15 @@ SHA256sum: 23d543a0ee28f93114938579b706700e24be3f1ea029581a169881eaa3a0b8c8
 Description:  GL Health
 
 Package: gl-route-policy
-Version: 3.0.52-1
+Version: 3.0.56-1
 Depends: libc, gl-util
-Source: /work/work/gl/gl-route-policy
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-route-policy
 Section: base
 Architecture: mips_siflower
-Installed-Size: 11205
-Filename: gl-route-policy_3.0.52-1_mips_siflower.ipk
-Size: 11870
-SHA256sum: 9aa420c4a851f07afb7823629a8296abacbd4ee2f8009b1a40de216acff7e460
+Installed-Size: 10414
+Filename: gl-route-policy_3.0.56-1_mips_siflower.ipk
+Size: 11098
+SHA256sum: 5efa132803a13dc677a52001d0c704723376b6a059afe5876ca3ff939ffbb177
 Description:  GL route policy
 
 Package: gl-rtty
@@ -314,16 +350,28 @@ SHA256sum: 6a86d586daa372a6e1e270672b8a32db7eb12a1c34f8ce00c4e2768e0ae3b139
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk
-Version: 3.0.619-1
+Version: 3.0.653-1
 Depends: libc, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
-Source: /work/work/gl/gl-sdk3.0
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-sdk3.0
 Section: base
 Architecture: mips_siflower
-Installed-Size: 300071
-Filename: gl-sdk_3.0.619-1_mips_siflower.ipk
-Size: 300002
-SHA256sum: 7f8dc2466910116c1a36375e0ec4027233934d37210b9379d77319b185bae682
+Installed-Size: 311447
+Filename: gl-sdk_3.0.653-1_mips_siflower.ipk
+Size: 311520
+SHA256sum: 499a57fa5ed09edb75baa8f0c0fbfb33b38cc9bb3cc85b196b41224c72568363
 Description:  GL.iNet SDK3.0.
+
+Package: gl-siderouter
+Version: 3.0.0-1
+Depends: libc, gl-util
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-siderouter
+Section: base
+Architecture: mips_siflower
+Installed-Size: 5780
+Filename: gl-siderouter_3.0.0-1_mips_siflower.ipk
+Size: 6471
+SHA256sum: fd3d7ff77441efc2e88b0d7c490778c126f18195b2919f9b2fb59ba6813661a1
+Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-software
 Version: 3.0.28-1
@@ -338,27 +386,27 @@ SHA256sum: a54b4fc8fcfdfab82cebd32ee0cb9f202608ac33ac821b2847b520c2692bd01a
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-tertf-sf1200
-Version: 4.0.45-1
+Version: 4.0.46-1
 Depends: libc, libiwinfo, gl-util, libjson-c, gl-traffic
-Source: /work/work/gl/gl-tertf
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-tertf
 Section: base
 Architecture: mips_siflower
-Installed-Size: 16499
-Filename: gl-tertf-sf1200_4.0.45-1_mips_siflower.ipk
-Size: 17161
-SHA256sum: 29a38e321d1234b4d028915ffb7f5b2adf7a5fb7e874a74899c367e918b52505
+Installed-Size: 16502
+Filename: gl-tertf-sf1200_4.0.46-1_mips_siflower.ipk
+Size: 17140
+SHA256sum: 38d36f168fc168d5085b9751e4acc534bdd6bd3ae22c750e37d1583734ce68a2
 Description:  Terminal traffic.
 
 Package: gl-tertf
-Version: 4.0.45-1
+Version: 4.0.46-1
 Depends: libc, libiwinfo, gl-util, libjson-c, gl-traffic, libsqlite3, ebtables
-Source: /work/work/gl/gl-tertf
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-tertf
 Section: base
 Architecture: mips_siflower
-Installed-Size: 409791
-Filename: gl-tertf_4.0.45-1_mips_siflower.ipk
-Size: 410602
-SHA256sum: c5eb54d3ec26f371017132b3250086f0f70e7389a3c7dd7af825ff4fafdc0bcc
+Installed-Size: 409395
+Filename: gl-tertf_4.0.46-1_mips_siflower.ipk
+Size: 410183
+SHA256sum: f742db27deb26cdaedd1324d222e27c166083e1977de9929a22a0c810587616d
 Description:  Terminal traffic.
 
 Package: gl-tor
@@ -376,28 +424,28 @@ Description:  GL iNet tor interface
 Package: gl-traffic
 Version: 1.0.5-1
 Depends: libc, libpcap, libpthread
-Source: /work/work/gl/gl-tertf/gl-traffic
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-tertf/gl-traffic
 Section: gl-inet
 Architecture: mips_siflower
-Installed-Size: 7121
+Installed-Size: 7112
 Filename: gl-traffic_1.0.5-1_mips_siflower.ipk
-Size: 7995
-SHA256sum: 9208d33c804d39a5510afc130fefe3f97e53dbf96b4dedfec94dd1b1cdf83ed7
+Size: 7986
+SHA256sum: 8ede81e00f6d0d376230fa3567479505f6c0ef074deddd345bcdbdf1a92b91dc
 Description:  iftop does for network usage what top(1) does for CPU usage. It 
  listens to network traffic on a named interface and displays a 
  table of current bandwidth usage by pairs of hosts. Handy for 
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.783-1
+Version: 3.0.823-1
 Depends: libc
-Source: /work/work/gl/gl-ui3.0
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 Section: base
 Architecture: mips_siflower
-Installed-Size: 2079077
-Filename: gl-ui_3.0.783-1_mips_siflower.ipk
-Size: 2073849
-SHA256sum: 401e8da361ecf72c11d62ff2d1572f0762e45988d1207211882aaca133e61b4c
+Installed-Size: 2103173
+Filename: gl-ui_3.0.823-1_mips_siflower.ipk
+Size: 2098303
+SHA256sum: f0e2d299348c0b4a327bacb31459a382076154801ed3475869d6a61fd5336c97
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -412,28 +460,40 @@ Size: 15610
 SHA256sum: f5857ad41f0f27d18c3a5d10471b833e6ecdb4f6c9e00feb236106318f0ffddc
 Description:  GL.iNet SDK3.0.
 
-Package: gl-vpn-server
-Version: 3.0.125-1
-Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
-Source: /work/work/gl/gl-vpn
+Package: gl-util
+Version: 3.0.224-1
+Depends: libc, libuci, libjson-c, libiwinfo, libcurl, libubox, libubus, libblobmsg-json
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-util
 Section: base
 Architecture: mips_siflower
-Installed-Size: 11142
-Filename: gl-vpn-server_3.0.125-1_mips_siflower.ipk
-Size: 11959
-SHA256sum: 26327f6a335bfa4f3097b8173591c0f36747021b2b187356307cf2b70ee1fe3a
+Installed-Size: 37618
+Filename: gl-util_3.0.224-1_mips_siflower.ipk
+Size: 38404
+SHA256sum: ac8774c5e22dba4575806be227debe0b71a39dbcbef9ceefa051972159179363
+Description:  GL.iNet SDK3.0.
+
+Package: gl-vpn-server
+Version: 3.0.130-1
+Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-vpn
+Section: base
+Architecture: mips_siflower
+Installed-Size: 11772
+Filename: gl-vpn-server_3.0.130-1_mips_siflower.ipk
+Size: 12610
+SHA256sum: 7d80eff3dd22e5c5a4e5b00163e16085d92c0a7febb4c40b7144ed988e21f140
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-vpn
-Version: 3.0.125-1
+Version: 3.0.130-1
 Depends: libc, gl-util, openvpn-openssl, openssl-util, resolveip
-Source: /work/work/gl/gl-vpn
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-vpn
 Section: base
 Architecture: mips_siflower
-Installed-Size: 20458
-Filename: gl-vpn_3.0.125-1_mips_siflower.ipk
-Size: 21242
-SHA256sum: fef8d25d5ae9127f648bc8da56a49cced09db389611f1ab158cd2f432cd766ed
+Installed-Size: 20436
+Filename: gl-vpn_3.0.130-1_mips_siflower.ipk
+Size: 21225
+SHA256sum: c6c9f901a76ee2559e3ade10456206fc1c7fe307787fbc71a495e5686ad2bff8
 Description:  Openvpn server endpoint api for gl-inet.
 
 Package: gl-wan-detect
@@ -449,40 +509,52 @@ SHA256sum: 62adda0c8fc0712e12dae4e8154163e02887201bc42f0bff0fa49e31e782c16b
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.90-2
+Version: 3.0.96-2
 Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
-Source: /work/work/gl/gl-wg
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 Section: base
 Architecture: mips_siflower
-Installed-Size: 17550
-Filename: gl-wg-server_3.0.90-2_mips_siflower.ipk
-Size: 18427
-SHA256sum: f771b81806812a7b30511e88390622263b287f8c2b9c48b0625f5898778278b2
+Installed-Size: 17545
+Filename: gl-wg-server_3.0.96-2_mips_siflower.ipk
+Size: 18418
+SHA256sum: 641aea853456ba2bbbfcc8a4f61c459ca5ce30928587a7f9a99794de80b8fb2c
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.90-2
+Version: 3.0.96-2
 Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
-Source: /work/work/gl/gl-wg
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 Section: base
 Architecture: mips_siflower
-Installed-Size: 23981
-Filename: gl-wg_3.0.90-2_mips_siflower.ipk
-Size: 24804
-SHA256sum: 433fa2226a22079a5f680cfa73df173d79777ba37faaa64fd6f39805a7d8ae6e
+Installed-Size: 24147
+Filename: gl-wg_3.0.96-2_mips_siflower.ipk
+Size: 24987
+SHA256sum: 4b95b7d79aa268e2dc18c40092eeadadac168d945c7e8c000088658b14644f9d
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
-Version: 3.0.215-1
+Version: 3.0.224-1
 Depends: libc, gl-util
-Source: /work/work/gl/gl-wifi-core
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wifi-core
 Section: base
 Architecture: mips_siflower
-Installed-Size: 27520
-Filename: gl-wifi-core_3.0.215-1_mips_siflower.ipk
-Size: 28158
-SHA256sum: 645d4c436f86ad7738d7e5c1cfddb34b2dc045dde10212b4051866da30d36285
+Installed-Size: 26750
+Filename: gl-wifi-core_3.0.224-1_mips_siflower.ipk
+Size: 27367
+SHA256sum: 28927daa0bf9676e0a22ced5bcbcc54e3c72c8ee212c3e2098fc81357bc4b931
 Description:  
+
+Package: mudial
+Version: 1.0.0-1
+Depends: libc, mwan3, kmod-macvlan, gl-util
+Source: /home/glinet/builds/uLXb__Vh/0/gl.router/mudial
+Section: base
+Architecture: mips_siflower
+Installed-Size: 4289
+Filename: mudial_1.0.0-1_mips_siflower.ipk
+Size: 4963
+SHA256sum: d9794b5155626235268f6d385b62537cdb4081343ae420d379d09c94bab1c845
+Description:  GL iNet mudial mode
 
 Package: rtty-openssl
 Version: 8.0.0-1
