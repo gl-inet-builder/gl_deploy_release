@@ -425,10 +425,10 @@ Version: 3.0.653-1
 Depends: libc, libuuid1, libpthread, libuci20130104, libubus20210603, libubox20191228, libjson-c2, libiwinfo20181126, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 324083
+Installed-Size: 324128
 Filename: gl-sdk_3.0.653-1_aarch64_cortex-a53.ipk
-Size: 324513
-SHA256sum: fdd635a7e3494413d9c4895df3b77a5a739d774c9d1e85ae8146fc4dd1a50d5d
+Size: 324605
+SHA256sum: e776b41f32a84a829eb7eb720e8973205503eb26aa1d23402e53bf663c540493
 Description:  GL.iNet SDK3.0.
 
 Package: gl-siderouter

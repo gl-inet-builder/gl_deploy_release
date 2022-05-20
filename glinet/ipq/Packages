@@ -550,11 +550,11 @@ Version: 3.0.653-1
 Depends: libc, libssp, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Section: base
 Architecture: ipq
-Installed-Size: 323968
+Installed-Size: 323995
 Filename: gl-sdk_3.0.653-1_ipq.ipk
-Size: 323627
-MD5Sum: 0330fa4cc7ccb97baa2e684e502cd09e
-SHA256sum: c2f019b041ed49f76283e4f7962c4f30a75f35d913dfe1114feb9a139325df04
+Size: 323654
+MD5Sum: 04bf1a2f869e5e8c55a84306c35dbf85
+SHA256sum: 0cac833a82eb3f3e8dd566dde50635ddb0b23288ee8d735195c14072f529f135
 Description:  GL.iNet SDK3.0.
 
 Package: gl-siderouter

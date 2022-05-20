@@ -355,10 +355,10 @@ Depends: libc, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwin
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-sdk3.0
 Section: base
 Architecture: mips_siflower
-Installed-Size: 311447
+Installed-Size: 311442
 Filename: gl-sdk_3.0.653-1_mips_siflower.ipk
-Size: 311520
-SHA256sum: 499a57fa5ed09edb75baa8f0c0fbfb33b38cc9bb3cc85b196b41224c72568363
+Size: 311496
+SHA256sum: 3f52cbfa0c91442a4ed4c1e03331b0d195f6649774ec6b0d54020611dfff27e5
 Description:  GL.iNet SDK3.0.
 
 Package: gl-siderouter

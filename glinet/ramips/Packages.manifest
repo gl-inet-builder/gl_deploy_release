@@ -538,16 +538,16 @@ SHA256sum: 8e25e44c4592ffd5ee8405ea5f691897dfd6ffec2ab8213d520f4e644b210d04
 Description:  It is the Site to Site API for GL.iNet. 
 
 Package: gl-sdk4-mtk-apcli
-Version: git-2022.125.37246-c25de74-1
+Version: git-2022.140.32607-2c5c4b2-1
 Depends: libc, wireless-tools, libiwinfo20181126, libubus20210603, libubox20191228, libuci20130104
 Source: /home/glinet/builds/P_bmd112/0/gl.sdk4.0/gl.router/gl-sdk4-mtk-apcli
 SourceName: gl-sdk4-mtk-apcli
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 5777
-Filename: gl-sdk4-mtk-apcli_git-2022.125.37246-c25de74-1_mipsel_24kc.ipk
-Size: 6515
-SHA256sum: db81858a2626eef1500a8646a5c062317879f59dc33b9aabe2e3bf5a24518384
+Installed-Size: 5758
+Filename: gl-sdk4-mtk-apcli_git-2022.140.32607-2c5c4b2-1_mipsel_24kc.ipk
+Size: 6499
+SHA256sum: 6e57f45c2b54648dc988361fd53c8685477ace5fce5a7c8486f22a616bfb38e4
 Description:  Apcli for mtk private wifi
 
 Package: gl-sdk4-mtk-wifi
@@ -570,10 +570,10 @@ Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-sdk3.0
 SourceName: gl-sdk
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 279321
+Installed-Size: 279333
 Filename: gl-sdk_3.0.653-1_mipsel_24kc.ipk
-Size: 280158
-SHA256sum: 93e4fbe6c1006319c6e72c8d02b82b487abd22d1a1ea2db135ae023de0cda90b
+Size: 280120
+SHA256sum: 5689488589d0a7b8f1e285e55462149bf86f3e3805aaee77a0a53eea0676765b
 Description:  GL.iNet SDK3.0.
 
 Package: gl-siderouter
