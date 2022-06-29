@@ -265,15 +265,15 @@
 			"disabled": 0,
 			"profile": "SF19A28-GL-SF1200",
 			"version": "3.215",
-			"imagebuilder": "3.7/openwrt-imagebuilder-siflower-sf19a28_3.7",
-			"packages": "-kmod-leds-gpio -ubi-utils -gl-portal -gl-modem gl-base-files-sf  gl-ddns  gl-fw  gl-mqtt -gl-tertf gl-tertf-sf1200 gl-traffic $basic $vpn $glinet $siflower_driver"
+			"imagebuilder": "3.8/openwrt-imagebuilder-siflower-sf19a28_3.8",
+			"packages": "gl-sdk4-carrier-monitor -kmod-leds-gpio -ubi-utils -gl-portal -gl-modem gl-base-files-sf  gl-ddns  gl-fw  gl-mqtt -gl-tertf gl-tertf-sf1200 gl-traffic $basic $vpn $glinet $siflower_driver"
 			},
 		"sft1200": {
 			"state": "develop",
 			"disabled": 0,
 			"profile": "SF19A28-GL-SFT1200",
 			"version": "3.215",
-			"imagebuilder": "3.6/openwrt-imagebuilder-siflower-sf19a28-nand_3.6",
+			"imagebuilder": "3.8/openwrt-imagebuilder-siflower-sf19a28-nand_3.8",
 			"packages": "-kmod-leds-gpio blockdev gl-base-files-sf gl-tor $basic $vpn $storage $usb $glinet $siflower_driver"
 			},
 		"ax1800": {
