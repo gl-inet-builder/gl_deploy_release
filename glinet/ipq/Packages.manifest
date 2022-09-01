@@ -44,16 +44,16 @@ SHA256sum: 46d65a1ad68bf66acdeff76dd2564da1fb4bf1e9b97bba2561248e943aeffd02
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.847-1
+Version: 3.0.850-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 Section: base
 Architecture: ipq
-Installed-Size: 2051078
-Filename: gl-2b-ui_3.0.847-1_ipq.ipk
-Size: 2046836
-MD5Sum: 89a03abdbe2b273405e5df5ac8f5800c
-SHA256sum: 0a525d6eddcc6f4a10352bf4d106f2c9d24ef9d40a31f745feef7e750bb454c9
+Installed-Size: 2051148
+Filename: gl-2b-ui_3.0.850-1_ipq.ipk
+Size: 2047002
+MD5Sum: f2c989c39a741fb288ee0f2ec33963ae
+SHA256sum: 73c8f3ad9e1912a858c06a69d0a646ca107e6a526527aab847623ed25d5e4240
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -83,146 +83,146 @@ SHA256sum: 5432c1c452c14301ec9a0accbb81b64c068d4204f712fdda8c4d264b550f47b2
 Description:  wifi son setting api and scripts.
 
 Package: gl-base-files-a53
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 21350
-Filename: gl-base-files-a53_3.0.555-1_ipq.ipk
-Size: 22176
-MD5Sum: 5b1574656e9706fba861c996b2fd1f5e
-SHA256sum: e7054d35e0a0128f8565ac7aaa43ab9830aee74e1b3cedc62d45cdeef4bfd746
+Installed-Size: 21348
+Filename: gl-base-files-a53_3.0.557-1_ipq.ipk
+Size: 22169
+MD5Sum: b0bbd6d5608a38aaa1436f2258e98f83
+SHA256sum: 583af4f1b3781dcc835faa6c0c3e82e63a3a5be939a2c98a92d989268c44cf53
 Description:  GL iNet base files
 
 Package: gl-base-files-ar
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 7779
-Filename: gl-base-files-ar_3.0.555-1_ipq.ipk
-Size: 8502
-MD5Sum: 9907b779284ef1ff6cbbd9f79cf02a8c
-SHA256sum: 644c575bac34b89b05140d70bd2a07870b1b149d7f61b56990c7a119bf2264fd
+Installed-Size: 7778
+Filename: gl-base-files-ar_3.0.557-1_ipq.ipk
+Size: 8505
+MD5Sum: 7176349e7201c87b90ec1e597edd4d28
+SHA256sum: e88dcb9c2fbfb633747398607850f8002be23509df7caa62763cb479798f7c24
 Description:  GL iNet base files
 
 Package: gl-base-files-e750
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 1565
-Filename: gl-base-files-e750_3.0.555-1_ipq.ipk
-Size: 2253
-MD5Sum: 418548062eff3f6a3cf76d8fec4bf342
-SHA256sum: 1a6e1e15834af037b8d3b66c81ae751c4d47f8bdee18695e17405ed4adf7da14
+Installed-Size: 1564
+Filename: gl-base-files-e750_3.0.557-1_ipq.ipk
+Size: 2250
+MD5Sum: 999ec05b0b52397e6e54d57bd5376345
+SHA256sum: 016852b100b9e5008d3a3c3f0950c5987e474901ac87571dd6f090c96f31f3ce
 Description:  GL iNet base files
 
 Package: gl-base-files-ipq
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 102744
-Filename: gl-base-files-ipq_3.0.555-1_ipq.ipk
-Size: 103118
-MD5Sum: 9f55329e4d458a5567902d3f4bf9d30c
-SHA256sum: da71070aa1fc25a1af7e417b3acc83dd4af14ad13ce23ef35f8f80b28793a5fe
+Filename: gl-base-files-ipq_3.0.557-1_ipq.ipk
+Size: 103124
+MD5Sum: bfb3f36c4816a631a2cf85245c6d7bdd
+SHA256sum: f1a51429ed54d064230a07164ee8311b7e3e192b2e5d49f4515c374bb70f257a
 Description:  GL iNet base files
 
 Package: gl-base-files-mt
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 4576
-Filename: gl-base-files-mt_3.0.555-1_ipq.ipk
+Filename: gl-base-files-mt_3.0.557-1_ipq.ipk
 Size: 5286
-MD5Sum: 666d1f1830c02f16b0319ce488a8254d
-SHA256sum: af8ea5fa520462b19fe26c3007fd23b1da9aa502fedc22e0c1e69b7a44932628
+MD5Sum: 50f3d0d5786cafe462d806c9108cc04f
+SHA256sum: f4b5ce2763994cf41600356ff1da1e10fc1a77cd6eba9734d234f67feee07b0f
 Description:  GL iNet base files
 
 Package: gl-base-files-mv1000
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 35246
-Filename: gl-base-files-mv1000_3.0.555-1_ipq.ipk
-Size: 36174
-MD5Sum: 7f00d698cedcfc191441561b8c0f6cf1
-SHA256sum: 4957d283d77056e1c6e7eb97d6d87fec04d05a6b0f7a051626576b7cf5e3e067
+Installed-Size: 35244
+Filename: gl-base-files-mv1000_3.0.557-1_ipq.ipk
+Size: 36165
+MD5Sum: 8e2713d490a642498147ab7f8ab2500d
+SHA256sum: 38cb37a515392e848506b8ee106a3d5f805456c36701975d2f564fc7d8af4083
 Description:  GL iNet base files
 
 Package: gl-base-files-sf
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 8136
-Filename: gl-base-files-sf_3.0.555-1_ipq.ipk
-Size: 8871
-MD5Sum: 20ddf2206ffbab6a518d715764fccdcd
-SHA256sum: d956a934159e95c8d8f2f0ebec09896a6b1f140b9f431ea9272bc4486a03701f
+Installed-Size: 8131
+Filename: gl-base-files-sf_3.0.557-1_ipq.ipk
+Size: 8865
+MD5Sum: 0cf4e0e3416564df792ecdb654fc8d37
+SHA256sum: 7a803758d2996318fc8fc2f98f832e676475bca10dd7983d4a6764881f471ea6
 Description:  GL iNet base files
 
 Package: gl-base-files-wbf
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 1846
-Filename: gl-base-files-wbf_3.0.555-1_ipq.ipk
-Size: 2554
-MD5Sum: dd705dff4f1a44f9ac83097aa8a951cb
-SHA256sum: b7dc022737ed267eb6182e3fe7346eb1b5f4eb6adc8b7e055785d9e1d3a0c07c
+Installed-Size: 1844
+Filename: gl-base-files-wbf_3.0.557-1_ipq.ipk
+Size: 2548
+MD5Sum: 7fc67d81cd7b8e42d4a20e744bab0d94
+SHA256sum: 5e01a7d0d1e2521168b094893b041e8660305371268b4dd3ba7cc322d5780ff3
 Description:  GL iNet base files
 
 Package: gl-base-files-x1200
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 3003
-Filename: gl-base-files-x1200_3.0.555-1_ipq.ipk
-Size: 3698
-MD5Sum: df2206613263225918f205d957752f0a
-SHA256sum: dba3498f052b0715e979a840d86d01a3b70d679c1b4033b0ce4790001f0739ae
+Filename: gl-base-files-x1200_3.0.557-1_ipq.ipk
+Size: 3702
+MD5Sum: 426ea312bdd4aa6bc9792dfcaaa2a42e
+SHA256sum: 8646728fe42a0a1641a2b948d00817148d9f4539de4683e04904fba56ad6d01c
 Description:  GL iNet base files
 
 Package: gl-base-files-x300b
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
-Installed-Size: 1214
-Filename: gl-base-files-x300b_3.0.555-1_ipq.ipk
-Size: 1915
-MD5Sum: 48761de9bc5e48ce21348d624388755e
-SHA256sum: d7d31b495f5277684f672ca06d5fe0373cd1f3841511d4fb97a9aceadd3c56f2
+Installed-Size: 1213
+Filename: gl-base-files-x300b_3.0.557-1_ipq.ipk
+Size: 1916
+MD5Sum: 592dbc9ccc2adfe991ed2aa77a54bb18
+SHA256sum: a336b7efa63a4f412c9f43009565a77af5d1368445a9139bc5a3b30e372f2df6
 Description:  GL iNet base files
 
 Package: gl-base-files
-Version: 3.0.555-1
+Version: 3.0.557-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-base-files
 Section: base
 Architecture: ipq
 Installed-Size: 62253
-Filename: gl-base-files_3.0.555-1_ipq.ipk
-Size: 63054
-MD5Sum: 65295e2c33c269c5c9a2280be0a514ee
-SHA256sum: c6905fb33a6ff0dfe391e9a9be0072a1880b504e2f00fefda6a0a5065918d305
+Filename: gl-base-files_3.0.557-1_ipq.ipk
+Size: 63052
+MD5Sum: 390fad1270dc14968535448ffbe88a2e
+SHA256sum: 0600210154259c305ed3def3c10379e4a4e75072d36b910f7807d4717b20d8e1
 Description:  GL iNet base files
 
 Package: gl-ble-api
@@ -593,16 +593,16 @@ SHA256sum: e41a9b2df7c0e40a2a8389eb22703fc1659c6e870b6ff351b57a43985b758cd5
 Description:  glinet SDK4 logread module
 
 Package: gl-sdk
-Version: 3.0.672-1
+Version: 3.0.674-1
 Depends: libc, libssp, libuuid, libpthread, libuci, libubus, libubox, libjson-c, libiwinfo, gl-util, fcgi, relayd, bridge, swconfig, gl-wan-detect, gl-wifi-core, dnscrypt-proxy
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-sdk3.0
 Section: base
 Architecture: ipq
-Installed-Size: 325367
-Filename: gl-sdk_3.0.672-1_ipq.ipk
-Size: 325207
-MD5Sum: f6721ae9fc12d4e1515ae5e19d77c363
-SHA256sum: 9120bb752969f14024b7b61de76a85844517d150dfbca0934d5882cde5c0926e
+Installed-Size: 325753
+Filename: gl-sdk_3.0.674-1_ipq.ipk
+Size: 325353
+MD5Sum: 8d93eb68a2183fb85b02f4e356cce5da
+SHA256sum: bce56ee5dc3458b64b3ac84a0cc5a52fdbf35bb6d156e45dee807f240ba18d06
 Description:  GL.iNet SDK3.0.
 
 Package: gl-siderouter
@@ -674,16 +674,16 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.838-1
+Version: 3.0.841-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 Section: base
 Architecture: ipq
-Installed-Size: 2100766
-Filename: gl-ui_3.0.838-1_ipq.ipk
-Size: 2097030
-MD5Sum: 1d9d4a80f4ecceac459d5ffc145a6c0c
-SHA256sum: ac23f0edc763f2c687e04cfc493e3d1c7638419b27e1411badca008061077b47
+Installed-Size: 2100834
+Filename: gl-ui_3.0.841-1_ipq.ipk
+Size: 2097113
+MD5Sum: 5c557016c993ee5b5c1729cc2db09ca0
+SHA256sum: ae425b38b22356bec7ee6b332e82dd0b318e728d161d359dcd903d0aaf6cc638
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -778,16 +778,16 @@ SHA256sum: a054f9d697e68447ddba0a73b1fef82d422881ca1ffc1b3bb903ea4734fcbc4a
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
-Version: 3.0.225-1
+Version: 3.0.226-1
 Depends: libc, libssp, gl-util
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wifi-core
 Section: base
 Architecture: ipq
-Installed-Size: 24717
-Filename: gl-wifi-core_3.0.225-1_ipq.ipk
-Size: 25290
-MD5Sum: 0a07714e813bd0f3cc49a0c1a6f39f01
-SHA256sum: 1d78cb528b70efd531b25a9a1e2979bd5c126a4320c4fe540fee0ba08548d36d
+Installed-Size: 24716
+Filename: gl-wifi-core_3.0.226-1_ipq.ipk
+Size: 25294
+MD5Sum: e9645cd4bffd74f5b7c8aafd310ec14d
+SHA256sum: f3da002d705bd6225da12daf869cd8a6bc48997f5541e4fdc3774fa95654fee3
 Description:  
 
 Package: gl-wifison-b2200
