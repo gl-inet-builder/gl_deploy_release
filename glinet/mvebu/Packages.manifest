@@ -578,16 +578,16 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.803-1
+Version: 3.0.804-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 SourceName: gl-ui
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 2067735
-Filename: gl-ui_3.0.803-1_aarch64_cortex-a53.ipk
-Size: 2063328
-SHA256sum: 439f946381a18b9038a953a8b86ef73b3837560e420c6fa3ee94e0f6309b1583
+Installed-Size: 2067414
+Filename: gl-ui_3.0.804-1_aarch64_cortex-a53.ipk
+Size: 2062918
+SHA256sum: a934fe62e20e6a0a8ac35eb6d686f9bb3a92cd245f62ee4e377d359d2879c790
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -656,29 +656,29 @@ SHA256sum: fa76c977f7e892d0687aa2bb592f10d6de8e1dd0fed2c72548faf50ee5370228
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 SourceName: gl-wg-server
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 17281
-Filename: gl-wg-server_3.0.98-2_aarch64_cortex-a53.ipk
+Filename: gl-wg-server_3.0.99-2_aarch64_cortex-a53.ipk
 Size: 18177
-SHA256sum: 4a5b49ebd3a7896f31165ad5098153d18a28126cb8e82906c015b8c7ca1a8d3b
+SHA256sum: ae7b157833ff0e447b0d002ff3b0979cc1163fa4cf9d982c8b6361ac4101ae4b
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 SourceName: gl-wg
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 24086
-Filename: gl-wg_3.0.98-2_aarch64_cortex-a53.ipk
-Size: 24943
-SHA256sum: 325e4b171565549ba3ca00efd9e6240b3881966a689b8bde519ac9297a61c033
+Installed-Size: 24040
+Filename: gl-wg_3.0.99-2_aarch64_cortex-a53.ipk
+Size: 24900
+SHA256sum: 4831490c3af2d74db8325cec5f00350d77fc79ccaec540b54be7d7259609c024
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

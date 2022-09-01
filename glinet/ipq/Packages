@@ -39,15 +39,15 @@ SHA256sum: 46d65a1ad68bf66acdeff76dd2564da1fb4bf1e9b97bba2561248e943aeffd02
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.850-1
+Version: 3.0.851-1
 Depends: libc, libssp
 Section: base
 Architecture: ipq
-Installed-Size: 2051148
-Filename: gl-2b-ui_3.0.850-1_ipq.ipk
-Size: 2047002
-MD5Sum: f2c989c39a741fb288ee0f2ec33963ae
-SHA256sum: 73c8f3ad9e1912a858c06a69d0a646ca107e6a526527aab847623ed25d5e4240
+Installed-Size: 2050984
+Filename: gl-2b-ui_3.0.851-1_ipq.ipk
+Size: 2047040
+MD5Sum: 927a62972e710640df29d30779c4fa91
+SHA256sum: 3cfc3d886839c5e226cad4b5d17e4b41d703017fbf144ea362be6e263044d350
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -693,27 +693,27 @@ SHA256sum: 00ff48baf6c93df7416c9b03e5b26e485ea97a552a180e01eb47ccd261db9acc
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: ipq
-Installed-Size: 17694
-Filename: gl-wg-server_3.0.98-2_ipq.ipk
-Size: 18506
-MD5Sum: a036bd4d1241c06d073e3005a6ea4782
-SHA256sum: dc30806f789e87caec26871aa2f9dc54ddbb9cbd4a8858df0568275fcd9de1da
+Installed-Size: 17695
+Filename: gl-wg-server_3.0.99-2_ipq.ipk
+Size: 18511
+MD5Sum: d31a931ec448d7ab852c56e24990bcb9
+SHA256sum: 8cf1258eb003b3dff3e6f59c77d906e7890d90acfb474d26b4351363e4f3a41a
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: ipq
-Installed-Size: 25052
-Filename: gl-wg_3.0.98-2_ipq.ipk
-Size: 25926
-MD5Sum: 3c45671d98b41608b103695317cc7d3c
-SHA256sum: c8e98c81d2e89e015dc79ab5a30724e12abcfd9580c45d9b9def6ce2b6b3c2b4
+Installed-Size: 24942
+Filename: gl-wg_3.0.99-2_ipq.ipk
+Size: 25809
+MD5Sum: 3678f0b3f5829813385e0045078c42ac
+SHA256sum: 0e1929ab126732791b8d2c71cc5f0a65ef8178a77022ddf503635e343b5da938
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

@@ -40,16 +40,16 @@ SHA256sum: 5bd54ef1af138c898edfc3548cee63a10a5d9a8ca94f7bc7285abc9c9156e309
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.850-1
+Version: 3.0.851-1
 Depends: libc
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 SourceName: gl-2b-ui
 Section: base
 Architecture: mips_24kc
-Installed-Size: 2050646
-Filename: gl-2b-ui_3.0.850-1_mips_24kc.ipk
-Size: 2046187
-SHA256sum: 79c6bc71631352ee5e0bb496f7f9798d1698fef58e03b1128fbbf12b1933f98c
+Installed-Size: 2050342
+Filename: gl-2b-ui_3.0.851-1_mips_24kc.ipk
+Size: 2045905
+SHA256sum: 076e8253fe84710930522a4669912af1532aa07d068c42718f435d20bd36560b
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -774,29 +774,29 @@ SHA256sum: f5ce713b117f75c40da1b059a4f55b0010b45d22217d3e56afaefac07786cac6
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 SourceName: gl-wg-server
 Section: base
 Architecture: mips_24kc
 Installed-Size: 16475
-Filename: gl-wg-server_3.0.98-2_mips_24kc.ipk
-Size: 17386
-SHA256sum: d3d2408dec72d20a9e7818e0d69caf9b92c74c93faf38da9bd0f5b98fa8a5400
+Filename: gl-wg-server_3.0.99-2_mips_24kc.ipk
+Size: 17381
+SHA256sum: 0690813d4cb27adbae6ef8e79057cd3d60af9acb6c6cf903365ce1f0643b19d3
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 SourceName: gl-wg
 Section: base
 Architecture: mips_24kc
-Installed-Size: 22894
-Filename: gl-wg_3.0.98-2_mips_24kc.ipk
-Size: 23774
-SHA256sum: 4da16057a5c9dae3c1a0840946db58a71efdc0c63f078b40bac2d3284d9dd17b
+Installed-Size: 22876
+Filename: gl-wg_3.0.99-2_mips_24kc.ipk
+Size: 23760
+SHA256sum: 2aa160683289d163a7af773658b01273f4cb01872877c836831380eab0f48ea9
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

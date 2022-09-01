@@ -34,14 +34,14 @@ SHA256sum: ec73e444ead0d4e43a500a94a633b1da73050b1ed149da27beb5e9809bf1447b
 Description:  2b env information manage
 
 Package: gl-2b-ui
-Version: 3.0.850-1
+Version: 3.0.851-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 2050646
-Filename: gl-2b-ui_3.0.850-1_mipsel_24kc.ipk
-Size: 2046188
-SHA256sum: 3bb9f9aa647a299eb870bdb712b2830dcc043e56035c8441229477eb717cd186
+Installed-Size: 2050342
+Filename: gl-2b-ui_3.0.851-1_mipsel_24kc.ipk
+Size: 2045910
+SHA256sum: 3b1cd114578a88df963a846bf1f6ab9d72ea4e8945b8cc1daa9c6054c9f0c0b0
 Description:  GL iNet web UI
 
 Package: gl-agh-stats
@@ -613,25 +613,25 @@ SHA256sum: 36ed6fb0928982a45faa66e66bed86b725f51bfcc74e792b4e591c33d7420eff
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 16347
-Filename: gl-wg-server_3.0.98-2_mipsel_24kc.ipk
-Size: 17212
-SHA256sum: f8625547c13cc06050ca2adec395e11c9000d89939e795209388f005b0a01228
+Filename: gl-wg-server_3.0.99-2_mipsel_24kc.ipk
+Size: 17210
+SHA256sum: 4361a68d51601279a133826608da72d8b039b48f53361d0c40009e40928abbec
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 22751
-Filename: gl-wg_3.0.98-2_mipsel_24kc.ipk
-Size: 23635
-SHA256sum: d4cfe747377925ab7f03560d8cff3e6a94b3629e4e3aeade563b3ca03044d90a
+Installed-Size: 22718
+Filename: gl-wg_3.0.99-2_mipsel_24kc.ipk
+Size: 23605
+SHA256sum: 4608399a4ad8dc22ba9a9f468120ef47ad6533f10e379ec5f220c1e6f6b169e7
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

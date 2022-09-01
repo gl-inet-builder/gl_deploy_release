@@ -534,27 +534,27 @@ SHA256sum: 62adda0c8fc0712e12dae4e8154163e02887201bc42f0bff0fa49e31e782c16b
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 Section: base
 Architecture: mips_siflower
 Installed-Size: 17545
-Filename: gl-wg-server_3.0.98-2_mips_siflower.ipk
-Size: 18420
-SHA256sum: a348835b926850c746fa8c38bdd1f18d8ad8ba85e2b33f9573f57774a0e592ec
+Filename: gl-wg-server_3.0.99-2_mips_siflower.ipk
+Size: 18418
+SHA256sum: adfe56354b9adecf5e13251ac16cb7f8cd2fa3e8e4fb33d2cfca3f1e086eb8ac
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.98-2
+Version: 3.0.99-2
 Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 Section: base
 Architecture: mips_siflower
-Installed-Size: 24069
-Filename: gl-wg_3.0.98-2_mips_siflower.ipk
-Size: 24901
-SHA256sum: 01c2ecdfa2e30cf63ec2210491a32b8162f50471801f31595069a82a0e368c49
+Installed-Size: 24007
+Filename: gl-wg_3.0.99-2_mips_siflower.ipk
+Size: 24840
+SHA256sum: 2f3f63de4289e392e1dee339a8d932483a63191fc154af0184cfad5cadd873a6
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
