@@ -424,14 +424,14 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.841-1
+Version: 3.0.842-1
 Depends: libc
 Section: base
 Architecture: mips_siflower
-Installed-Size: 2094763
-Filename: gl-ui_3.0.841-1_mips_siflower.ipk
-Size: 2089991
-SHA256sum: 363059ed9ee98ebc1de3e221950b3db6bf91c6f913300572bf45503d7ce3e7c5
+Installed-Size: 2094467
+Filename: gl-ui_3.0.842-1_mips_siflower.ipk
+Size: 2089744
+SHA256sum: 6b3568075809fcd343e00a586603b79e393e85bd8b265eb8e54a634e92655d47
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -490,25 +490,25 @@ SHA256sum: 62adda0c8fc0712e12dae4e8154163e02887201bc42f0bff0fa49e31e782c16b
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: mips_siflower
 Installed-Size: 17545
-Filename: gl-wg-server_3.0.97-2_mips_siflower.ipk
-Size: 18418
-SHA256sum: 61d39ecbab7ea264fbf7a6336eb96341b3c9fb908bd38d698312176214b5cbf8
+Filename: gl-wg-server_3.0.98-2_mips_siflower.ipk
+Size: 18420
+SHA256sum: a348835b926850c746fa8c38bdd1f18d8ad8ba85e2b33f9573f57774a0e592ec
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: mips_siflower
-Installed-Size: 24177
-Filename: gl-wg_3.0.97-2_mips_siflower.ipk
-Size: 25007
-SHA256sum: 214417be4d0cc510c54886c8652344aeb443f9f3157622df5c3c33ed4ac74953
+Installed-Size: 24069
+Filename: gl-wg_3.0.98-2_mips_siflower.ipk
+Size: 24901
+SHA256sum: 01c2ecdfa2e30cf63ec2210491a32b8162f50471801f31595069a82a0e368c49
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

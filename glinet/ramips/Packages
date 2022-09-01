@@ -547,14 +547,14 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.841-1
+Version: 3.0.842-1
 Depends: libc
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 2095579
-Filename: gl-ui_3.0.841-1_mipsel_24kc.ipk
-Size: 2091114
-SHA256sum: d0fd7871d870923e9767ebc22c990699b2708033aa9c97be4e282642fc7dbea8
+Installed-Size: 2095291
+Filename: gl-ui_3.0.842-1_mipsel_24kc.ipk
+Size: 2090760
+SHA256sum: ce9d19463e69774d084aa98320c7e8805e62bfd30b5d227654974276e53bf58e
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -613,25 +613,25 @@ SHA256sum: 36ed6fb0928982a45faa66e66bed86b725f51bfcc74e792b4e591c33d7420eff
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: mipsel_24kc
 Installed-Size: 16347
-Filename: gl-wg-server_3.0.97-2_mipsel_24kc.ipk
-Size: 17211
-SHA256sum: b300b0a030f0821702bd216685e555e3582b3bf704f57be193526b5731bf9c2f
+Filename: gl-wg-server_3.0.98-2_mipsel_24kc.ipk
+Size: 17212
+SHA256sum: f8625547c13cc06050ca2adec395e11c9000d89939e795209388f005b0a01228
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: mipsel_24kc
-Installed-Size: 22889
-Filename: gl-wg_3.0.97-2_mipsel_24kc.ipk
-Size: 23776
-SHA256sum: f68cca0e05a9bea43296dd77d0c65383b2f5cc1df901872042ed418bc8b390f5
+Installed-Size: 22751
+Filename: gl-wg_3.0.98-2_mipsel_24kc.ipk
+Size: 23635
+SHA256sum: d4cfe747377925ab7f03560d8cff3e6a94b3629e4e3aeade563b3ca03044d90a
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

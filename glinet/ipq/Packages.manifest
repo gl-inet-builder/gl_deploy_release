@@ -674,16 +674,16 @@ Description:  iftop does for network usage what top(1) does for CPU usage. It
  answering the question 'why is our ADSL link so slow?'.
 
 Package: gl-ui
-Version: 3.0.841-1
+Version: 3.0.842-1
 Depends: libc, libssp
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-ui3.0
 Section: base
 Architecture: ipq
-Installed-Size: 2100834
-Filename: gl-ui_3.0.841-1_ipq.ipk
-Size: 2097113
-MD5Sum: 5c557016c993ee5b5c1729cc2db09ca0
-SHA256sum: ae425b38b22356bec7ee6b332e82dd0b318e728d161d359dcd903d0aaf6cc638
+Installed-Size: 2100396
+Filename: gl-ui_3.0.842-1_ipq.ipk
+Size: 2096330
+MD5Sum: 6a03b67b5769fdfa6b32d03126edaeb7
+SHA256sum: a4e5e2e42fe6189a000efcfc79f226becf9558c3fc90f60fd003ce80f61a9c0d
 Description:  GL iNet web UI
 
 Package: gl-upload
@@ -752,29 +752,29 @@ SHA256sum: 00ff48baf6c93df7416c9b03e5b26e485ea97a552a180e01eb47ccd261db9acc
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 Section: base
 Architecture: ipq
-Installed-Size: 17692
-Filename: gl-wg-server_3.0.97-2_ipq.ipk
-Size: 18500
-MD5Sum: d58fb8a0ca597a2ec9e559380102ec90
-SHA256sum: 14f0f4c5d66cc9bcba703c401634800c0f306df62acb780968d5d85ce1648de6
+Installed-Size: 17694
+Filename: gl-wg-server_3.0.98-2_ipq.ipk
+Size: 18506
+MD5Sum: a036bd4d1241c06d073e3005a6ea4782
+SHA256sum: dc30806f789e87caec26871aa2f9dc54ddbb9cbd4a8858df0568275fcd9de1da
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libssp, libjson-c, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Source: /home/glinet/builds/uLXb__Vh/0/gl.router/gl-wg
 Section: base
 Architecture: ipq
-Installed-Size: 25141
-Filename: gl-wg_3.0.97-2_ipq.ipk
-Size: 25938
-MD5Sum: 0bb942d108803e9e7c11901b4ebabe14
-SHA256sum: a054f9d697e68447ddba0a73b1fef82d422881ca1ffc1b3bb903ea4734fcbc4a
+Installed-Size: 25052
+Filename: gl-wg_3.0.98-2_ipq.ipk
+Size: 25926
+MD5Sum: 3c45671d98b41608b103695317cc7d3c
+SHA256sum: c8e98c81d2e89e015dc79ab5a30724e12abcfd9580c45d9b9def6ce2b6b3c2b4
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core

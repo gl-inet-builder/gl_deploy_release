@@ -556,25 +556,25 @@ SHA256sum: fa76c977f7e892d0687aa2bb592f10d6de8e1dd0fed2c72548faf50ee5370228
 Description:  GL Auto Detect Wan Type
 
 Package: gl-wg-server
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: aarch64_cortex-a53
 Installed-Size: 17281
-Filename: gl-wg-server_3.0.97-2_aarch64_cortex-a53.ipk
-Size: 18176
-SHA256sum: 63f1ba7ecb7a8f1d37e2b276cfa69c34a6f774055e74564a46f9e1fd06fbd473
+Filename: gl-wg-server_3.0.98-2_aarch64_cortex-a53.ipk
+Size: 18177
+SHA256sum: 4a5b49ebd3a7896f31165ad5098153d18a28126cb8e82906c015b8c7ca1a8d3b
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wg
-Version: 3.0.97-2
+Version: 3.0.98-2
 Depends: libc, libjson-c2, gl-util, wireguard, resolveip, curl, ca-bundle, ca-certificates
 Section: base
 Architecture: aarch64_cortex-a53
-Installed-Size: 24253
-Filename: gl-wg_3.0.97-2_aarch64_cortex-a53.ipk
-Size: 25112
-SHA256sum: 89fe1242cd4b069137867c159ea043ba7070bb5944a5111b223ae4ca81cdae84
+Installed-Size: 24086
+Filename: gl-wg_3.0.98-2_aarch64_cortex-a53.ipk
+Size: 24943
+SHA256sum: 325e4b171565549ba3ca00efd9e6240b3881966a689b8bde519ac9297a61c033
 Description:  wireguard endpoint api for gl-inet.
 
 Package: gl-wifi-core
